@@ -1,0 +1,3452 @@
+ai.italia.it
+#AItaskforce
+
+ARTIFICIAL
+INTELLIGENCE
+
+at the service of citizens
+
+White Paper on Artificial Intelligence at the service of citizens
+
+By the Task Force on Artificial Intelligence of the Agency for Digital Italy
+
+Version 1.0 March 2018
+
+ai.italia.it
+
+  Coordination Board
+
+Benedetta Arese Lucini, Giuseppe Attardi, Ernesto Belisario, Marco Bicocchi Pichi, Barbara  Caputo,  Antonella  Cascitelli,  
+Maria  Chiara  Carrozza,  Lorenza  Ciprandi,  Juan  Carlos  De  Martin,  Fernanda  Faini, Roberto  Fini,  Luigi  Fiorentino,  
+Emilia  Garito,  Fabio  Gasparetti,  Claudio  Grego,  Salvatore  Iaconesi,  Sandro  Marco  Incerti, Domenico  Marino,  Paolo  
+Merialdo,  Alessandro  Micarelli,  Alessandro  Nasini,  Manuela  Pizzagalli,  Eugenio  Prosperetti, Stefano  Quintarelli,  
+
+Riccardo  Torlone,  Barbara  Ubaldi,  Giuseppe  Vaciago,  Enrico  Verga,  Guido  Vetere,  Alessandro  Vitale
+
+Agency for Digital Italy and Department for Public Administration
+
+Antonio Samaritani, Marco Bani, Pia Marconi
+
+ 
+
+Giuseppe Ariano, Claudio Biancalana, Michela Calanna, Patrizio Caligiuri, Alessandro Casacchia, Concettina Cassa, Manuel 
+Ciocci,  Francesca  Cocomero,  Angela  Creta,  Daniela  De  Blasis,  Mauro  Draoli,  Marta  Falzone,  Valeria  Favasuli,  Sergio 
+Gambacorta, Flavia Gamberale, Jacopo Gandin, Glenda Gentili, Francesca Grande, Elio Gullo, Enzo Maria Le Fevre, Giulio 
+Lepri, Giuseppe Mancinelli, Elisa Petrucci, Davide Porrovecchio, Umberto Rosini, Luca Ruggeri, Erica Sirgiovanni, Matteo Trapani
+
+and Zanzabot
+
+We wish to thank
+
+Egidio Falorico, Fabio Fossa, Riccardo Piselli, Gianluca Podda, Matteo Testi, Lorenzo Vannucci
+
+or the technical contribution to the drafting of the White Paper draft
+
+We also wish to thank
+
+We also wish to thank Nexa Center for Internet and Sociey at Politecnico di Torino and
+
+in particular Antonio Santangelo for their collaboration in drafting the White Paper
+
+Associazione AI*IA and FormezPA for supporting the Task Force
+
+Meet the Media Guru for the organization of the launch event of the White Paper
+
+The text is available according to the license Creative Commons Attribution 4.0
+
+(https://creativecommons.org/licenses/by/4.0/deed.it)
+
+Graphics and layout: Alessandro Burigana
+
+Cover image: agsandrew/istockphoto
+
+GOVERNANCE
+E CAPACITË
+ISTITUZIONALE
+2014-2020
+
+Contents
+
+Making the most of artificial intelligence in Italy and Europe
+A new common culture for the innovation of public services 
+For those who do not have time: Summary of the White Paper 
+
+ITALY AND DIGITAL SERVICES
+Introduction 
+An overview of digital government in Italy
+The Italian digital strategy
+Project sheets of the three-year plan
+
+ARTIFICIAL INTELLIGENCE TODAY
+The main application areas
+The potential of AI in Public Administration
+Hypothetical scenario 
+
+THE CHALLENGES OF AI AT THE SERVICE OF CITIZENS
+Challenge 1: Ethics
+Challenge 2: Technology
+Challenge 3: Skills
+Challenge 4: Role of data
+Challenge 5: Legal context
+Challenge 6: Accompanying the transformation
+Challenge 7: Preventing inequalities
+Challenge 8: Measuring the impact
+Challenge 9: The human being
+
+RECOMMENDATIONS 
+And now? The first steps for an AI-ready PA
+
+APPENDIX 
+Summary of technical terms
+Bibliography
+
+P. 04
+P. 05
+P. 06
+
+P. 11
+P. 12
+P. 13
+P. 15
+P. 17
+
+P. 20 
+P. 24
+P. 27
+P. 30
+
+P. 32
+P. 34
+P. 38
+P. 44
+P. 48
+P. 51
+P. 53
+P. 58
+P. 62
+P. 65
+
+P. 68
+P. 71
+
+P. 74
+P. 75
+P. 77
+
+Making the most of artificial intelligence in Italy and Europe
+
+Artificial Intelligence, or AI, is one of the most promising technologies of our times - from 
+saving lives to online shopping predictions and raising crop productivity.
+That  is  not  an  exaggeration:  AI  can  already  help  doctors  to  identify  cancers  and  other 
+diseases, thereby prolonging human life.
+In the future, it could be used to predict and locate earthquakes. Italian startups already 
+provide AI-based services, such as detecting transaction fraud.
+AI stands to benefit society as a whole, across all sectors, for people going about their 
+everyday lives as much as for business. 
+That also applies to government and public administrations: the focus of this White Paper 
+published by the Agency for Digital Italy.
+It identifies some main areas where AI can help – in health, education and judiciary systems; 
+in public employment and security.
+The  Agency’s  paper  takes  a  welcome  look  at  how  governments,  public  agencies  and 
+administrations can best use AI technologies to serve both people and business, to raise 
+the efficiency of public services as well as user satisfaction.
+Much of what AI can achieve in public administration chimes with the European Commission’s 
+promotion  of  e-government  and  digitised  public  services  as  part  of  building  the  Digital 
+Single Market:
+
+- saving time and public money, providing better public services.
+- joining them up across borders, raising efficiency and improving transparency.
+- bringing people closer to their governments; involving them more in decision-making.
+
+Developing and promoting AI will be very much a European, not just a national project.
+It is an opportunity that Europe, collectively, should not hesitate to grasp firmly.
+To that end, we will need an open and inclusive debate that involves all our countries on how 
+best to use these new technologies: how to respect fundamental rights such as privacy, 
+liberty, security and non-discrimination.
+This paper already shows how Italy’s efforts in AI are a good example for other countries to 
+emulate – and how they can help in Europe’s broader reflections on the way ahead.
+
+4
+
+Andrus Ansip
+
+Vice-President of the European Commission for 
+
+the Digital Single Market
+
+5
+
+A new common culture for the innovation of public services 
+ 
+Artificial Intelligence will redesign our lives. Our daily lives of human beings, citizens, workers, 
+parents, and children are changing before everyone’s eyes. Indeed, we can be sure that 
+our customs will soon be reshaped consequently generating social changes that require 
+an individual and collective reflection and in some cases, perhaps, even an upset reflection.
+Technology is neutral in itself but it is not so in its application and it is even less neutral for 
+those who, working on the development of societies, often find themselves deciding what 
+is right or wrong or, in a given context, what is the best good or the least harm.
+The  spirit  with  which  the  Agency  for  Digital  Italy  has  undertaken  this  commitment  is 
+summarized in these few lines.
+The aim of the pages that will follow the preface of this White Paper is the study, analysis, 
+and the  understanding of the opportunities and risks generated by the dissemination of 
+Artificial  Intelligence  technologies  in  the  public  sector:  hence,  the  definition  of  a  shared 
+perimeter within which to face all the challenges that this brings. 
+This document marks the beginning of a journey that the Italian Public Administration has 
+already started: in recent months, we have created a community with which we have worked 
+to draw the working lines that could help us define the approach to Artificial Intelligence in 
+Public Administration that we will undertake to transform into the operational steps as of 
+today.
+However, it is at the end of this first phase of study, analysis, and comparison that I am further 
+confident that, never as in this case, a platform that connects the public administration to 
+the markets was extremely needed to have a frame value. Having clear ideas on the model 
+of  technological  development  and  with  a  vision  capable  of  contrasting  the  apocalyptic, 
+exclusionary and non-governed scenarios.
+A reflection that, in addition to being the leitmotif of the White Paper, moves from the 
+clear awareness that public administration needs - for the sake of its decisions - to be 
+competitive on these issues, without hiding. Today, more than ever, those who understand 
+and govern the phenomena that surround it continue in the path of innovation; those who 
+are affected will lose ground.
+This  is  why  the  work  just  begun  becomes  a  prerequisite  to  face  the  use  of  frontier 
+technologies that allow the administration to capitalize on the innovation introduced by the 
+infrastructural projects already underway and, starting from them, allows organizing the 
+model of development of its future projects.
+The  recommendations  published  in  this  document  are  aimed  to  become  design  criteria 
+for  new  services  and    methodological  assets  to  guide  the  creation  and  development  of 
+pilot projects. In addition, the recommendation will also serve for the innovative result of 
+the technologies that will be implemented and for the common value approach. Only by 
+following this path we will succeed in relating the benefits of Artificial Intelligence in the 
+daily “practice” of citizens.
+
+Antonio Samaritani
+
+Director General of the Agency for Digital Italy
+
+For those who do not have time:
+Summary of the White Paper 
+
+6
+
+This White Paper  aims at analysing the impact of Artificial Intelligence (AI) in our society and, 
+more specifically, in the Public Administration, in order to promote digital transformation. It 
+is the result of the work of the Agency for Digital Italy and with a task force of experts.
+The  objective  is  to  facilitate  the  adoption  of  these  technologies  in  the  Italian  Public 
+Administration,  to  improve  services  to  citizens  and  businesses,  thus  giving  a  decisive 
+impulse  to  innovation,  the  proper  functioning  of  the  economy  and,  more  generally,  to 
+progress in daily life.
+
+Today, Artificial Intelligence can drive vehicles, take care of elderly or sick people, perform 
+dangerous  or  weary  jobs  and  help  make  informed  decisions  based  on  the  rational 
+management of large amounts of data. Also, AI can enable us to communicate in languages 
+we do not know, help us study and increase the cultural or entertainment experiences at our 
+disposal. In the Public Administration, it can be used profitably in the healthcare, education 
+and judiciary systems, public employment, security and, more broadly, in the management 
+of relations with citizens, which can be simplified and at the same time be more effective, 
+quick, and efficient.
+
+As prerequisite to achieve these objectives is necessary to define “Artificial Intelligence”, 
+from both a theoretical and a technical point of view. This serves to understand opportunities 
+and limits of these technologies, as well identify their most effective areas of application. 
+The White Paper focuses on tools that can have positive effects on the work of the Public 
+Administration, such as the use of chatbots to answer citizens’ queries and cut through 
+layers of bureaucracy, or the use of robots to take care of the sick, algorithms that can read 
+results of medical exams and these that support the preparation of educational path of 
+students in order to improve their performance. Particular emphasis is placed on the means 
+for monitoring and managing careers, those for the surveillance of public places or for the 
+recognition of network threats, as well on tools for the rational management of problems 
+generated by natural disasters.
+
+The successful implementation of these technologies in public services requires the public 
+sector to evaluate the critical challenges that must be faced to integrate Artificial Intelligence 
+in a profitable way. 
+
+The first challenge is the Ethical challenge,  which remains central to any consideration 
+in this field. There is a need to strongly affirm the anthropocentric principle stating that 
+Artificial Intelligence is always at the service of the citizen and not vice versa.
+
+Executive summary
+
+Moreover, it is necessary to formulate general principles of equity with the aim of using 
+these  new  technologies  to  address  some  universal  needs  such  as  to  respect  freedom, 
+and to guarantee individual and collective rights. More specifically, in the field of ethics, 
+the functioning of Artificial Intelligence raises some issues, i.e. those related to the quality 
+and neutrality of data, the responsibility of those who use algorithms, transparency and 
+accountability, as well as protection of privacy.
+
+The aim is to demonstrate how the incorrect use of the technologies at our disposal can 
+contribute  to  the  development  of  a  more  unjust  society  that  fuels  inequalities,  while 
+awareness  of  the  risks  involved  in  relying  on  “smart”  machines  can  help  us  minimize 
+inequalities and plan a better world.
+
+The second challenge that is addressed is the technological one: Artificial Intelligence is 
+not yet able to reproduce the complex functioning of the human mind, but only some of 
+its  circumscribed  capacities.  Therefore,  one  of  the  goals  is  to  make  existing  and  future 
+technologies more similar to our way of relating to the world.
+In the short term, the priority is to work on personalization and adaptivity to ensure that 
+data and algorithms at our disposal can be increasingly more effective in allowing us to 
+operate individually in some specific areas of our daily life. For the purpose of this White 
+Paper, the focus is on rendering more effective the work of the Public Administration (in 
+addition to the sectors mentioned above: tax, mobility and transport).
+
+The document then analyzes the fundamental issue of skills that must be developed in 
+the age of Artificial Intelligence. The issue is addressed from both the citizens’ and the civil 
+servants’ points of view. Citizens in general, and primarily those who would like to operate 
+in the IT sector, need to understand how algorithms and databases that are used by the 
+Public Administration, civil servants need to constantly ameliorate their skills.
+
+However, even for those who want to engage in other sectors, it will be necessary to know 
+how to act in contexts that will increasingly assign to machines tasks that were previously 
+performed  by  people  (typically,  the  simplest  and  most  repetitive  ones).  This  challenge 
+underlines  the  importance  of  understanding  how  to  relate  with  machines  and  coexist 
+with them in a world that is always more populated by technology. The State bears the 
+responsibility to respond to these needs by both shaping an education system able to keep 
+up with these changes and encouraging lifelong learning.
+However, in order to achieve these goals, civil servants and people employed in the public 
+sector must be properly trained. They will face the need to understand what are the Artificial 
+Intelligence tools they need to integrate into their work processes and which ones they can 
+use with citizens. In this sense, a properly trained Public Administration can become a real 
+propeller of innovation.
+
+7
+
+Executive summary
+
+The fourth challenge is related to data which are the fuel of Artificial Intelligence.
+First of all, these must be of good quality, exempt as much as possible from biases produced 
+by humans. Biased data can easily influence algorithms. This is why is critical to secure a 
+right organizational methodology and create the best conditions in the contexts in which 
+the data is produced. This is also true for data collected by IoT devices and sensors that are 
+fragmented, heterogeneous and not highly interoperable, despite being connected to one 
+another.
+
+Furthermore,  there  is  the  so-called  linked  open  data  of  public  bodies,  a  real  mine  of 
+information that would be very useful to generate applications of Artificial Intelligence at 
+the service of the citizens. However, they must first be retrieved and filtered by means 
+of semantic technologies and shared ontologies. Lastly, precisely for this kind of data, we 
+highlight the need to ensure equal and non-discriminatory access to anyone wishing to use 
+it.
+
+The  fifth  challenge  is  the  legal  one.  As  always,  when  it  comes  to  how  to  regulate  the 
+activity of the public administration, it is focused on the balance between the interests of 
+the community and those of the individual. In the field of Artificial Intelligence is necessary 
+to  reconcile  the  principle  of  transparency  of  administrative  acts  and  procedures  or  the 
+protection of personal data with the right to privacy. A second issue that the public sector 
+has to face is the relationship between the necessity of guaranteeing transparency in the 
+context  of  algorithmic  decision  making  and  protecting  the  copyright  of  the  creators  of 
+the algorithms. Moreover, in the event that the public administration uses programs that 
+help the decision-making process, or programs able to take autonomous decisions, it is 
+necessary to face the issue of accountability.
+The White Paper addresses all these issues and provides some technical solutions that are 
+also included in the European Regulation on the protection of personal data (GDPR), which 
+will become effective in all EU countries on May 25th 2018. In general, the principles to be 
+followed are: the transparency of algorithms and related databases, the definition of the 
+connected responsibilities of users and the need to prevent that the use of data in the Public 
+Administration generates a pervasive social control, in contrast with the fundamental rights 
+of the citizen.
+
+The sixth challenge falls directly under the responsibility of the Public Administration as it 
+is linked to the adoption of AI technology in the public sector, for instance to improve the 
+relationship between the State, citizens and businesses. As anticipated in the third challenge, 
+the White Paper underlines the importance of training public employees, particularly officials 
+and managers, on the functioning, benefits, as well as ethical and technical implications on 
+the use of AI technologies in the public sector.
+
+8
+
+Executive summary
+
+The basic principle is that Artificial Intelligence should support people and help them carry 
+out their activities, without replacing them. 
+
+This last point anticipates the theme of the seventh challenge: preventing inequalities.
+Indeed, Artificial Intelligence solutions must be accessible to everyone and it must be of 
+simple and immediate use.
+This kind of technology can reduce social inequalities in the field of education and training, 
+health and disability, knowledge and human rights. However, Artificial Intelligence can also 
+increase inequalities, if the data it feeds on or the algorithms that make it up are affected 
+by discriminatory bias.
+Therefore,  the  Public  Administration  must  pay  great  attention  to  the  development  of 
+inclusive, accessible, transparent, not discriminatory and free from bias solutions.
+
+In order to verify the actual benefits deriving from the use of Artificial Intelligence in the
+Public Administration, the eighth challenge is connected to the measurement of the impact 
+of AI technology. Once again, the challenge is presented from the point of view of 
+both citizens and institutions. In the first case, the focus is on improving people’s quality of 
+life and customer satisfaction; in the second case, on rendering the organizational processes 
+more efficient and effective.
+In  this  section,  emphasis  is  placed  on  the  necessity  to  conduct  both  multidisciplinary 
+quantitative  and  qualitative  research.  Indeed,  the  impact  of  technology  on  citizens  and 
+institutions has different facets, including economic, technical, social, cultural, psychological 
+and  anthropological  factors.  These  variables  are  not  always  measured  by  the  Public 
+Administration,  however,  the  introduction  of  Artificial  intelligence  in  the  public  sector  is 
+such a sensitive issue that requires an attentive impact assessment. 
+
+The last challenge, the human being, is linked to the development of a discourse around 
+Artificial Intelligence. Indeed, citizens and Institutions should be aware of the significant 
+importance of these tools. To this end, experiments are proposed in the fields of design, 
+arts,  psychology,  anthropology  and  sociology  that  can  close  the  gap  between  research, 
+industry, and society.
+Artificial Intelligence represents simultaneously a technological and a social innovation that 
+can radically transform our world.
+
+Taking this into consideration, the White Paper includes a set of recommendations drafted 
+by the Agency for Digital Italy, the Task Force and a community of more than 500 experts 
+and citizens. The objective is to share the recommendations with the readers in order to 
+raise  a  long  lasting  discussion  that  should  accompany  the  processes  of  development, 
+modernization and improvement of the State and our society.
+
+9
+
+Executive summary
+
+10
+
+Eudaimonia (gr. εὐδαιμονία,  lett. “being in the company of a good demon”), as illustrated by 
+Aristotle, defines human well-being as the highest virtue for a society. Eudaimonia can also 
+mean  “prosperity”,  as  it  denotes  an  overall  condition  of  well-being  in  which  human  beings 
+perceive their benefits starting from the conscious contemplation of ethical considerations that 
+help us define how we wish to live.
+Whether our ethical substratum is Western (Aristotelian, Kantian), Oriental (Shinto, Confucian), 
+African  (ubuntu)  or  attributable  to  any  other  tradition,  creating  autonomous  and  intelligent 
+systems that explicitly respect the inalienable human rights and cultural values of users, it is 
+possible to give priority to the improvement of human well-being as a parameter for progress in 
+the “algorithmic age”. Recognizing the potential of a holistic approach, prosperity should in this 
+way become more important than the pursuit of one-dimensional objectives such as increased 
+productivity or a country’s GDP growth.
+
+Source: The IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems_, 2017, IEEE - Institute of Electrical 
+and Electronics Engineers
+Ref. (https://standards.ieee.org/develop/indconn/ec/ead_executive_summary_v2.pdf)
+
+Italy and digital services
+
+The measure of intelligence is the ability to change
+Albert Einstein 
+
+Introduction
+
+Italy and digital services
+
+It takes something more than intelligence to 
+act intelligently.
+(Fëdor Dostoevskij)
+
+The aim of this White Paper is to analyse the impact of Artificial Intelligence (AI) on our 
+society and, specifically, how these technologies can be used by Public Administration (PA) 
+to improve services for citizens and businesses. All of this is part of a broader scenario 
+of reflection on the policies to be implemented to facilitate the digital transformation, the 
+engine of social, the economic and the cultural development.
+To accelerate this transformation process, it is possible to draw inspiration from international 
+experiences that have brought tangible results: Italy must excel in the search for innovative 
+strategies, perhaps able to feed on the historical, cultural and social wealth of the country 
+and the Mediterranean, and at the same time, succeed in seizing the best that has emerged 
+from the strategies of those countries that were the first in making the evolution of public 
+information technology the lever for transition to a new global structure of the economy 
+and society.
+
+12
+
+THE KEY WORDS OF DIGITAL TRANSFORMATION
+
+CONNECTIVITY
+
+DIGITAL PUBLIC 
+SERVICES
+
+HUMAN CAPITAL
+
+Ref. DESI 2017
+
+DIGITAL TECHNOLOGY
+
+USE OF INTERNET
+
+European average
+Italy
+
+It  is  therefore  necessary  to  support  the  country’s  innovation  forces  in  order  to  obtain 
+increasingly competitive models and to initiate a radical change in the relationship between 
+citizens, administrations and the market. The ultimate goal of this process is the creation of 
+modern, easy to use, accessible and high-quality public services therefore oriented, to the 
+understanding of users’ needs thus, allowing the level of citizen satisfaction and trust in the 
+institutions to be increased.
+The document intends to outline the development prospects of digital public services and 
+the challenges that the country will have to face to implement and use the new technologies 
+while respecting ethics and laws, putting the citizen at the centre of this evolutionary path.
+
+An overview of digital government in 
+Italy
+
+Italy and digital services
+
+Before describing the state of the art and the future prospects of Artificial Intelligence in 
+our society and in Public Administration, it may be useful to analyse what is happening in 
+the field of digital transformation in the public sector, in order to understand the current 
+situation and imagine how AI can create synergies with the process of digitising the country.
+
+According to data reported in the last Report of the Organization for Economic 
+Cooperation and Development (OECD) on Digital Transformation1, our country is 
+in 5th place worldwide for the production of the most cited scientific documents 
+on  machine  learning  after  the  United  States,  China,  India  and  Great  Britain 
+(science, innovation and digital revolution). 
+Also in the same Report (section on growth, work and digital transformation), 
+2015 data on the dissemination of industrial robots show that Italy is among the 
+leading economies in Europe (behind Germany, Czech Republic, Slovak Republic 
+and Slovenia) in terms of use of robots (ex. number of robots compared to the 
+value added in manufacturing), while showing indices equal to 1/3 compared to 
+those of the world leader (South Korea). 
+
+13
+
+As the Digital Economy and Society Index - DESI 20172, Italy is growing, but there is still a 
+gap between the supply of digital services and their actual use. Our country has nevertheless 
+made  progress  on  connectivity,  a  basic  condition  to  allow  the  development  of  a  digital 
+ecosystem, thanks also to the Ultra Broadband Plan3.
+According to the data of the Annual Report of the Authority for Communications Guarantees 
+(AGCOM),  at  present  90.7%  of  families  with  at  least  one  minor  have  a  fixed  and  mobile 
+broadband connection, a figure that stops at 20.7% for families with members aged over 65. 
+At the same time, 91.6% of households with at least one graduate member have a broadband 
+connection, a figure that falls to 55.3% for families in which the highest education is junior 
+high school. 
+
+90,7% 90.7% BROADBAND 
+
+CONNECTION IN FAMILIES 
+WITH AT LEAST ONE MINOR
+
+91,6% BROADBAND CONNECTION IN 
+
+FAMILIES WITH AT LEAST ONE 
+GRADUATE
+
+1 OECD Science, Technology and Industry Scoreboard 2017, Ref. Highlights relativi alla Digital Transformation in Italia: https://www.oecd.org/italy/sti-scoreboard-2017-italy.pdf. 
+2 Ref. https://ec.europa.eu/digital-single-market/en/desi. 
+3 Ref. bandaultralarga.italia.it.
+
+Italy and digital services
+
+This, once again, highlights the centrality of demand, and not just supply, in stimulating the 
+dissemination of internet-based technologies in Italy.
+
+Confirming the importance of the “demand factor” are data on the Italian dynamism of start-
+ups and innovative small and medium-sized enterprises (SMEs). In our country, according 
+to a census updated to 20174, they are about 8,000, twice the number compared to 2015, 
+employing 46,107 people, including shareholders and employees. 
+
+The digital market is growing and the ICT sector is undergoing a development phase thanks 
+to the increase in investments: in 2016, it grew by 1.8% to reach Euro 66 billion in turnover5. 
+As  too  is  the  demand  for  high-level  digital  skills,  in  a  context  in  which  only  29%  of  the 
+workforce possesses them compared to the EU average of 37%6.
+
+As for digital public services, as the DESI again confirms, Italy is positioned at the top of the 
+ranking in terms of quantitative supply but has low percentages of use by the population. 
+
+14
+
+THE DIGITAL MARKET IN ITALY
+
+INNOVATIVE START-UPS 
+AND SMES
+
+8.000
+
+46.107
+
+PEOPLE EMPLOYED
+
+TURNOVER
+
+66 MLD
+
+29%
+
+WORKERS WITH 
+DIGITAL SKILLS
+
+Source: “Annual Report to the Parliament Start-ups and innovative SMEs” Mise, 2017 and “Digital in Italy: markets, dynamics, policy 2017” Assinform, 2017
+
+Also  Eurostat  partly  confirms  this  fact:  a  more  streamlined  relationship  with  the  Public 
+Administration7, when this is made possible, the tools made available are used by only 13% 
+of citizens compared to a European average of 30%8.
+
+4 Ref. Annual Report to Parliament on the state of implementation and the impact of policies in support of Start-ups and Innovative SMEs”, Mise, 2017.
+5 Ref. “Digital in Italy: markets, dynamics, policy 2017”, Assinform, 2017.
+6 Ref. note 1.
+7 Ref. “E-Government benchmark 2017”, European Commission, 2017.
+8 Ref. http://ec.europa.eu/eurostat/web/digital-economy-and-society/data/main-tables.
+
+The Italian digital strategy
+
+Italy and digital services
+
+In the context of the European Digital Agenda9, Italy has developed its national strategy by 
+converting the EU objectives into initiatives aimed at the digital transformation of public 
+administration10. In so doing, the interventions in the public sector become the driving force 
+for business development and the growth of citizens’ skills. The 2014-2020 strategy of 
+the Digital Agenda has therefore become a veritable tool to pursue the great objectives of 
+growth, employment, quality of life and democratic participation.
+
+But the challenges of digital transformation have changed quickly: Internet of Things (IoT), 
+big data analytics, Artificial Intelligence and Blockchain are the vectors through which the 
+new digital economy moves.
+
+15
+
+FROM DIGITAL AGENDA TO THREE-YEAR PLAN
+
+Y
+T
+I
+R
+U
+C
+E
+S
+R
+E
+B
+Y
+C
+
+ECOSISTEMI
+
+INFRASTRUTTURE
+
+IMMATERIALI
+
+INFRASTRUTTURE
+
+FISICHE
+
+M
+O
+N
+I
+T
+O
+R
+A
+G
+G
+O
+
+I
+
+THE STRATEGY APPROVED BY 
+THE GOVERNMENT
+
+THE STRATEGIC MODEL OF 
+DIGITAL TRANSFORMATION 
+OF THE PA
+
+THE THREE-YEAR PLAN 
+DEFINES THE OBJECTIVES TO 
+BE REACHED
+
+Also to address these issues, in 2017 the three-year plan for information technology in 
+the Public Administration11 was approved, which contains operational indications (actions, 
+times and objectives) for the development of four pillars: digital ecosystems or policy areas 
+(health,  school,  justice,  etc.),  immaterial  infrastructures  (that  include  enabling  platforms 
+and data of the PA), physical infrastructures and cybersecurity. 
+
+9 The European Digital Agenda, launched by the European Commission in May 2010, has precisely defined the objectives for developing digital economy and culture in Europe within 
+the framework of the Europe 2020 strategy.
+10 The main objectives are: centralizing planning and public spending in regard; aim at the centrality of user experience and needs; use an architectural approach based on open and 
+standard logics; seek solutions to stimulate cost reduction and improve the quality of services.
+11 Ref. https://pianotriennale-ict.italia.it/.
+
+Italy and digital services
+
+The  Plan  was  created  to  effectively  guide  the  digital  transformation  of  the  country, 
+becoming  a  reference  for  central  and  local  administrations  in  the  development  of  their 
+information systems. It sets the fundamental architectural principles, the rules of usability 
+and interoperability and rationalises ICT expenditure.
+
+EVOLUTION OF THE STRATEGIC MODEL THANKS TO ARTIFICIAL INTELLIGENCE
+
+I
+
+G
+N
+R
+O
+T
+N
+O
+M
+
+I
+
+16
+
+ARTIFICIAL INTELLIGENCE
+
+ECOSYSTEMS
+
+DIGITAL CITIZENSHIP                       TRANSPORT             SCHOOLS            TOURISM
+
+IMMATERIAL INFRASTRUCTURES
+
+ENABLING PLATFORMS:     CIE     SPID     PagoPA     FatturaPA     ANPR     NoiPA
+PA DATI:     DATA BANKS     OPEN DATA     CONTROLLED DICTIONARIES
+
+PHYSICAL INFRASTRUCTURES
+
+DATA CENTER                       CLOUD                      CONNECTIVITY
+
+C
+Y
+B
+E
+R
+S
+E
+C
+U
+R
+T
+Y
+
+I
+
+Tackling these challenges, which still appear “new”, imposes, however, the identification of 
+a new technical, ethical and regulatory framework that enables the public sector to address 
+and manage new scenarios, exploiting the projects of today and providing tools and skills 
+for those of the future. At the same time, it is necessary to plan the ways to stimulate 
+and accompany the cultural evolution of the country, involving the population, overcoming 
+diversity, reticence and conflict, and identifying new perspectives. 
+The use of Artificial Intelligence tools applied to services, the central subject of this White 
+Paper, is only one of the sectors in which Italy is trying to achieve the objectives of the Three-
+Year Plan for Information Technology in Public Administration. For this specific purpose, 
+the “Artificial Intelligence Task Force at the service of citizens”12 was set up to discuss the 
+new possibilities offered by this type of technology, in general in our daily life and, more 
+specifically, in the construction of a new relationship between State and citizens.
+
+12 Ref. https://ai.italia.it.
+
+Data updated by the Digital Progress website (https://avanzamentodigitale.italia.it/it)
+
+Project sheets of the three-year plan
+SPID
+The Digital Identity Public System is a service that allows citizens to access all the 
+online services of the Public Administration with a single digital identity consisting 
+of username and password. It can be used on a computer, tablet or smartphone.
+It is a secure authentication system that guarantees the protection of personal data 
+that cannot be used or transferred to third parties without the user’s permission.
+What  can  I  do  with  SPID?  For  example,  healthcare  service  bookings,  school 
+enrolments, access to the public Wi-Fi network, business practices with a single 
+password.
+
+>2
+
+MILLION
+
+8
+
+>3
+
+THOUSAND
+
+SPID IDENTITY 
+
+PROVIDED
+
+ACTIVE DIGITAL IDENTITY 
+
+MANAGERS
+
+ACTIVE 
+
+ADMINISTRATIONS
+
+1717
+
+Electronic Health Record (EHR/FSE)
+The  EHR/FSE  is  the  tool  with  which  citizens  can  trace,  consult  and  share  their 
+health  history.  The  EHR/FSE  manages  all  the  health  and  social-health  digital 
+data and documents generated by the patient’s present and past clinical events.  
+It has a temporal horizon that covers the entire life of the patient and is constituted, 
+subject to consent, by the Regions and Autonomous Provinces for the purposes of 
+prevention, diagnosis, treatment and rehabilitation pursued by the National Health 
+Service and the regional social and health services taking care of the patient.
+
+10
+
+25%
+
+43%
+
+OPERATING REGIONS
+
+CITIZENS WHO 
+ACTIVATED FSE
+
+REPORTS ISSUED BY 
+
+FSE
+
+Data updated by the Digital Progress website (https://avanzamentodigitale.italia.it/it)
+
+E-billing
+E-billing is a document in digital format the authenticity and integrity of which are 
+guaranteed by the presence of the electronic signature of the person issuing the 
+invoice and sending it to a specific Interchange System (SDI). 
+Public Administrations are obliged to issue, transmit, manage, and store invoices 
+exclusively in electronic format.
+
+87
+
+MILLION
+
+>57
+
+THOUSAND
+
+>22
+
+THOUSAND
+
+INVOICES MANAGED
+
+E-BILLING OFFICES ON 
+
+INDICEPA
+
+ADMINISTRATIONS 
+
+PRESENT ON INDICEPA
+
+18
+
+PagoPA
+PagoPA  is  an  initiative  that  allows  citizens  and  businesses  to  pay  the  Public 
+Administration  electronically  on  the  basis  of  rules,  standards  and  instruments 
+defined by AgID and accepted by the PA, Banks, Post Offices and other adhering 
+payment institutions (Payment service providers - PSP).
+
+>16
+
+THOUSAND
+
+>13
+
+THOUSAND
+
+>7
+
+MILLION
+
+PARTICIPATING PA
+
+ACTIVE PA
+
+TOTAL TRANSACTIONS
+
+Data updated by the Digital Progress website (https://avanzamentodigitale.italia.it/it)
+
+Digital security (CERT-PA)
+The  CERT-PA  (Computer  Emergency  Response  Team  Public  Administration)  is  a 
+structure  that  operates  within  AgID  and  is  responsible  for  the  processing  of  IT 
+security incidents of the domain constituted by public administrations. 
+The  CERT-PA 
+intervenes  following  reports  from:  public  administrations  of 
+constituency,  Italian  IT  security  organizations;  other  Italian  or  international 
+organizations (CERT network); monitoring and intelligence activities.
+
+>1,4
+
+THOUSAND
+
+>100
+
+THOUSAND
+
+>5
+
+MILLION
+
+>3
+
+THOUSAND
+
+REPORTS RECEIVED 
+
+VE IMPORTED IN 
+
+IOC PROCESSED BY 
+
+MALWARE ANALYZED BY 
+
+BY CERT PA
+
+INFOSEC
+
+INFOSEC
+
+INFOSEC
+
+1919
+
+Open Data
+Open  data  is  public  data  that  must  be  published  in  a  way  that  is  easy  to  reuse. 
+To this end, key aspects are: licensing, standardization, quality, accessibility even 
+through automated applications. 
+Each administration is required to issue open data to contribute to the enhancement 
+of  public  information  assets,  in  line  with  international  and  national  open  data 
+policies.
+
+>19
+
+THOUSAND
+
+380
+
+DATASET
+
+ADMINISTRATIONS
+
+Artificial intelligence today
+
+By  far,  the  greatest  danger  of  Artificial  Intelligence  is  that  people 
+conclude too early that they understand it.
+
+Eliezer Yudkowsky
+
+Artificial intelligence today
+
+The AI products that will be most popular in the next 20 years, those that we will all 
+use, have not yet been invented. This means that we are not late.
+(Kevin Kelly)
+
+What is Artificial Intelligence (AI)? 
+There  are  many  definitions,  among  them,  the  one  of  the  University  of  Stanford,  which 
+identifies it as “a science and a set of computational techniques that are inspired - albeit 
+typically operating in a different way - by the way in which human beings use their nervous 
+system and their body to feel, learn, reason and act” 13.
+
+21
+
+AI pervades our lives even if we are not aware. 
+AI technologies are emerging as a central force in society. The sector has gone from 
+simply developing systems that are intelligent to developing intelligent systems that 
+are reliable and knowledgeable.
+
+Source: Artificial Intelligence and life in 2030, One hundred year study on Artificial Intelligence, Stanford University, 2016
+
+Novels and science fiction films exploit and give credit to fear of the unknown: Artificial 
+Intelligence is often represented in a negative way, as a danger to humanity, potentially 
+capable of taking over and dominating 14 us but in reality AI is already part of our daily life.
+
+With the digital assistants of mobile phones, driver assistance systems, the chatbots 15 that 
+respond when we call public or private entities, systems for machine translation of texts 
+and speeches, robots in the factory, algorithms that recommend us products and services 
+to our liking and those that assist us in learning, or increasingly realistic and engaging video 
+games.
+
+Source: AI takes center stage, Bot.Me: A revolutionary partnership, Pwc 2017
+
+13 Ref. “Artificial Intelligence and life in 2030, One hundred year study on Artificial Intelligence”, Stanford University, 2016, p. 5.
+14 Think of the computer Hal9000 in 2001 Space Odyssey (Kubrick, 1968) or of the exterminator robot in Terminator (Cameron, 1985).
+15 Ref. detailed box in “The main areas of application”.
+
+Artificial intelligence today
+
+Artificial Intelligence, for example, can improve our lives by driving in our place, taking care 
+of elderly people in need of assistance, carrying out dangerous and arduous jobs, helping us 
+make informed decisions, rationally managing large amounts of data that would otherwise 
+be difficult to interpret, allowing us to communicate while not knowing the language of 
+our  interlocutors,  following  us  in  our  studies  or  increasing  cultural  and  entertainment 
+experiences or speeding up bureaucratic procedures.
+
+This is possible in certain specific application areas16 thanks to recent developments in AI 
+techniques, essentially due to the wide availability of annotated data, to the improvement 
+in learning techniques and to the availability of high computational capacity at increasingly 
+accessible costs.
+
+AI RESEARCH AREAS
+
+Some of the areas currently of priority were not so in the past and it is likely that different 
+areas will emerge in the future.
+
+22
+
+LARGE-SCALE MACHINE LEARNING
+Many basic problems in machine learning (such as supervised and non-supervised learning) are 
+well known. A central focus in current studies concerns the chance of increasing the ability of 
+algorithms to work on extremely large datasets.
+
+DEEP LEARNING
+For example, the ability to learn convolutional neural networks has brought many benefits to the 
+computer vision sector, with applications such as object recognition, video labelling and other 
+variants.
+
+REINFORCEMENT LEARNING
+While  traditional  machine  learning  has  a  clear  focus  on  pattern  mining  (rule  extraction), 
+reinforcement learning has shifted focus on decision making and its motivational levers. 
+This technology can help advance the ability of AI to learn and perform actions in the real world.
+
+ROBOTICS
+Robotic  navigation  in  static  environments  is  widely  resolved.  Current  efforts  are  focused  on 
+providing robots with the ability to interact with the surrounding reality in a predictable way.
+
+16 Ref. “Artificial Intelligence and life in 2030, One hundred year study on Artificial Intelligence”, Stanford University, 2016, p. 9.
+
+Artificial intelligence today
+
+COMPUTER VISION
+It is currently the most relevant form of machine perception. This is the AI sector on which the 
+advent of deep learning has more impact. 
+Until  a  few  years  ago,  support  vector  machines  represented  the  most  used  method  for 
+visual classification activities. However, the evolution and low-cost availability of large-scale 
+computing, the availability of large amounts of data and the fine-tuning of networks of neural 
+network algorithms has allowed the AI to perform visual classification tasks better than human 
+beings. 
+
+NATURAL LANGUAGE PROCESSING
+Often associated with automatic speech recognition, it is a very dynamic sector in the area of 
+machine perception. Research in this area is now focused on the ability to develop systems 
+capable of interacting with people through dialogue and not with simple standard reactions. 
+
+COLLABORATIVE SYSTEMS
+Research  on  collaborative  systems  investigates  models  and  algorithms  to  support  the 
+development of autonomous systems that can collaborate with each other and with human 
+beings. 
+
+23
+
+CROWDSOURCING AND HUMAN COMPUTATION
+Focused on the creation of innovative ways to exploit human intelligence.
+
+INTERNET OF THINGS - IOT
+Research focused on the idea that many devices can be connected and exchange information 
+is becoming more and more substantial. In this area, AI can elaborate and process the huge 
+amount of data resulting from these interactions. 
+
+NEUROMORPHIC COMPUTING
+Traditional computers use von Neumann’s architecture model (I/O, models, data and separate 
+memory). With the success of the deep neural networks, alternative models are being developed, 
+many of which are inspired by neural biological networks. 
+
+Source: AI takes center stage, Bot.Me: A revolutionary partnership, Pwc 2017
+
+The main application areas
+
+Artificial intelligence today
+
+24
+
+There are already examples of how PA can benefit from adopting AI solutions; among these 
+we already see effects and applications in the health, education and judiciary system, in 
+public  employment,  security  and,  in  general,  in  the  management  of  relationships  with 
+citizens.
+In this latter field, Artificial Intelligence can be used to answer questions, to look for but 
+also to process documents, fill in forms, to correctly route various types of requests or to 
+perform translations17.
+
+CHATBOT
+
+For example, a chatbot equipped with AI can respond simultaneously to conversations that come at 
+a given time, eliminating waiting times and, once having understood the needs of its interlocutor, can 
+direct him to the right departments, help him find the documentation he needs, provide instructions to 
+correctly submit his written requests, if necessary also speaking in a foreign language, or translating 
+the bureaucratic terms that the user does not understand.
+
+In this way, public officials can be freed from the task of answering the simplest questions 
+and tasks, which are often the most recurring, saving time to devote to other activities, to 
+provide complex advice and better services.
+
+Some of the functionalities described can also be used in healthcare, for example to manage 
+examinations and tests more rapidly.
+
+In this sector, research into robots that take care of patients is also very interesting, possibly 
+memorising the medicines to be administered to them, the times and doses, or monitoring 
+their state of health by means of biometric measurements to be transmitted to the doctor, 
+even accompanied by a possible hypothesis.
+
+Precisely this type of situation, which could lend itself to significant ethical and scientific 
+controversies or to potential conflicts of interests between patients and doctors, highlights 
+a focal point in which AI is excellently positioned, with its ability to create unprecedented 
+interactions between administrative-technological systems and human beings.
+
+17 Ref. Hila Mehr, “Artificial Intelligence for Citizen Services and Government”, Harvard Ash Center for Democratic Governance and Innovation, 2017.
+
+Artificial intelligence today
+
+Moreover, it is already possible to imagine programming intelligent systems that read tests 
+results and interpret them, based on the statistics conducted on large amounts of similar 
+data and on their meaning18. There are even predictive tools to assess potential risks of 
+evolution of individual diseases. 
+Precision medicine, research on personalized treatments, analysis on the possible effects 
+of certain drugs on individual patients are all areas that promise great results, thanks to 
+the ability of Artificial Intelligence to store and process a lot of information on patients; 
+however, at the same time, they require careful monitoring by the medical community as 
+well as strict observance of privacy and ethical and professional standards19.
+
+USES OF ARTIFICIAL INTELLIGENCE
+
+STRENGTHEN IT SECURITY AND 
+PRIVACY
+
+PREVENT TUMOURS AND DISEASES 
+
+MAKE MORE EFFICIENT USE OF CLEAN 
+ENERGY
+
+ENSURE GREATER FINANCIAL 
+SECURITY
+
+TRANSFORM GLOBAL EDUCATION
+
+2525
+
+IMPROVE HEALTH AND WELL-BEING 
+
+INFLUENCE ECONOMIC GROWTH
+
+CONTRAST CLIMATE CHANGE
+
+REDUCE INCOME DISPARITY
+
+REDUCE GENDER DISPARITY
+
+Source: Artificial Intelligence and life in 2030, One hundred year study on Artificial Intelligence”, Stanford University, 2016
+
+Something  very  similar  is  happening  in  schools,  where  artificial  teaching  assistants  are 
+already  available,  able  to  follow  students  individually,  suggesting  content  and  concepts 
+selected to help them develop their skills, deepen their knowledge, or bridge the gap with 
+their fellow students20.
+These tools can be used by Public Administration for staff training, career management and 
+internal organisation.
+The  security  sector  can  also  benefit  from  the  development  of  Artificial  Intelligence 
+technologies.  For  example,  in  the  surveillance  field,  with  computer  vision  and  natural 
+language processing systems that can process large amounts of images, texts and speeches, 
+to detect possible threats in real time. 
+
+18 Ref. IBM’s “Watson for Oncology”, imagined as a true oncologist’s assistant in the fight against cancer.
+19 For example, the paradox of automation: doctors could rely too much on the machine (that in psychological experience “never fails”) and not take responsibility for a diagnosis 
+different from that of the machine (that could be wrong, possibly because of a bug, a system error).
+20 Ref. http://www.lastampa.it/2017/06/15/multimedia/tecnologia/woogie-lassistente-robot-che-aiuta-i-bambini-a-studiare-e-non-solo-ZlrNV7rKtt3MqoKZ54U3uM/pagina.
+html.
+
+Artificial intelligence today
+
+Or in the environmental disaster prevention field, where it is possible to perform simulations 
+of  the  consequences  of  natural  phenomena,  both  before  and  after  they  occur,  as  well 
+as during their development, helping the authorities to decide how to intervene. Similar 
+technologies  can  also  be  used  by  law  enforcement  agencies,  to  patrol  cities,  based  on 
+continuously updated data, linked to the crimes committed in the various areas and to other 
+significant variables.
+
+Finally, also public decision makers can use intelligent algorithms, capable of processing 
+large amounts of data, for example on the resources available in disadvantaged areas, or 
+on the progress of the various sectors - health, judicial, scholastic, agri-food, etc. - in order 
+to obtain a clearer view of the choices they must or want to accomplish. It is possible, as 
+they are experimenting in Japan21, that personnel in public offices respond in a personalised 
+manner to all citizen requests, using adequately instructed Artificial Intelligence tools, which 
+automatically produce the contents to be sent.
+
+It will be up to the administrations to decide how to use the resources freed up by the 
+introduction of these new technologies, in a range of options that include the qualitative 
+improvement of services and the reduction of costs for their operation.
+
+26
+
+SECURITY
+
+One of the main problems in all these areas is that of guaranteeing the security of the AI systems: 
+entry of an attacker in systems that, for example, will be able to drive a bus, could jeopardize the 
+lives of those on board, as too could tampering with the surveillance tools of a public place make it 
+vulnerable to attacks, or knowledge, by a hacker, of the model used by the Artificial Intelligence for the 
+management of sensitive data, could make such data insecure. 
+To  effectively  address  these  issues,  it  is  necessary  to  put  in  place  various  solutions,  some 
+of  a  technical  nature,  others  of  a  more  general  nature,  raising  awareness  among  citizens 
+and  administrations.  From  a  technical  point  of  view,  it  is  important  to  work  to  ensure 
+that,  by  law,  certain  standards  are  guaranteed,  both  for  the  security  of  the  data  used 
+by  the  algorithms,  as  well  as  for  the  security  of  the  algorithms  themselves, 
+imposing 
+is  always  followed22. 
+that,  for  their 
+
+implementation,  the  security  by  design  paradigm 
+
+21 Hila Mehr, Artificial Intelligence for Citizen Services and Government, Harvard Ash Center for Democratic Governance and Innovation, 2017, p. 8.
+22 In essence, this paradigm requires that security be pursued already when designing databases and Artificial Intelligence algorithms.
+
+The potential of AI in Public Administration
+
+Artificial intelligence today
+
+The potential of Artificial Intelligence for Public Administration is manifold. Nevertheless, 
+the  scientific  community  and  public  opinion  highlight  some  critical  issues  that  must  be 
+taken into account in order to prevent distorted effects in the application of these tools and 
+technologies.
+
+With reference to machine learning systems, it already happens today that both the data 
+that an AI feeds on and the algorithms it consists of produce bias23 - distorted interpretations 
+of the information in its possession - affecting its “reasoning”24 and leading it into error.
+Making predictions with inadequately designed tools can only lead to wrong and, in many 
+cases, even ethically incorrect decisions25.
+
+Furthermore, it is worth pointing out that, currently, Artificial Intelligence is able to carry 
+out, with a certain precision, a small number of cognitive activities26 referring to specific 
+sectorial domains, generally lacking background knowledge.
+
+2727
+
+If  correctly  designed  and  implemented,  AI  technologies  can  in  fact  guarantee  concrete 
+prospects for improving the quality of life. In the relationship between citizens and public 
+administration, they will be able to allow greater accessibility to public services, facilitating 
+a substantial reduction in their costs, with benefits in terms of reduction of social spending, 
+which can thus be reallocated. In perspective, it will be possible to enhance many procedures 
+with adequate automation, offering citizens the opportunity to interact with the State in a 
+more agile, effective and personalised way. 
+We will all benefit from this, including the elderly, the disabled and citizens belonging to the 
+disadvantaged categories.
+
+This will allow Public Administration to recover and strengthen the relationship of trust 
+with the community. In order to encourage this recovery, introducing technologies such as 
+AI in PA requires technical and administrative, but also systemic, narrative and aesthetic 
+interventions, capable of generating meaning and involvement.
+
+23 Ref. “Bias and inclusion”, AI NOW 2017 Report, p. 14.
+24 Ref. box di approfondimento in “Prevenire le diseguaglianze”. 
+25 Ref. “Sfida Etica”.
+26 For further information https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now.
+
+Artificial intelligence today
+
+PA  may  also  use  AI  methodologies  and  technologies  to  support  the  rationalisation  and 
+integration  of  its  databases,  in  a  perspective  of  semantic  interoperability  that  makes  it 
+easier to circulate information between administrations to the benefit of end users27.
+
+The enormous wealth of knowledge generated and collected over time in such databases 
+is often “invisible”, because unstructured, dispersed in multiple archives and largely in the 
+memory of people rather than of the organization. Making “invisible knowledge” visible is 
+one of the potential and most promising areas of application of AI in the PA with solutions 
+able to read and understand and classify the contents of documents and reports produced 
+over decades to obtain the most relevant information.
+
+AI will also affect the redefinition of the relationship between public and private with a view 
+to greater transparency through the implementation of e-procurement practices. Among 
+the areas that in the next decade will benefit from the AI revolution, in fact, will be precisely 
+that of public procurement.
+
+WHAT ARE THE POTENTIAL DAMAGES ASSOCIATED WITH IA SYSTEMS
+
+28
+
+DIGITAL
+
+PHYSICAL
+
+POLITICAL
+
+Automated phishing of fake 
+emails, websites and links to 
+steal information.
+
+Automated terrorism using 
+drones or autonomous vehicles 
+as weapons.
+
+Propaganda, through images 
+and fake videos that are easily 
+generated.
+
+Massive hacking, through the 
+automated discovery of system 
+vulnerabilities. 
+
+Deceive AI systems by 
+exploiting to own advantage the 
+defects in the interpretation of 
+reality by AI.
+
+Swarms of Robots trying to 
+achieve the same goal.
+
+Remote attacks, made possible 
+by the fact that autonomous 
+robots can be controlled from 
+any distance.
+
+Automatic removal of dissent, 
+thanks to the possibility to 
+find, analyze and automatically 
+remove texts and images.
+
+Personalized persuasion, with 
+the use of public information to 
+influence someone’s opinion.
+
+Source: AI experts list the real dangers of artificial intelligence, Dave Gershgorn Feb. 2018
+
+FORESEEN DEVELOPMENTS OF IA
+
+Supports human beings in some 
+specific areas such as speech 
+recognition.
+
+Capable of carrying out many 
+of the tasks that human bein-
+gs can perform.
+
+Clearly superior to the human 
+brain in all its aspects. A 
+technology capable of showing 
+judgement skills, social skills 
+and creativity.
+
+Source: Destination unknown: Exploring the impact of Artificial Intelligence on Government September 2017- Centre for public impact
+
+27  Ref. The interoperability model of the Three-Year Plan: https://pianotriennale-ict.italia.it/interoperabilita.
+
+Artificial intelligence today
+
+POSSIBLE PROGRESS OF ARTIFICIAL INTELLIGENCE
+
+Progress  in  Artificial  Intelligence  could  lead  to  the  replacement  of  workers  with  more  efficient  robots 
+in  the  future.  We  provide  a  time  frame  based  on  a  survey  conducted  by  a  group  of  AI  researchers 
+with  Katja  Grace  together  with  the  Future  of  Humanity 
+Institute  at  the  University  of  Oxford.  
+The  survey  identified  the  year  in  which  AI-controlled  technologies  will  be  able  to  perform  the  following 
+activities:
+
+2020
+
+PLAY POKER SO WELL TO WIN THE WORLD SERIES OF 
+POKER
+
+FOLD LAUNDRY BETTER THAN THE AVERAGE 
+EMPLOYEES IN CLOTHING STORES
+
+2022
+
+2024
+
+TRANSLATE SPOKEN LANGUAGE
+
+WRITE A HIGH SCHOOL PAPER
+
+2026
+
+2929
+
+2027
+
+RECORD A POP SONG THAT WILL BE AMONG THE TOP 40 
+DRIVE CARS/TRUCKS
+
+BEAT THE FASTEST RUNNER IN THE WORLD IN A 5 KM 
+RACE IN THE CITY (AS A BIPED ROBOT)
+
+2028
+
+2031
+
+WORK IN RETAIL TRADE
+
+WRITE ONE OF THE BEST SELLERS SELECTED BY NEW 
+YORK TIMES 
+
+2049
+
+2053
+
+PERFORM SURGICAL INTERVENTIONS
+
+PERFORM MATHEMATICAL RESEARCH
+
+2059
+
+2061
+
+REPLACE MAN IN EVERY ACTIVITY
+
+REPLACE MAN IN EVERY JOB
+
+2137
+
+Source: When Will AI Exceed Human Performance? Evidence from AI Experts, May 2017, Katja Grace, John Salvatier, Allan Dafoe, Baobao Zhang, Owain Evans, Future of Humanity 
+Institute, University of Oxford
+
+Hypothetical scenario 
+
+Artificial intelligence today
+
+Giulia, her father Tommaso and little Gaia are now fictional characters. We do not know 
+yet if anyone will live their lives or some glimpses of them. What is certain is that Artificial 
+Intelligence is changing our everyday life from all points of view.
+
+How will our working days be in 5, 10 or 25 years?
+What will our relationship be with the cities we live in with the consistent introduction of AI 
+solutions?
+
+30
+
+Giulia has just turned off her computer. It is five o’clock in the afternoon and 
+she has just gone through the exit turnstiles of the Ministry. It is Monday and 
+she is running towards the bus stop. She cannot believe she is going home so 
+early so that she can then go to that contemporary art exhibition that interests 
+her so much. This is a very busy time for her both at work and at home. She has 
+summarized thousands of questionnaires on behalf of the Ministry; the activity 
+that once would have taken her entire afternoons over documents today has 
+become a task that can be completed in a few days without too much effort.
+Thanks to the online data processing platform to which she has access from her 
+office, Giulia has managed to have an automatic summary of the documents on 
+which she is working in less than a week. When she was hired about 15 years 
+ago, a job like this would taken twice as much, maybe three times as much for 
+her and her colleagues.
+Who  would  have  thought  that  one  day  she,  born  in  the  age  of  analogical 
+communication, and who has grown up with the Walkman and with books under 
+her arm, could no longer do without algorithms?
+Today, Giulia gets to the city avoiding traffic. Through an app installed on her 
+mobile phone, the Municipality recommends what public transport to use to get 
+home sooner and she can choose the least polluting solution. While she is sitting 
+on the bus, Giulia is on the Facebook page of the Palazzo hosting the exhibition. 
+She wants to know the exact opening time and if there is an area reserved for 
+children at the venue.
+She asks Marina, not a secretary but the museum chatbot that replies in real 
+time from the display. “Science fiction” compared to when a few years ago, she 
+had to go through many pages of Internet sites and telephone exchanges to 
+obtain the simplest information. 
+
+3131
+
+Artificial intelligence today
+
+Switchboards do not exist anymore.
+Technology is an integral part of her life, it has simplified her work and brought 
+the world closer. She knows very well that the algorithm universe needs to be 
+ruled, since  simplification and data usage have two different sides.   
+For the last weeks, they have been discussing at home and with the closest 
+friends  the  situation  of  Giulia’s  father,    Tommaso,  who  was  diagnosed  with 
+cancer a few months ago. 
+A few hours after receiving the medical report, the hospital communicated the 
+family that Tommaso would not be operated. Diagnostics has taken giant leaps, 
+as well as study of genomes.  
+By  querying  data  that  was  unknown  to  her  family,  doctors  found  out  that 
+Giulia’s great-great grandfather and fourth grandfather had developed a similar 
+disease due to a genetic disorder that is very hard to treat. “Even after surgical 
+intervention, chances of recover are less than 30%” the computer sentenced. 
+The hospital will not embark on a path that algorithms define  “too costly for the 
+low probability of success”. 
+Lights  and  shadows,  but  Giulia  has  almost  arrived  home.  Her  daughter  Gaia 
+and  Stitch,  a  robot  that  has  become  her  personal  teacher  and  babysitter, 
+are waiting for her. Stitch itself is a son of “Artificial Intelligence” and it deals 
+with Gaia’s education ever since she has joined the secondary school. It uses 
+advanced learning techniques, which adapt themselves to Gaia’s level, helping 
+her reviewing the most difficult subjects and replacing Giulia during the after-
+school. 
+Giulia lives alone for most of the year and she has to combine her mother’s 
+role with her job, which is very demanding since she needed to specialise in 
+tasks and duties that are different from those required for being recruited at the 
+Ministry several years ago.
+Giulia  greets  her  daughter,  she  checks  with  Stich  that  the  maths  exercise  is 
+completed and that the homework has been done before she starts playing with 
+Gaia.
+Her smartphone rings, it notifies that she has to check questionnaires for her 
+job.
+It rings again, the exhibition is opening and the last bus to the kids’ corner is 
+arriving. AI has also changed her relationship with time and watches.  
+It rings again, this time it’s a call, her mother. It is unexpected: in the algorithm 
+time it is almost impossible to be late, but, you know, the mom is always the 
+mom.
+
+The challenges of AI at the 
+service of the citizens
+
+Artificial intelligence is the future, not only for Russia, but for all humankind. It comes 
+with colossal opportunities, but also threats that are difficult to predict. Whoever 
+becomes the leader in this sphere will become the ruler of the world.
+
+Putin, in his official speech for the inauguration of the Russian school year in September 2017
+
+China,  Russia,  soon  all  countries  w  strong  computer  science.  Competition  for  AI 
+superiority at national level most likely cause of the third World War.
+
+Elon Musk, founder of SpaceX, co-founder and CEO of Tesla, responds on Twitter to Putin’s 
+message, September 2017
+
+The challenges of AI at the service of citizens
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+ETHICS
+
+TECHNOLOGY
+
+SKILLS
+
+ROLE OF DATA
+
+LEGAL CONTEXT
+
+ACCOMPANYING THE TRANSFORMATION
+
+PREVENTING INEQUALITIES
+
+MEASURING THE IMPACT
+
+THE HUMAN BEING
+
+3333
+
+1
+
+ETHICS
+
+The challenges of AI at the service of citizens
+
+Ethics change with technology..
+(Larry Niven)
+
+The issue of Artificial Intelligence, as with the appearance and affirmation of every new 
+technology, re-proposes the contrast between the “doom-mongers and enthusiasts”28.
+
+The doom-mongers fear that Artificial Intelligence will prevail over people, will decide for 
+them,  steal  their  jobs,  discriminate  against  them,  violate  their  privacy,  and  will  secretly 
+control them by conditioning their lives.
+
+The  enthusiasts,  on  the  other  hand,  dream  of  a  world  where  machines  are  capable  of 
+autonomously performing bureaucratic processes, of being used as powerful computational 
+tools to process and interpret large amounts of data in the best way, replacing men in the 
+most burdensome and repetitive tasks, and creating solutions able to diminish crime and 
+eradicate diseases.
+
+34
+
+DOOM-MONGERS
+
+ENTHUSIASTS
+
+• AI will have the upper hand over people
+• AI will decide for them
+• AI will steal their work from them
+• AI will discriminate against them
+• AI will violate their privacy
+
+• AI independently conducts bureaucratic processes
+• AI is a powerful calculation tool
+• AI can replace men in the most demanding tasks
+• AI can create solutions to reduce crimes
+• AI can create solutions to eradicate diseases
+
+Basically there are two perceptions of technology, of diametrically opposite sign.
+
+That  of  the  “doom-mongers”,  negatively  assesses  the  introduction  of  AI  in  Public 
+Administration (PA), citing a series of critical issues that could have negative effects not 
+only on the efficiency and effectiveness of the measures but also on citizens’ rights. 
+
+That of the “enthusiasts”, on the other hand, considers the use of AI to be extremely positive, 
+believes that the implementation of these technologies can significantly improve not only 
+the activity of the PA but also the quality of life of citizens and that a total and unconditional 
+process of research and development is therefore necessary in this area29. 
+
+28 Ref. Umberto Eco, Apocalittici e integrati, Bompiani, 1964.
+29 The utopias of the “Californian ideology” (Richard Barbrook, Imaginary Futures: From Thinking Machines to the Global Village, 2007) are currently contrasted by the radical critici-
+sm of technological “solutionism” (Eugenij Morozov, To Save Everything, Click Here. The Folly of Technological Solutionism, 2013).
+
+The challenges of AI at the service of citizens
+
+Two  extreme  points  of  view,  each  with  different  peculiarities,  which  must  be  critically 
+analysed  in  order  to  resolve  the  weaknesses  indicated  by  the  “doom-mongers”  and 
+modulate the strengths sustained by the “enthusiasts”.
+
+The examples mentioned above are not chosen by chance, but are the result of the debate 
+that  in  recent  years  has  been  going  on  in  the  scientific  community  and  in  civil  society 
+regarding the impact of AI systems on our lives.
+
+The ethical challenge of the introduction of Artificial Intelligence solutions is represented 
+by  the  need  to  respond  in  a  balanced  manner  to  the  polarisation  of  these  two  visions, 
+integrating innovation and taking into account the effects that this has already had and will 
+continue to have in the development of society, respecting and safeguarding the universally 
+recognised core values.
+
+The use of AI based on algorithms of data analysis in decision-making processes related 
+to social, health and judicial issues (such as risk assessment) therefore requires a thorough 
+reflection in terms of ethics and, more broadly, of governance. 
+
+3535
+
+The algorithms for data analysis involve high costs that encompass the entire evolutionary 
+cycle  of  their  functioning:  from  implementation  to  evolutionary  maintenance,  to  the 
+verification of results and to the training of users who must use them responsibly. Speaking 
+of greater efficiency or tax cuts thanks to the use of AI technologies in public services can 
+be a misleading narrative register as a correct development of such tools implies high costs 
+and great attention to the ethical aspects related to their use.
+
+The  focus  on  the  functional  development  of  this  technology  requires  the  economic  and 
+professional resources suitable for ethical development and above all in line with the data it 
+processes and the decisions it guides. Otherwise, what will come out of the analysis will only 
+help finance the private sector, with the illusion of helping people. Or, worse, to introducing 
+a distortion or a flight of responsibility, from time to time referring the cause of decisional 
+errors to the algorithms instead of the decision makers.
+
+Capitalizing on the benefits of technology requires important investment on the part of the 
+PA and a significant commitment to improve the quality and efficiency of services and to 
+have systems that are secure and able to truly reduce inequalities.
+
+Public Administration is therefore called upon to deal with numerous and complex 
+ethical issues.
+
+The challenges of AI at the service of citizens
+
+To understand its extent, it is possible to analyse those that represent the central 
+elements in the public debate and in scientific analysis:
+
+DATA QUALITY AND NEUTRALITY30
+Machine  learning  systems  need  data  which  is  “annotated”31  by  human  beings  (supervised 
+learning) or at least selected and prepared (unsupervised learning). 
+This also includes errors or bias introduced, even inadvertently, by the designers, replicating 
+them  in  all  future  applications.  For  example,  datasets  with  bias  they  propagate  the  same 
+evaluation  errors  in  the  meaning  of  an  image  or  a  concept,  as  happened,  for  example,  with 
+certain algorithms used to prevent crimes, in which the data was compromised by a historical 
+series that emphasised ethnic differences32. 
+Or unbalanced datasets, that overestimate or underestimate the weight of certain variables 
+in the reconstruction of the cause-effect relationship necessary to explain certain events and, 
+above all, to predict them.
+
+36
+
+ACCOUNTABILITY E LIABILITY33
+The examples just mentioned highlight the strong impact that Artificial Intelligence has on the 
+decision-making activity of public entities. Both when it acts as an assistant to human beings as 
+well as an autonomous entity, AI generates effects on the lives of people in relation to which it 
+is necessary to be able to establish legal liability. 
+Nevertheless, the ownership of the latter is not clearly identifiable, since it could be attributed 
+to the producer34 or to the owner35 of the Artificial Intelligence, or even to its end user36. Those 
+who design AI systems can be responsible for design or implementation defects, but not for 
+behaviour caused by inadequate instruction datasets. 
+Can  a  public  decision-maker  be  considered  politically  responsible  for  the  decisions  made  on 
+the basis of algorithms that process data affected by the bias mentioned above? What type 
+of responsibility can there be for Public Administration? If a robot hurts someone, who should 
+be held responsible and who, if anyone, has the obligation to compensate the victim (and with 
+which assets)? Can the public decision-maker transfer his political responsibility to an AI system 
+that does not respond to a clear principle of representation? Is it ethically sustainable that, in 
+order to improve the efficiency and effectiveness of measures, certain important choices can be 
+made with the influence of an AI or even completely delegating them to the AI? 
+And in trusting an AI system, how can its consistency be controlled over time? These are just 
+some of the issues that emerge in this area and highlight the need to establish some principles 
+for the use of AI technologies in a public context.
+
+30 Ref. “Data challenges”.
+31 Data that is enriched with comments and metadata. For example, a caption can act as a description of an image.
+32 Bruno Lepri, Nuria Oliver, Emmanuel Letouz, Alex Pentland, Patrick Vinck, “Fair, transparent and accountable algorithmic decision making processes. The premise, the proposed 
+solutions, and the open challenges”, Science business media, Springer, 2017.
+33 Ref. “Legal challenge”.
+34 There are neural networks whose calculation algorithms are not completely reconstructable, not even by their programmers, generating what is called the “black-box effect”.
+35 What currently happens in the field of robotics.
+36 With a parallel, we could cite the case of construction works. The builder bears full responsibility for the first years after the inauguration of the work, but then the responsibility 
+passes to the person responsible for its maintenance.
+
+The challenges of AI at the service of citizens
+
+TRASPARENCY AND OPENNESS37
+The issue of the responsibility of public administration also has to do with the duties of the latter 
+with respect to citizens, when it decides to provide them with services or to make decisions that 
+concern them, using Artificial Intelligence solutions. 
+The functioning of the latter must meet criteria of transparency and openness. 
+Transparency becomes a fundamental prerequisite to avoid discrimination and solve the problem 
+of information asymmetry, guaranteeing citizens the right to understand public decisions. It is 
+also necessary to think about the policies chosen to determine the benchmarks (benchmark 
+policy)  to  avoid  effects  of  a  larger  scale:  as  an  administrator  can  act  in  a  non-transparent 
+manner by pursuing not the common good but private interests, a non-transparent algorithm 
+could realize the same offenses even more broadly, producing not only injustices but also social 
+discrimination.
+
+3737
+
+PROTECTION OF THE PRIVATE SPHERE38
+A  further  need,  closely  linked  to  the  previous  one,  is  to  protect  the  data  of  individuals.  PA 
+must design services based on AI able to guarantee efficiency and prompt response, but also 
+protection of citizens’ sensitive data. 
+This  requirement,  strictly  connected  to  the  legal  context,  has  some  ethical  peculiarities 
+concerning the use that PA can make of the data that has come to its knowledge in contexts 
+different from those in which it was collected. 
+Is it ethically sustainable that PA, through the use of data collected for other purposes, takes 
+action based on the new derived information? Is it ethical to use this data to feed predictive 
+systems?
+
+To address these challenges, it may be helpful to follow some general principles. 
+Among these we can mention the need for an anthropocentric39 approach, according to 
+which Artificial Intelligence must always be put at the service of people and not vice versa40. 
+
+Moreover,  there  are  principles  of  procedural  (non-arbitrary  procedures),  formal  (equal 
+treatment for equal individuals or groups) and substantial (effective removal of economic 
+and social obstacles) equity, as well as the satisfaction of certain basic universal needs, 
+including respect for the freedom and rights of individuals and the community41. 
+These and many other aspects related to the need to place AI at the service of people in 
+every context are analysed in subsequent challenges.
+
+37 Ref. “Legal challenge”.
+38 Ref. “Legal challenge”.
+39 Ref. http://www.g7italy.it/sites/default/files/documents/ANNEX2-Artificial_Intelligence_0.pdf.
+40 Necessary, paraphrasing Kantian thought, that AI “treats man always as an end and never as one of the means”. Immanuel Kant, Fondazione della metafisica dei costumi, 1785. 
+41 Ref. https://medium.com/code-for-canada/responsible-ai-in-the-government-of-canada-a-sneak-peek-973727477bdf.
+
+The challenges of AI at the service of citizens
+
+2
+
+TECHNOLOGY
+
+If a typical person can do a mental task with less than one second of thought, we 
+can probably automate it using AI either now or in the near future.
+(Josh Lovejoy)
+
+Although Artificial Intelligence (AI) is currently not able to reproduce the complex functioning 
+of  the  human  mind42,  but  only  approximate  some  limited  abilities43,  it  is  a  discipline 
+which, acquired over sixty years of scientific, methodological and technological research, 
+has become pervasive in industry and society. Its models and methods can certainly be 
+conveniently used as tools for the implementation of innovative solutions in complex socio-
+technical systems, such as that of public administrations, provided that, together with the 
+opportunities, the limits of their scope of application are understood.
+
+The  new  frontiers  of  particular  interest  for  Public  Administration  are  those  related  to 
+studies and research on how AI systems are able to cooperate in the most effective way 
+with human beings. 
+This approach exploits AI machine learning and adaptation capabilities to provide a human-
+machine interaction that best meets the needs of users, their interests and the real context 
+in which they operate. 
+Therefore,  it  becomes  important  to  conduct  research  consisting  of  methodological 
+investigation, modelling, implementation and testing of Artificial Intelligence systems for 
+various domains of interest to PA.
+
+38
+
+Linguistic technologies (Natural Language Processing - NLP) are certainly of great interest 
+and are the basis of a large number of applications that fall within Artificial Intelligence. The 
+deployment of these technologies, based today to a large extent on Open Source software, 
+requires  the  availability  of  specific  text  datasets  (ex.  annotated  corpora),  lexicographical 
+and semantic (ex. wordnet), as well as the dissemination of specialized skills necessary 
+to manage training and adaptation processes to various areas of application (ex. health, 
+justice, finance). 
+
+The lack or unavailability of adequate resources for the Italian language, together with a 
+lack of skills in the use of NLP technologies, could cause both a loss of competitiveness 
+compared to other nations, and a dependence on platforms and solutions provided by a 
+restricted number of subjects operating under monopoly conditions.
+
+The distinctive characteristics of the “technological challenge” can therefore be identified 
+by two keywords: “personalisation” and “adaptability”.
+
+42  Research on so-called Full Intelligence and Strong AI, in terms of both Neuro Evolution (NE) and Brain Intelligence (BI), is still in its infancy.
+43 Typically, those that do not require more than one second to provide a response to an external stimulus.
+
+The challenges of AI at the service of citizens
+
+MAIN TECHNOLOGIES CLASSIFIED AS AI
+
+CHATBOT OR VOICEBOT
+Virtual online agent 
+for customer service 
+or human language 
+interaction
+
+SPEECH 
+RECOGNITION
+Ability of computers 
+to understand and 
+interpret speech
+
+NATURAL LANGUAGE 
+GENERATION
+Interaction through 
+sentences and texts
+
+DECISION-
+MAKING PROCESS
+Provide the 
+context for 
+decision-making 
+based on data 
+analysis
+
+3939
+
+BIOMETRICS
+Measurement of the 
+characteristics of human 
+expressions and physical 
+states to understand 
+intentions, emotions, age
+
+DEEP LEARNING
+Algorithms 
+inspired by the 
+structure and 
+Brain functioning 
+that create an 
+artificial neural 
+network
+
+ANALYSIS OF 
+VIDEO AND 
+IMAGES
+Analysis of 
+images and 
+videos to 
+interpret the 
+contents
+
+SWARM INTELLIGENCE
+Use of a large group of 
+autonomous agents, 
+each of which helps to 
+solve a problem
+
+MACHINE 
+LEARNING
+The ability of 
+computers to 
+learn without 
+having been 
+specially 
+programmed for 
+this
+
+Source Capgemini Digital Transformation Institute Analysis 2017
+
+The challenges of AI at the service of citizens
+
+In fact, the overcoming of this challenge means to be able to create PA systems and services 
+modelled on the multiple needs of citizens, able to evolve with them, able to encourage 
+personalised experiences.
+
+This  issue  can  be  approached  analytically  by  linking  the  most  developed  sectors  and 
+technologies  in  the  field  of  Artificial  Intelligence  with  the  activities  and  tasks  typical  of 
+Public Administration.
+
+The areas of use of “intelligent” technologies44 in Public Administration are innumerable, 
+not only from a long-term perspective, but, in certain cases, even in the current situation. 
+
+For example45 here we can mention:
+
+HEALTHCARE SYSTEM 
+diagnostic tools able to assist in the analysis of reports; integration of different sources and 
+data merging; epidemiological analysis to identify public health risks early; instant translation 
+services to facilitate hospital and territorial medical visits to foreigners; predictive tools to 
+evaluate potential risks of disease evolution or to evaluate the effectiveness of therapies; 
+patient  assistance  tools,  able  to  follow  them  during  treatment;  precision  medicine,  for 
+the identification of personalised treatments; better logistics organisation of healthcare 
+structure activities.
+
+40
+
+CITIZEN RELATIONS 
+in the simplification of procedures and in order to obtain a two-way communication between 
+PA  and  citizens  and  a  personalised  interaction  in  which  citizens  have  all  the  necessary 
+support to satisfy their most varied needs.
+
+JUDICIAL SYSTEM 
+simplification  of  legislation;  fraud  identification;  fight  against  corruption  and  crime, 
+especially organised crime; reduction of civil litigation through easier access to legislation 
+and jurisprudence; digitisation of documents and understanding of the text and information 
+present.
+
+SCHOOL SYSTEM 
+automatic evaluation tools; personalisation of teaching material; automated tutoring, by 
+means of recommendation tools to maintain attention; suggestions concerning personalised 
+variations to be introduced in the school programme; extraction of predictive indicators for 
+school drop-out risk.
+
+44 Ref. the technologies listed in chapter 2.
+45 Ref. “Challenge reduce inequalities”.
+
+The challenges of AI at the service of citizens
+
+SECURITY 
+AI amplifies the integrated impact of publicly available structured and unstructured data, 
+thanks  to  which  it  can  support  advanced  forms  of  management  and  prevention  in  the 
+policing field.
+
+PUBLIC EMPLOYMENT AND PLACEMENT 
+organisation  of  employees  and  careers;  career  counselling  and  management  of  internal 
+processes and documentation.
+
+MOBILITY AND TRASPORT 
+traffic management, traffic and pollution predictive models, management of public transport 
+logistics, but also autonomous transport solutions; real-time monitoring of sensor data.
+
+TAX SYSTEM 
+application of AI techniques to identify cases of potential tax avoidance and evasion through 
+the analysis and crossover of data from different sectors of the state;
+
+41
+
+ENVIRONMENTAL MONITORING 
+the use of machine learning algorithms on 5G wireless sensor data (ex. video cameras, 
+radioactivity  detectors,  chemicals,  temperature,  brightness,  humidity,  etc.)  could  allow 
+monitoring and intercepting critical events in the territory (ex. automatic search of events 
+on video surveillance data combined with chemical detection analysis to identify eco-crimes 
+such as spills of harmful substances, similarly possible to define indicators for fires, floods, 
+collapses, etc.).
+
+The challenges of AI at the service of citizens
+
+AUTONOMOUS SYSTEMS
+
+MACHINE LEARNING
+
+ARTIFICIAL INTELLIGENCE
+TECHNOLOGICAL PANORAMA
+
+DEEP LEARNING
+
+ARTIFICIAL NEURAL 
+NETWORKS
+
+PATTERN 
+RECOGNITION
+
+PROCESSING OF 
+NATURAL LANGUAGE
+
+NEUROMORPHIC 
+ 
+ELABORATION
+
+INFORMATION 
+ 
+SECURITY
+
+PERSONAL 
+ASSISTANT 
+ROBOTS
+
+AUTONOMOUS 
+SURGICAL 
+ROBOTS
+
+42
+
+ 
+
+NEW 
+GENERATION
+OF CLOUD 
+ROBOTICS
+
+GAMES CONTROLLED 
+BY THOUGHT
+
+UNIVERSAL TRANSLATION 
+IN REAL TIME
+
+ 
+
+VIRTUAL PARTNER 
+
+AVAILABLE TECHNOLOGY
+
+Now
+
+1-2 years
+
+2-4 years
+
+> 4 years
+
+CHATBOT
+
+ANALYSIS OF EMOTIONS
+IN REAL TIME
+
+Source: Callaghan Innovation 2017, Frost & Sullivan “Artificial Intelligence- R&D and Applications Road Map” (Dec 2016), Harvard Business Review- The competitive landscape for 
+Machine Intelligence (Nov 2016), Shivon Zilis and James Chan “The State of Machine Intelligence, 2016” (2016), Stanford University. “Artificial Intelligence and Life in 2030” (2016)
+
+The challenges of AI at the service of citizens
+
+BORBOT PROJECT
+
+Project: virtual assistant to support customer service staff 
+AI technology used: question answering
+Public entities involved: National Museum of the Royal Palace of Caserta
+The Borbot project, which stands for Borboni and Robotics, was launched in 2017 
+by the National Museum of the Royal Palace of Caserta. It is a virtual assistant, 
+present on the Museum’s Facebook page, which through question answering is 
+able to respond to users’ questions, providing detailed tourist information and 
+news on the monument.
+In  a  month,  the  system  was  able  to  perform  an  average  of  20  thousand 
+interactions,  supporting  the  Museum’s  front  office  service  and  allowing  the 
+customer service staff to focus on services with greater added value.
+Website: http://borbot.it/
+
+DECISION SUPPORT SYSTEM FOR CHRONIC 
+
+OBSTRUCTIVE PULMONARY DISEASE
+
+Project: remote monitoring system for patients suffering from COPD
+AI technology used: machine learning
+Public  entities  involved:  Unit  of  Processing  Systems  and  Bio-IT  of  the  Bio-
+Medico Campus of Rome, Polyclinic University Bio-Medico Campus of Rome
+The Polyclinic University Bio-Medico Campus of Rome has experimented on a 
+group of 22 patients with COPD the use of a home remote monitoring system 
+capable of detecting potentially dangerous events for patients.
+Developed  by  the  Unit  of  Processing  Systems  and  Bio-IT  of  the  Bio-Medico 
+Campus  of  Rome,  it  works  through  AI  techniques  of  machine  learning  and 
+acquires three times a day heart rate data and haemoglobin saturation through 
+a pulse oximeter connected to an app specifically designed for smartphones. 
+This way, the system evaluates any dangerous situations for the patient and 
+signals them to the healthcare unit.
+The experiments on the data collected show that the recognition performance 
+of potentially dangerous events of the system are better than those obtained 
+by  medical  experts.  Furthermore,  the  support  offered  by  the  system  in  the 
+decision-making process allows increasing agreement among specialists.
+Website:  www.unicampus.it/ricerca/unita-di-ricerca/sistemi-di-elaborazione-
+e-bioinformatica
+
+43
+
+The challenges of AI at the service of citizens
+
+3
+
+SKILLS
+
+We cannot teach our kids to compete with machines. Machines are faster, do not get 
+tired, do not become angry. We have to teach our kids something unique. In this way, in 
+thirty years’ time, they will have a chance.
+(Jack Ma)
+
+While all of us in everyday life are beginning to come across Artificial Intelligence tools (e.g. 
+chatbots, virtual assistants and automated traffic calculation and management systems), 
+there is a different familiarity in its use in professional contexts or in Public Administration46.
+
+The world of work is impacted by a profound transformation and in we will soon see an 
+evolution of professions: there will be new ones, while the existing ones will be extensively 
+modified with the introduction of new processes and methodologies47.
+
+It will be necessary to ensure that people are able to design and develop AI systems and 
+applications,  also  in  direct  and  deep  collaboration  with  research  and  major  technology 
+operators.
+
+44
+
+In the same way, it will be of fundamental importance to cultivate and develop the skills 
+necessary for the interaction between human beings and AI, which will become increasingly 
+complex by virtue of the possibility of touching the language, gestures, body, emotions and 
+many other expressive dimensions of mankind48.
+
+The consolidation of skills is therefore crucial to be aligned with the great technological 
+and socio-economic changes that the world is about to face, in order to be able to prepare 
+young generations, but also adults, to seize future challenges.
+
+How are these skills enabled? There are several areas to act on: that, more specifically, of 
+training public and private workers, on both the demand as well as the supply side, the 
+more general, but not less important, aspect of the literacy of everyone in order to fully 
+exploit digital services, and the most advanced aspect of specialized and trans-disciplinary 
+training.
+
+46 Hila Mehr, “Artificial Intelligence for Citizen Services and Government”, HARVARD Kennedy School ‐ ASH Center for Democratic Governance and Innovation, 2017.
+47 Carl Benedikt Frey, Michael Osborne, “The Future of Employment: how susceptible are jobs to computerisation?”, The Oxford Martin Programme on Technology and Employment, 
+2013.
+48 Ref. Challenge 9 “The human being”.
+
+The challenges of AI at the service of citizens
+
+In the second area, that of literacy, it is important to help people understand what Artificial 
+Intelligence is and what benefits it can actually make and what risks it entails, in order 
+to enable them to make the best use of the services offered, inculcating a positive and 
+optimistic approach in the collective imagination avoiding the rejection of the unknown49. 
+
+Furthermore, since the relationship with AI largely takes place through natural interfaces 
+- such as speech, written text and gestures - it is necessary to “educate” citizens with the 
+aim of reducing the access gap to such technologies.
+
+This  latter  point,  of  course,  primarily  involves  the  school  system,  which  must  take  into 
+account the changes described in order to make the training of citizens and workers of the 
+future effective. 
+Currently, and probably still for many years, Artificial Intelligence will be able to perform 
+rather simple tasks. 
+
+Already today, however, it is important that the school system and the university system 
+enable students for the future in which they will live as adults, therefore developing problem 
+solving and information analysis and synthesis skills, as well as those of formulation of 
+independent opinions, creativity, empathic interaction and refined use of one’s sensory and 
+psychomotor capacities, areas in which it will be difficult for machines to compete with 
+human beings.
+
+45
+
+It clearly emerges that knowledge models based mainly on the memorisation of notions 
+and  information  that  have  not  been  analysed  or  briefly  elaborated  and  organised,  and 
+teaching methods that prioritise the quantity of knowledge acquired rather than the critical 
+education of the student, are destined to progressively lose importance.
+
+Regarding the third area, that of specialist and trans-disciplinary training for public and 
+private professionals who intend to work in the AI sector, it is important to prioritise training 
+in multidisciplinary contexts, providing them with the skills that are fundamental to fully 
+understand the meaning of the solutions that will be developed from time to time and 
+which will be destined to have an impact on people’s lives.
+
+49 Ref. Challenge 9 “The human being”.
+
+The challenges of AI at the service of citizens
+
+At  the  moment,  in  addition  to  technical  experts  in  specific  disciplines  such  as  machine 
+learning and data science, of fundamental importance will be transversal figures such as 
+psychologists, anthropologists, sociologists and humanists in general, able to improve the 
+interaction between AI and its users, fully understand how the latter can be inserted in 
+the various contexts of everyday life, improving its conditions, and establish meaningful 
+interconnections  between  disciplines,  so  as  to  be  able  to  create  new  generations  of 
+designers who are able to create systems of technological excellence that are also able to 
+generate meaning and a tangible increase in economic, cultural, social and psychological 
+well-being.
+
+There is currently a disproportion between the demand for specialist figures in the fields of 
+advanced technologies and the availability of adequate skills therefore, the private sector 
+is willing to pay very high salaries in order to compete in the innovation market with the 
+contribution of the best talent. 
+
+PROFESSIONS THAT DID NOT EXIST 10 YEARS AGO
+
+46
+
+DEVELOPER OF APP
+
+ADMISSIONS CONSULTANT
+
+MILLENNIALS GENERATION 
+EXPERT
+
+USER EXPERIENCE DESIGNER 
+
+CHIEF LISTENING OFFICER 
+
+SUSTAINABILITY EXPERT
+
+ELDERLY ASSISTANCE EXPERT
+
+Source: Forbes, Megan Casserly 2012
+
+CLOUD COMPUTING SERVICES 
+EXPERT
+
+SOCIAL MEDIA MANAGER
+
+MARKET RESEARCH DATA 
+MINER
+
+DATA SCIENTIST
+
+DATA ARCHITECT
+
+DATA VISUALIZER
+
+DATA ENGINEER/OPERATOR
+
+The challenges of AI at the service of citizens
+
+A challenge of PA will be to be able to retain researchers and professionals, albeit not being 
+able to compete with the salary levels offered by the private sector50. 
+
+The skills in administrations are in fact a determining factor for the balanced introduction 
+of new technologies, for which it is important that the administrations are not dependent 
+on suppliers.
+Therefore, with a view to developing skills, permanent and specialist training mechanisms 
+will be required at all levels. It is necessary to integrate the debate on the replacement of 
+the workforce with an analysis of the new market needs and how the improvement of the 
+skills of workers adequately trained on issues of AI can impact the quality of services and 
+solutions offered by the market and the Public Administration.
+
+From  a  training  point  of  view,  regardless  of  the  educational  or  professional  level,  the 
+integration  of  AI  in  learning  programmes  can  contribute  to  increasing  human  abilities, 
+supporting decision making and facilitating the possibility of engaging in more specialised 
+or more creative activities.
+
+47
+
+One of the objectives of Artificial Intelligence applied to cognitive systems is precisely that 
+of increasing human abilities. Therefore, It is necessary to develop a profound awareness 
+of the implications of the inevitable programming and calibration errors of such systems, 
+that in exalting some aspects of the information available could inadvertently deform the 
+importance or meaning.
+
+From  this  point  of  view,  Public  Administration  must  become  an  “innovation  gym”:  just 
+as, thanks to the Industry Plan 4.051, companies know they have to implement resources 
+and skills to keep up with the market, also PA, if it does not want to lose in capability, 
+competitiveness and attractiveness, will have to envisage a plan to expand the skills of 
+public employees and innovate digital services52.
+
+50 Cade Metz, “Tech Giants are paying huge salaries for scarce AI talent”, The New York Times, 22‐ 10‐ 2017.
+51 Ref. http://www.sviluppoeconomico.gov.it/index.php/it/industria40.
+52 With this in mind, it will be essential to focus not only on training/updating of personnel but also on the ability to attract and retain resources with skills that can support the 
+adoption of AI solutions in the public sector.
+
+48
+
+4
+
+ROLE OF DATA
+
+The challenges of AI at the service of citizens
+
+Artificial Intelligence will be greater than 
+electricity and fire.
+(Sundar Pichai - CEO Google)
+
+Artificial  Intelligence  (AI)  techniques  and  tools  are  benefiting  today  from  the  enormous 
+amount  of  personal  and  environmental  data  that  is  registered  daily  by  IT  systems.  The 
+quality  and  interoperability  of  this  data  are  a  determining  factor  for  the  possibility  of 
+applying new technologies. 
+Among the main AI techniques that can be used to process such data, for example, is that 
+of so-called supervised learning. In this case, the data must be “annotated” by humans 
+who teach the machines how to interpret it. This operation is very onerous since it requires 
+a conspicuous and complex amount of human work. In addition to the long time necessary 
+to perform this annotation work, the discretion of the annotators could generate uneven 
+datasets  (i.e.:  similar  data  annotated  in  a  different  way),  weakening  the  operation  of 
+machines and propagating errors and biases53.
+The  challenge  associated  with  the  role  of  data  is  therefore  the  creation  of  conditions, 
+including  organisational  conditions,  which  allow  Artificial  Intelligence  to  use  correctly 
+created databases, where consistency, quality and intelligibility are guaranteed.
+
+In  the  Internet  of  Things  field,  one  of  the  main  challenges  to  be  addressed  is  that  the 
+data  collected  by  interconnected  devices  and  sensors  is  different  from  that  with  which 
+the scientific community of data-scientists has had to deal with in the past. In fact, the 
+greatest successes that have been achieved in the AI field regard applications such as image 
+processing,  autonomous  driving  and  web  search  that  have  been  made  possible  thanks 
+to the availability of large and relatively structured datasets, able to be used therefore in 
+training machine learning algorithms. 
+On the contrary, data coming from a multitude of connected devices can be fragmented, 
+heterogeneous and distributed irregularly in space and time: a challenge of rare complexity 
+for anyone who wants to analyse data in a structured manner.
+A second area of discussion is the management and research of data published on the web 
+in the form of linked open data54. This data, which may regard both the institutional task of 
+a public body (e.g. land registry or administrative data) as well as its operation (e.g. internal 
+data) is made accessible and usable through open formats. While representing a mine of 
+information, the data needs adequate tools to be exploited to its full potential. In particular, 
+information retrieval55 and filtering models and methods are needed based on semantic 
+technologies and shared ontologies. 
+
+53 Ref. the “Ethical Challenge”.
+54 Ref. https://www.w3.org/egov/wiki/Linked_Open_Data.
+55 Information Retrieval: the set of techniques used for the targeted recovery of information in electronic format.
+
+49
+
+The challenges of AI at the service of citizens
+
+This work, already envisaged by the the Digital Administration Code (DAC) and launched 
+within the scope of the activities of the Digital Team, will be part of the broader perspective 
+of conceptual governance of public information assets.
+Regarding  the  huge  data  assets  of  the  Public  Administration,  the  challenge  that  AI 
+technologies allow to face is that of transforming such data into widespread and shared 
+knowledge, such as to make the Public Administration transparent to citizens and above all 
+to itself, guaranteeing to citizens and administrators not only semantic access to information 
+and interoperability of processes, but a better understanding of the relationship between 
+state and citizen.
+
+Once the conditions for the proper functioning of the Artificial Intelligence methodologies 
+have been created, one of the tasks of Public Administration will be to aggregate the data 
+necessary to support process improvement. This could be achieved through the creation of 
+an open platform for the collection, generation and management of certain types of data, 
+directly related to Public Administration56. The decentralised use of public datasets, essential 
+for the development of active participation practices (civic activism), in turn requires specific 
+capabilities of governance of the socio-technical system of Public Administration. It is in 
+fact essential that data quality is ensured at source, through the generalised adoption of 
+guidelines and appropriate content standards.
+To achieve these ambitious objectives, there are many issues to be addressed, including 
+some that have been appearing in the e-government plans of developed countries for many 
+years.
+
+ISSUES TO BE FACED
+
+truthfulness and completeness of data
+
+data distribution and access methods
+
+design and definition of shared ontologies
+
+estimate of the economic value attributable 
+to the data
+
+tools  that  allow  citizens  to  monitor  data 
+production
+
+supervision of public dataset quality
+
+management and promotion of data access56
+
+regulation of data usage57.
+
+The last three items of the list just presented introduce a further issue for PA: making sure 
+that anyone who wants to develop Artificial Intelligence solutions useful for citizens can 
+have equal and non-discriminatory access to the necessary data.
+
+56 Ref. https://pianotriennale-ict.readthedocs.io/it/latest/doc/09_data-analytics-framework.html.
+57 For example, “grand challenges” can be called. Those organised by NIST on Speech Recognition and Machine Translation, by DARPA on Autonomous Vehicles, or by ImageNet on 
+Vision are famous.
+58 Ref. http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32016R0679.
+
+50
+
+The challenges of AI at the service of citizens
+
+SMART PLANNER SYSTEM
+
+Project: Support for sustainable mobility policies
+AI Technology used: Automatic planning through algorithms
+Public  entities  involved:  Bruno  Kessler  Foundation,  Municipality  of  Trento, 
+Municipality of Rovereto, Municipality of Bologna. 
+The Smart Planner system was realized by the Bruno Kessler Foundation. 
+It currently has about 15 thousand users and is used by the Province of Trento, 
+the Municipality of Rovereto and is being tested in the Municipality of Bologna 
+to support sustainable mobility policies. The system, released under an open 
+source  license,  is  based  on  automatic  planning  AI  techniques  and  is  able 
+to suggest to users that connect through an app from their smartphone the 
+quickest and most ecological solutions to get to a certain destination of the city. 
+Through the analysis of data intercepted by multiple sources, the app provides 
+personalized indications on which public, private or shared means of transport 
+should be used to reduce polluting emissions and travel times. In 2016, 30% of 
+those who used the app got to the city with means of transport that they had 
+never used before. 
+Website: www.smartcommunitylab.it/
+
+DANTE H2020 PROJECT - Challenge 4
+
+Project:  automatic  data  mining  and  analysis  solutions  to  understand  how 
+terrorist networks work
+AI technology used: web mining
+Public  entities  involved:  Ministry  of  Defence  -  General  Command  Arma  dei 
+Carabinieri
+The  Dante  -  DEtecting  and  ABalysing  TErrorist  project  related  to  online 
+contents and financial activities - is funded by the European Commission under 
+the  European  H2020  Program,  Challenge  of  Secure  Societies  and  involves 
+18  European  countries,  including  Italy  that  participates  with  the  Ministry  of 
+Defense and with the General Command of the Carabinieri. Through the project, 
+an automated system of extrapolation of data from unstructured sources has 
+been implemented, which works through AI methods and techniques applied 
+to  web  mining,  able  to  identify,  retrieve,  collect  and  analyse  large  quantities 
+of heterogeneous content and in more languages both on the plain web and 
+on the dark and deep web to trace the operations of the terrorist networks, in 
+particular financing, training and propaganda activities. This system allows to 
+greatly improve and make more accurate the investigation techniques of law 
+enforcement on terrorism and to trace information even on channels that are 
+traditionally more difficult to investigate, such as the dark web. 
+Website: www.h2020-dante.eu/
+
+The challenges of AI at the service of citizens
+
+5
+
+LEGAL CONTEXT
+
+Whether our ethical substratum is Western (Aristotelian, Kantian), Oriental (Shinto, Confucian), African (ubuntu) 
+or attributable to any other tradition, creating autonomous and intelligent systems that explicitly respect the 
+inalienable human rights and cultural values of users , it is possible to give priority to the improvement of human 
+well-being as a parameter for progress in the “algorithmic age”.                                                       (Fabiola Giannotti)
+
+When it comes to regulating the activity of Public Administration, one of the fundamental 
+problems is the balance between the interests of the community and those of the individual. 
+In  the  field  of  Artificial  Intelligence  (AI),  ensuring  this  balance  is  particularly  complex. 
+The most advanced AI techniques require huge amounts of data to be effective. There is 
+therefore considerable economic interest in collecting sensitive data and it is necessary 
+to analyse some of the main legal issues that may concern AI. Among these: the principle 
+of  transparency  of  administrative  acts,  legal  liability,  privacy,  information  security  and 
+intellectual property59.
+
+Within the scope of Public Administration activities, the principle of transparency is cardinal 
+and therefore must also inspire the design of new public services based on AI solutions. For 
+this purpose, the criteria to be used undoubtedly include transparency of the algorithms, 
+the construction logic of the databases on which they operate and defining the related 
+responsibilities60.
+
+5151
+
+today, AI algorithms can directly influence public assessments and decisions Already, as 
+well as the administrative procedures themselves. This poses a problem of accountability, 
+i.e. verifying the actual legal liability upstream of certain decisions or results, posing a series 
+of challenges for Public Administration:
+
+find methods that are uniform and compatible with the current system so that the 
+administration can justify its actions, also in the part processed by AI systems.
+ 
+indicate the data sources that feed AI and through which it has made its assessments, 
+and  make  the  managers  of  administrative  procedures  aware  of  the  processing 
+methods used by AI systems.
+
+To ensure utmost transparency, citizens must be enabled to understand through which 
+path the AI system has reached a certain result61, in a sufficiently clear way to possibly 
+recognize a calculation error and to intervene to correct it.
+
+59 Ref. the “Ethical Challenge”.
+60 For this purpose, the Digital Administration Code (DAC) has established the figure of the digital ombudsman, to whom citizens can send reports and complaints in case of 
+non-compliance or violations related to the use of digital systems by public administration.
+61 Jurisprudence has already established that - in the case in which algorithms are used for administrative activities - the right of access to the algorithm must always be guarante-
+ed (Ref. sentence TAR Regional Administrative Court Lazio-Roma, Sect. III-bis, no. 3769/2017).
+
+52
+
+The challenges of AI at the service of citizens
+
+The use of sensitive data by Public Administration AI systems can compromise citizens’ 
+right to privacy, as well as certain fundamental rights of the individual, in the event that 
+the data collected is used to forecast events of social interest, from traffic management 
+to crime prevention. One of the challenges is to avoid that the use of data by PA generates 
+pervasive social control in contrast with fundamental citizens’ rights62.
+
+As for the possible “threat” of the right to privacy, it may be necessary to implement certain 
+principles and tools present in the European General Data Protection Regulation (GDPR), 
+such as the Data Protection Impact Assessment and Privacy by Design. The former requires 
+those who use IT tools that may violate the right to privacy to make a prior assessment of 
+the impact of these technologies on the protection of personal data. The latter is based on 
+the idea that the rules on the protection of personal data must be already incorporated in 
+the software design phase, ensuring that the identification data of citizens is anonymous 
+or covered by pseudonym, reduced to the minimum necessary and that its use is limited to 
+specific purposes. 
+
+The challenge is clearly to find a balance between the effective use of Artificial Intelligence 
+at the service of citizens and respect for their right to privacy, giving them the opportunity 
+to express their informed consent to the processing of data by intelligent systems.
+To ensure that the AI solutions acquired (or developed) by the Public Administration comply 
+with  the  provisions  of  the  current  regulations,  it  is  necessary  to  carefully  monitor  the 
+procurement procedures for goods and services. In particular, it is appropriate that - before 
+the decision to contract - the administration proceeds to the comparative verification of 
+the solutions available on the market, possibly proceeding to appropriate consultations. 
+Furthermore, it is recommended that - in the event of a tender - the requirements and 
+characteristics of AI solutions are precisely defined, with particular reference to compliance 
+with  applicable  laws,  so  as  to  always  guarantee  the  legitimacy  of  the  administration’s 
+activities.
+
+GDPR
+
+The provisions of the GDPR regulate both the responsibilities of the controller and the rights of the party 
+subject to personal data processing. Regarding AI, the GDPR applies when technological systems are 
+developed using personal data, and if exploited to make decisions that concern people.
+
+Article 5 of the GDPR summarizes these principles and states that data must be: 
+
+• processed in a lawful, transparent and fair manner (principle of legality, fairness and transparency);
+• collected and used for a specific and explicitly stated reason (principle of purpose limitation);
+• adequate and limited to the purposes for which it is processed (principle of data minimization);
+• correct and updated (principle of accuracy);
+• not archived identifiably for longer than necessary (principle related to the data retention period);
+• processed in such a way as to guarantee adequate protection of personal data (principle of integrity 
+and confidentiality)
+
+62 Ref. the “Data role challenge”.
+
+The challenges of AI at the service of citizens
+
+6
+
+ACCOMPANYNG THE TRASFORMATION
+
+If a typical person can do a mental task with less than one second of thought, we 
+can probably automate it using AI either now or in the near future.
+(Andrew Ng)
+
+Artificial Intelligence (AI) is both a technological and social innovation, since it brings with it 
+all the benefits and complexities that can radically transform society, including the public 
+sector. An innovation, therefore, that can contribute to improving the quality of the services 
+offered and to reinforcing the relationship of trust between administration and citizen.
+
+The opportunities offered by the AI concern both the increase in efficiency of administration 
+operations and user satisfaction. To exploit them to the fullest and to ensure that citizens 
+fully understand their advantages and potential, it is also necessary to deal with issues 
+concerning governance, the use of new technologies and the ability to manage data.
+
+An aspect not to be underestimated in our country is related to the existence of a full-
+bodied  role  of  “intermediaries”  in  the  relationship  between  citizens/businesses  and  the 
+Public Administration, combined with a culture of “delegation” that often introduces a real 
+barrier in the relationship between users and institutions.
+
+53
+
+In this sense, it will be desirable to invest heavily in the cultural change necessary to create 
+a substrate on which to reposition, in the key of simplification and use of digital, the new 
+relationship between citizens/businesses and the Public Administration. 
+
+Furthermore,  the  transformation  process  we  are  witnessing  involves  the  creation  of  a 
+culture  within  Public  Administration  that  includes  capacity  building  activities,  both  with 
+respect to the presence of a leadership that promotes the use of artificial intelligence, as 
+well as the capacity of public officials to implement them.
+
+Within the scope of public services, AI can be used to optimise the internal resources of PA 
+to increase the use of online services, supporting, for example, a series of activities such as:
+
+•  completing complex tasks;
+•  dispatching citizens’ requests and answering their questions;
+•  effectively managing large amounts of data;
+•  combining information from different datasets;
+•  providing faster answers based on predictive scenarios;
+•  automating repetitive processes;
+•  analysing data that includes text/audio and video information63.
+
+63 Hila Mehr, “Artificial Intelligence for Citizen Services and Government”, HARVARD Kennedy School ‐ ASH Center for Democratic Governance and Innovation, 2017.
+
+The challenges of AI at the service of citizens
+
+TYPES OF PROBLEMS OF THE PA THAT CAN BE SOLVED BY AI APPLICATIONS
+
+DISTRIBUTION OF RESOURCES
+- Executions of activities are slowed down 
+without the necessary administrative 
+support.
+
+LACK OF EXPERTS
+- Answering even the simplest questions, 
+takes the time of experts.
+
+54
+
+PROCEDURES
+- Tasks are repetitive by nature.
+
+LARGE DATASET
+- Datasets are too large for employees 
+to work efficiently. 
+- Results and knowledge could improve 
+by  combining 
+internal  and  external 
+datasets.
+
+PREDICTING SCENARIOS
+
+-  The  prediction  of  possible  scenarios 
+requires long work on historical data. 
+-  The  inability  to  predict  increases  the 
+response  time  for  the  most  urgent 
+questions.
+
+DISSIMILAR DATA
+
+- Data includes various information: visual/
+spatial and auditory/linguistic. 
+-  Qualitative  and  quantitative  data  must 
+be summarized on a regular basis
+
+Source: Artificial Intelligence and life in 2030, One hundred year study on Artificial Intelligence”, Stanford University, 2016
+
+Finally, the integration of AI can contribute to increasing the capacity of public employees, 
+as a tool  to support decision-making and without  ever  replacing human judgment.  The 
+immediately  perceptible  benefit,  together  with  the  possibility  of  having  systems  that 
+learn to  accompany  decisions  in an  accurate and personalised way,  is the  possibility of 
+saving time for employees who can dedicate themselves to more specialised activities or 
+that require greater creativity and empathy. In this way, services become more efficient, 
+relations  with  citizens  are  improved  and  the  level  of  trust  in  institutions  is  increased.
+
+The challenges of AI at the service of citizens
+
+The  introduction  of  AI  in  people’s  lives  requires  the  design  of  processes  that  facilitate 
+the understanding and acceptance of technologies by the user, not only through the use 
+of  experimentation  but  also  through  collaboration  mechanisms  that  allow  citizens  to 
+participate in the design of AI platforms. 
+
+Thanks  to  the  co-creation  approach,  as  happens  in  design  thinking,  users  perceive 
+technology as their own and show a greater propensity to use it. Moreover, where issues 
+or problems in its use are found, citizens show a greater propensity to actively participate 
+in their solution64.
+In facilitating the vicinity and engagement of citizens towards new AI-based public services, 
+design itself plays a key role. In fact, it represents the meeting point between technology 
+and people. 
+
+Designers will have to design interfaces that do not just mimic human actions, since this 
+mechanism can generate alienation, but that are able to establish a relationship of trust 
+with citizens, using a language that is understandable and that puts them at ease65.
+
+55
+
+The challenge will be to build flexible systems able to provide answers that adapt to the 
+user’s  contingent  needs,  thus  ensuring  better  and  more  efficient  services.  A  peculiar 
+characteristic of AI is indeed that of correlating continuously evolving data coming from 
+multiple sources and extracting dynamic response models from it. 
+
+Another area on which the designers will have to focus will be the design of AI systems 
+able  to  anticipate  the  needs  of  citizens  without  having  an  invasive  approach  that  could 
+compromise the user experience.
+Another crucial element for introducing AI in a structured manner in the administration 
+concerns the ability to manage data and to exploit the great wealth of information that PA 
+possesses, facilitating not only interoperability, but also transparency and reliability.
+
+In light of this, it is desirable that the application of AI technologies to public administration 
+aims at adopting shared ontologies in line with the internal organisation of PA and with the 
+types of services to be provided, developing controlled vocabularies able to interpret and 
+interoperate the databases of national interest to the fullest66.
+
+In this regard, knowledge, representation, and self-learning systems can be a valuable aid 
+in increasing the accountability of the models. The adoption of collaborative methods can 
+further ensure that the models adopted are compatible with PA and remain consistent with 
+the regulatory framework.
+
+64 Medium, “The role of design in collaborative AI”, 4-11-2017.
+65 Medium, “Human Design for Artificial Intelligence and Agents”, 19-10-2017.
+66 Ref. http://pianotriennale-ict.readthedocs.io/it/latest/doc/04_infrastrutture-immateriali.html. 
+
+The challenges of AI at the service of citizens
+
+In addition to the potential described above, some criticalities in the adoption of AI in the 
+public sector can be identified: in general, AI systems can be implemented successfully only 
+if high data quality is guaranteed.
+
+In terms of governance, the transformation process we are witnessing also involves the 
+evolution of relations between public and private players. 
+
+Benefiting from AI in public services does not necessarily mean developing new solutions 
+from scratch. On the contrary, it is possible to look at what has already been adopted by 
+other governments, or draw on technologies already established on the market.
+
+Area of collaboration between the public and private sectors is that of procurement. In this 
+sense, AgID, for example, has recently started initiated comparison and experimentation of 
+new scenarios for the dissemination of PCP (pre commercial procurement).
+
+56
+
+PCP
+
+Pre Commercial Procurement (PCP) is an innovative purchasing formula on Research and Development 
+issues, which enables procurement for new methods of relationship and discussion with the market, in 
+line with the great challenges posed by a modern Public Administration67. 
+
+The program deals with issues of significant social impact and public innovation: from autism to pro-
+tection from environmental risks, to food safety and quality, as well as innovative technological so-
+lutions applied to healthcare and e-government. Not only large companies but also start-ups, small 
+businesses and venture capitalists have the opportunity to present innovative ideas and proposals.
+
+The PCP is therefore a fertile ground for experimentation and research aimed at meeting social needs 
+even with innovative tools related to AI. An example in this sense is the “Technologies for Autism” con-
+tract aimed at identifying Virtual Reality and Augmented Reality technologies typified for people with 
+an autism spectrum condition (ASC).
+
+67 Italy is first in the ranking of EU countries for capacity to implement pre-commercial procurement.
+
+The challenges of AI at the service of citizens
+
+PROGETTO PIERINO
+
+Project: extraction and retrieval of online information
+AI technology used: semantic analysis, information extraction
+Public entities involved: Digital Humanities Research Group of the 
+Bruno Kessler Foundation, Ministry of Public Education
+The Pierino project (PIattaforma for the Extraction and Recovery of INformation 
+Online)  was  created  by  the  Digital  Humanities  research  group  of  the  Bruno 
+Kessler Foundation and Tommaso Caselli of Vrije Universiteit Amsterdam and 
+led to the creation of a platform for the automatic analysis of linguistic data, 
+which works through AI techniques of semantic analysis and modules for the 
+automatic processing of natural language. The platform was used for the first 
+time  by  the  Ministry  of  Education  to  analyse  the  data  of  public  consultation 
+“The  good  school”  and  allowed  elaborating  and  summarizing  270  thousand 
+comments in less than a week, allowing a significant reduction in analysis time 
+of questionnaires. The platform has been designed in such a way as to be as 
+flexible as possible to quickly process data from future consultations.
+Website: https://dh.fbk.eu/news/collaboration-miur
+
+57
+
+58
+
+The challenges of AI at the service of citizens
+
+7
+
+PREVENTING INEQUALITIES
+
+Technology is neither good nor bad; nor is it 
+neutral.
+(First law of Kranzberg)
+
+The objective of this challenge is to pay further attention on the ways in which Artificial 
+Intelligence (AI) technologies can trigger positive effects in terms of reducing the existing 
+socio/economic/cultural differences.
+There  are  several  areas  in  which  the  integration  of  AI  solutions  would  reduce  social 
+inequalities68. 
+These include:
+•  education and training;
+•  knowledge and guarantee of individual rights;
+•  health and disability, intended as support for situations of hardship.
+
+A significant intervention of intelligent learning support systems is conceivable in the school 
+sector. There is a long tradition of using the computer for these purposes: from Computer 
+Assisted Instruction (CAI) systems to Intelligent Tutoring Systems (ITS). 
+
+In  ITS  there  is  always  a  student  model,  understood  as  a  knowledge  base  in  which  the 
+student’s characteristics and knowledge are explicitly represented. This solution plays a 
+supporting  role  as  it  provides  integration  to  traditional  teaching  systems,  helping  to  fill 
+learning gaps of students with cognitive problems.
+
+Another point of intervention in the school sector is the reduction of the linguistic gap. The 
+offer of adequately modelled simultaneous translation services could help to close the gap 
+generated by new waves of migration, thus offering valuable assistance to study69. Artificial 
+Intelligence  technologies  could  also  play  a  decisive  role  in  the  battle  against  functional 
+illiteracy70.
+
+Furthermore, the AI   could be applied to overcome the limits imposed by the need to have 
+specialist  knowledge  to  carry  out  certain  activities.  AI  systems  could  spread  access  to 
+information, knowledge of rights and could facilitate the methods for exercising them by 
+those who are in difficult living conditions and that do not have certain knowledge, thus 
+contributing to reducing discrimination. 
+This represents a very important area of   work that requires appropriate awareness raising 
+and cultural promotion.
+
+68 Ref. the “Technology Challenge”.
+69 The use of artificial intelligence at the service of machine translations is now widespread (for example the cases of Google, DeepL).
+70 Ref. https://www.compareyourcountry.org/pisa/country/ITA?lg=en.
+
+The challenges of AI at the service of citizens
+
+As for the disability sector, some interesting solutions are pointed out as they can guarantee 
+easier, and more usable, access to services thus, improving the quality of life of individuals. 
+
+For example this is the case of integrated speech synthesizers for visually impaired persons, 
+which could be implemented with automatic editing programs that can remember previous 
+communications and provide drafts of text, or some experiments involving people suffering 
+from degenerative diseases, like ALS, which provide communication systems which can 
+complete and facilitate the communication process.
+
+Considering types of AI solutions already known, the use of digital assistants could fill the 
+gaps in various categories transversally: for example, thanks to AI problems such as dyslexia 
+could be monitored and corrected through the use of digital assistants that can perform the 
+function of the speech therapist or psychologist.
+
+The challenge of inequalities should also be tackled from the perspective of the need to 
+prevent increasing existing inequalities. 
+There  are  two  levels  of  potential  discrimination,  one  involving  access  to  and  use  of  AI 
+technologies and one induced by the same AI systems, based on race, gender and other 
+social factors.
+
+59
+
+It is necessary to operate in order to ensure access to AI tools and solutions as well as to 
+ensure awareness of their use, in order to avoid that only certain categories can benefit 
+from these technologies. In this case, we must avoid thinking that the AI   is in itself a value, 
+especially  if  its  use  is  not  accompanied  by  appropriate  interventions  aimed  at  reducing 
+the possibility of creating further gaps. It should also be avoided that the AI technologies 
+themselves lead to inequalities.
+
+A PA linked to the paradigm of social responsibility should not create situations in which the 
+most advanced contact methods, which are also the simplest and which guarantee greater 
+accessibility of services, are the exclusive preserve of those who, by culture, propensity, 
+social extraction or technological endowment are more predisposed to such uses71.
+
+It  is  necessary  that  the  Public  Administration  carefully  manages  the  development  of  AI 
+solutions on order to guarantee that:
+
+they are inclusive, accessible, transparent and comply with legal requirements;
+they do not have discriminatory profiles;
+are free from bias.
+
+71 Ref. Art. 8 of the Digital Administration Code (Legislative Decree no. 82/20015).
+
+The challenges of AI at the service of citizens
+
+In recent times, one of the most active research areas in the field of AI has been the study 
+of bias72 both from a more formal statistical point of view and from a broader legal and 
+regulatory profile. 
+In a positive scenario, AI systems can be used to “increase”, improve human judgement and 
+reduce our conscious or unconscious biases. However, data, algorithms and other design 
+choices that can influence AI systems, can reflect and amplify the cultural assumptions 
+existing at a given historical moment and, consequently, inequalities.
+
+Consequently biases become the basis for making decisions, favouring some 
+scenarios 
+instead  of  others,  creating  disparities  and  non-homogeneous 
+distribution of opportunities73.
+
+To do this, it is necessary to expand the bias search and mitigation strategies, not limiting 
+them to a strictly technical approach. Biases, by their nature, constitute structural and long-
+term distortions that require a deep interdisciplinary research in order to be faced. 
+
+60
+
+Addressing  and  solving  critical  issues  linked  to  bias  therefore  necessarily  requires  an 
+interdisciplinary collaboration and transversal listening methods to different disciplines74.
+
+This is where the most important game for the prevention of inequalities is played. This 
+is the context in which the Public Administration has the task of intervening, addressing 
+the development of AI solutions, aware of the enormous potential that these have in the 
+promotion of a more widespread equity and in reducing the gaps existing in our community.
+
+CASES OF BIAS
+
+Some cases of bias that recently have figured prominently:
+A  case  of  unconscious  bias/discrimination  is,  for  example,  the  percentage  of  male  personnel  who 
+develop AI services compared to the female percentage (Ref. Global Gender Gap Report 2017 https://
+assets.weforum.org/editor/AYpJgsnL2_I9pUhBQ7HII-erCJSEZ 9dsC4eVn5Ydfck.png, WEF).
+Another case, within the United States courts https://www.propublica.org/article/machine-bias-risk-
+assessments-in-criminal-sentencing (Software used in the United States with the aim of predicting 
+which individuals more than others are likely to be “future criminals” - has highlighted bias/prejudice 
+against people of colour.
+Lastly, the extensive use of NLP techniques is rapidly showing how much the vocabularies of the most 
+spoken  languages  https://www.technologyreview.com/s/602025/how-vector-space-mathematics-
+reveals-the-hidden-sexism-in-language/, are strongly affected by gender bias.
+
+72 Ref. “Ethical Challenge”.
+73 Episodes of this kind have occurred in many cases: in rating algorithms, in the assignment of gig economy jobs and, in general, in algorithmically mediated work.
+74 Ref. Ainow, “Expand AI bias research and mitigation strategies beyond a narrowly technical approach”, 2017, p. 2
+
+The challenges of AI at the service of citizens
+
+MATHISIS H2020 PROJECT
+
+Project: teaching support for children with DSA, ADHD, autism spectrum and 
+multiple disability
+AI Technology used: Affective Computing
+Public players involved: first and second grade Italian public schools
+Mathisis  -  Managing  Affective  learning  through  intelligent  atoms  and  smart 
+interaction - is a project funded by the European Commission under the 2015 
+Horizon2020 ICT program and involves 18 European countries, including Italy.
+Through the project, a teaching support platform was created for children with 
+DSA, ADHD, autism spectrum and multiple disabilities. The platform, connected 
+to a webcam, a tool for the recognition of movement and a gyroscope, through AI 
+techniques of affective computing recognizes the moods and levels of attention 
+of students and, based on these, increases or decreases the degree of difficulty 
+of the didactic exercises.
+The  project  was  tested  on  a  sample  of  first  and  second  grade  Italian  public 
+schools, involving just fewer than one hundred students. 
+According to the first results of the experimentation, the use of this platform 
+has improved the learning path of the students, increasing their concentration 
+and attention levels.
+Website: http://mathisis-project.eu/
+
+61
+
+The challenges of AI at the service of citizens
+
+8
+
+MEASURING THE IMPACT
+
+ The pace of change has never been this fast, yet it will 
+never be this slow again.
+(Justin Trudeau)
+
+“Change has never happened this fast before, and it will never be this slow again”75. The 
+introduction of new Artificial Intelligence (AI) technologies in the society and, in particular, in 
+the Public Administration, brings with it the natural desire to measure and understand its 
+social impacts, risks and opportunities.
+
+It is now essential to measure the impact of public policies, both in terms of the user, i.e. the 
+citizen, and the PA. Regarding the first point, it is necessary to think in terms of improving 
+the quality of life of people, but also the conditions of use of what is offered to them.
+
+The  measurement  of  the  impact  in  using  Artificial  Intelligence  solutions  in  the  PA 
+contemplates the use of qualitative and quantitative indicators. For example, the methods 
+for measuring customer satisfaction (e.g. social impact, well-being of citizens, accessibility 
+and usability of the tools) or related to the optimization of organizational processes in terms 
+of efficiency and effectiveness.
+
+62
+
+Many quantitative models subdivide workers by their employment and try to hypothesize 
+which  professions  will  be  replaced  by  technologies,  in  other  words  these  models  base 
+their  operation  by  considering  jobs  and  employment  as  a  unit  of  analysis76.  However, 
+technology often does not completely replace a professional figure but replaces only some 
+specific activities. Workers who previously held a particular task are therefore addressed 
+and  reassigned  to  complementary  activities  that  use  the  new  technologies.  Over  time, 
+technology leads to a complete rethinking of organizational processes and objectives.
+
+Given the complexity of the phenomenon to be analysed, the impact must be measured 
+necessarily  taking  into  account  a  multidisciplinary  approach,  which  allows  defining  the 
+impact also from an anthropological, psychological and sociological point of view, as well as 
+from a technological and econometric point of view.
+
+For this reason it is necessary to identify new sets of indicators that can better adopt this 
+multidisciplinarity, in synergy with the indicators existing today.
+In  any  case,  it  is  necessary  to  keep  in  mind  that  the  methods  adopted  to  measure  the 
+impact can promote a better understanding of the services by the users and encourage the 
+transition to new governance models77.
+
+75 Justin Trudeau, Canadian premier, in his speech at the World Economic Forum Annual Meeting 2018 Ref. https://www.weforum.org/agenda/2018/01/pm-keynote-remar-
+ks-for-world-economic-forum-2018.
+76 Ref. Challenge “Skills” and Challenge “Reducing inequalities”.
+77  Ref. Challenge “Accompanying transformation”.
+
+The challenges of AI at the service of citizens
+
+Mapping the needs and defining the impact objectives with all the actors involved, collecting 
+real-time information on how all the nodes of a network interact, are the first essential 
+steps in understanding and defining correct policy assessments.
+
+Unfortunately, these assessments are not updated so frequently as they should, due to 
+financial  limitations  or  unavailability  of  competent  assessors.  As  policy  assessment  is 
+commonly based on data, AI could enable a faster and more accurate analysis.
+
+A greater balance in the analysis of opportunities and risks could be an important factor to 
+increase awareness of the real impact78 that AI   can have in our daily lives.
+
+Finally, measuring the impact of these technologies is useful in terms of designing and 
+developing AI, in order to guarantee reliability and transparency as well as to reduce the risk 
+of errors, also as regards the Public Administration79. 
+Analysing its operation allows us to determine valid models for an ethical and responsible 
+use of AI.
+
+Measurement tools must be strict to determine the effective social impacts of AI   and to 
+define how these technologies can actually influence our lives.
+
+63
+
+ITALIAN OBSERVATORY ON ARTIFICIAL INTELLIGENCE 
+
+The Italian Observatory on Artificial Intelligence is promoted by the Task Force on 
+Artificial Intelligence in collaboration with the HER - Human research institute 
+Ecosystems Relations and aims to analyse with various techniques - including 
+Sentiment Analysis - conversations about AI in the main social networks.
+
+78 European Commission - DG for Research and Innovation, Directorate A -Policy Development and Coordination, Unit A.6 - Open Data, Policy and Science Cloud; “Vision and Trends 
+of Social Innovation for Europe”, 2017.
+79 Ref. https://www.researchgate.net/publication/23542471_Spatial_diversity_in_local_government_re venue_effort_under_decentralization_A_neural‐network_approach.
+
+The challenges of AI at the service of citizens
+
+64
+
+Source https://ia.italia.it/en/ai-observatory/ March 2018
+
+SIMPATICO H2020
+
+Description:  Simplification  of  the  interaction  between  citizens  and  public 
+administration
+AI Technology used: Automatic language processing
+Public entities involved: Bruno Kessler Foundation, Municipality of Trento
+The “Simpatico-SIMplifying the interaction with Public Administration” project 
+was  coordinated  by  the  Bruno  Kessler  Foundation  as  part  of  the  European 
+Horizon 2020 program and consists in the application of AI solutions in the online 
+offices  of  the  municipal  administrations.  In  2016,  the  Municipality  of  Trento 
+started the project experimentation phase, together with the city of Sheffield 
+(UK) and the region of Galicia (Spain) integrating advanced automatic language 
+processing technologies, in particular AI techniques for automatic text content 
+simplification, in some municipal services accessible through the Electronic Help 
+Desk for citizens of the Municipality website. 
+From an initial evaluation, it emerged that this integration led to:
+- a reduction in the time taken to accept electronic requests of 40%
+- a reduction in requests for additional information of 50% 
+- a reduction in the total time required to complete an online claim of 50%. 
+Website: www.simpatico-project.eu/
+
+65
+
+The challenges of AI at the service of citizens
+
+9
+
+THE HUMAN BEING
+
+Think of birds, then think of airplanes. Both fly, but they have nothing in common but a single 
+fundamental characteristic: the fact that they both respect the principles of aerodynamics. This is the 
+best way to compare human intelligence to artificial intelligence.
+(Yoshua Bengio)
+
+The introduction of Artificial Intelligence in the world involves existential and psychological 
+issues that need to be addressed as they affect the possibility of perceiving, understanding 
+and acting on the world, and how human beings are individually positioned in relation to the 
+society and the environment, with substantial impacts on rights, freedom and opportunities 
+for personal and professional fulfilment.
+
+AI    is  already  present  in  many  spheres,  services  and  processes  of  our  everyday  life:  the 
+technologies we use to mediate relationships with other human beings, the objects and 
+places in which we live, influence behaviour, methods of working, learning, communicating, 
+and having fun. All of us have, more or less consciously, faced this reality, even if on AI   there 
+are still perplexities due to the lack of understanding of the technology itself and of its real 
+effects in the society.
+
+In this lack of knowledge, which is present at all levels of society and education, it is easy 
+that a narration made of distorted news or influenced by despotic fiction is inserted. This 
+risks to negatively affect the collective imagination, degenerating into distortions of reality 
+typical of the self-fulfilling prophecy theory80.
+Several  empirical  and  sociological  studies,  and  social  psychology  experiments81,  have 
+repeatedly shown how radical these capabilities of intervention can be on imagination.
+Therefore, these are actions that have an impact on the psychological, social and existential 
+spheres.  To  accompany  citizens,  laws,  regulations  and  good  technical  and  technological 
+practices are not enough (though necessary): we need a narrative and an imaginary built by 
+society in an inclusive way outlining the meanings of AI   and the roles we want to assign to it.
+
+Contemporary society, characterized by strong digitalisation, has the task of creating the 
+prerequisites for which people can develop, together and responsibly, a vision of the world 
+that is coherent with the innovations that these technologies bring with them. In this sense, 
+the value of social sciences and of public communication is enhanced even more compared 
+to the construction of a predominantly strategic narration82. If the future is the consequence 
+of  the  choices  made  in  the  present  we  cannot  raise  the  issue,  leaving  unattended  the 
+interpretation of technological development and of its social consequences.
+There are several approaches that, in a transdisciplinary way, contribute to the construction 
+of a scenario that facilitates the understanding and involvement of the human being in the 
+introduction of AI solutions.
+
+80 Ref. Robert Merton, R.K, “La profezia che si autoavvera”, in Teoria e Struttura Sociale, vol. II. Il Mulino, 1971.
+81 Ref. https://www.forbes.com/sites/kashmirhill/2014/07/10/facebook‐experiments‐on‐users/#386 e02291c3d.
+82 Ref. Challenge “Accompanying transformation”.
+
+66
+
+The challenges of AI at the service of citizens
+
+Design, arts, psychology, anthropology, sociology and other humanistic disciplines can and 
+must create links between research, industry and society, to support pedagogical initiatives 
+capable of helping different communities to understand the boundaries and implications of 
+these technologies.
+
+On the one hand, art and design have always played a crucial role in involving people in 
+a common narrative. On the other hand, they allowed the great processes of innovation 
+suggested by not focusing on needs, but on aspirations83, desire and imagination. Historically, 
+Art has helped to draw new imaginations and open new opportunities, raising the level of 
+criticism and causing the participation and involvement of people, crossing cultures, social 
+classes, professions, and skills.
+
+This task84 is finally recognized also at European level, thanks to programs that use the arts 
+to bring innovations into the common imagination, contributing to build a positive social 
+meaning, which is shared and above all aware of the advantages and uses of innovations.
+The  non-secondary  effect  of  this  approach  is,  in  economic  terms,  the  creation  of  new 
+markets; in social terms, instead, it generates greater participation, solidarity, a sense of 
+belonging to a cosmopolitan world.
+
+Offering its citizens the opportunity to socially build a shared imagination of the role of 
+technologies such as AI, is of fundamental importance not only in terms of social inclusion 
+but above all as a citizenship investment. 
+A conscious citizen, who understands and feels understood, is a citizen whose sense of 
+belonging generates greater trust in institutions. The citizen participating in public action 
+and  to  the  proposed  solutions,  inclined  to  support  and  constructive  criticism  of  the 
+government activities, is able - with different levels of involvement - to support the design 
+of always better systems and solutions, in an context increasingly free from digital and 
+cultural divides.
+
+Historically, Italy has played an exemplary role in innovating through beauty, aesthetics and 
+well being and in stimulating leading cultural and social processes.
+Innovative  by  tradition,  as  a  Nation  we  must  not  give  up  on  bringing  the  characteristic 
+features of Italian style (design, creativity, aesthetics) within this narration of the system, 
+still to be built but focused on the well being of people.
+
+A vision that constitutes for our Nation an international competitive advantage, built on 
+the ability to “imagine the world”. For this reason, it is necessary to create and support 
+initiatives in which artists and designers work side by side with AI researchers, humanists, 
+engineers and managers.
+
+83 Ref. https://publications.europa.eu/en/publication-detail/-/publication/a97a2fbd-b7da-11e7-837e-01aa75ed71a1.
+84  For example, the STARTS program of the European Commission and the “Arts program” at CERN.
+
+ITALIAN OBSERVATORY ON ARTIFICIAL INTELLIGENCE
+
+Help a community grow: public consultation for the drafting of the AI White 
+Paper
+The AI White Paper promoted by the AI Task Force was opened to public 
+consultation from 13 February to 12 March 2018 in a special section of the site 
+https://ai.italia.it/.
+
+Experts, researchers, entrepreneurs, public officials, university professors and 
+citizens have contributed with suggestions, comments, and recommendations 
+sharing experiences, articles and documents in different ways:
+- through the appropriate section present on the sides of each paragraph of 
+
+67
+
+the White Paper on the Readthedocs platform;
+
+- directly within the open threads for the purpose of the AI Task Force 
+
+Community;
+
+- via email intelligenza-artificiale@agid.gov.it;
+- through the appropriate form prepared for reporting recommendations .
+
+In total, the Task Force received more than 100 comments, contributions and 
+recommendations, many of which were incorporated into the current version 
+of the AI White Paper.
+
+Recommendations
+
+If I should make only one recommendation, I would say that machines will never 
+have common sense. Understood as something that makes me immediately 
+realise that the thing just appeared in the middle of the road is not a boulder 
+jumped out from nowhere but a plastic bag; knowing that “it is better not to talk 
+about this with my friend today”; imagining that a pin can be nailed on a wall 
+I can also use the back of a book. Or again: I’m losing a chess match (or Go, or 
+scopone scientifico...) against the computer, but I do not care because the fire 
+alarm started and we all are running towards the exit while the computer is still 
+calculating its next move, chained to its fate.
+
+Luciano Floridi
+
+Recommendations
+
+Here is a list of recommendations, drawn up taking into account the 9 challenges presented 
+in this document and the suggestions received through the public consultation.
+These recommendations are not to be considered definitive or immutable, but they evolve 
+with the continuous public debate on Artificial Intelligence.
+
+69
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Promote a national platform dedicated to the development of AI solutions in 
+order to: 
+- promote the collection of annotated data, codes and learning models;
+- organize and convey tests openly before the release of AI   systems used in 
+
+the PA in order to evaluate their behaviour and limit the anomalies and the 
+amplification of the bias;
+
+- offer adequate computing resources to experiment with techniques and solutions;
+
+Disclose  to  the  public  the  intermediate  results  of  the  elaboration  of  AI 
+algorithms (ex. parameters of neural networks) operated on data from public 
+administrations, subject to conditions that may harm the privacy and security 
+of citizens. These results must allow the reproducibility of the processes, their 
+evaluation and verifiability. 
+
+Enable with new resources the computational linguistic systems for the Italian 
+language  (such  as  digitized  lexicons  or  annotated  corpora)  to  be  distributed 
+with open licenses, in order to favour the development of services based on the 
+treatment of natural language;
+
+Develop adaptive customization and recommendation systems that facilitate 
+interaction  with  the  services  offered  by  public  administrations  based  on  the 
+specific requirements, needs and characteristics of citizens. These systems can 
+also be used to identify critical issues that hinder the improvement of public 
+services;
+
+Promote the creation of a National Competence Centre that is a point of reference 
+for the implementation of AI in the PA and that can provide predictions of impact 
+and measurement of the social and economic effects of AI systems, in order to 
+enhance the positive effects and reduce risks. The centre of competence must 
+also propose a Manifesto with the cardinal principles of the implementation of 
+AI in the PA;
+
+Recommendations
+
+6
+
+7
+
+8
+
+9
+
+Facilitate the dissemination of skills through the promotion of certification of 
+professionals working in the area of AI   (through the creation and adoption of a 
+shared framework ) and provide for the establishment of training paths for the 
+inclusion of workers with ability to understand and implement AI solutions in 
+the public administration (for example through specific courses at the National 
+School  of  Administration).  The  numerous  professional  skills  lacking  are  an 
+opportunity  to  think  about  training  courses  focus  on  lasting  and  sustainable 
+gender equality, both from a numerical point of view (ex. STEM graduates) and 
+from a financial point of view (ex. remuneration equality); 
+
+Provide  a  PA  4.0  plan  to  encourage  PA  investments  in  AI  solutions  starting 
+from a call for challenges through open innovation tools and procurement for 
+innovation;
+
+Support  the  collaboration  between  research,  business  accelerators  and 
+innovation hubs, both public and private, also at European level, to promote the 
+adoption of AI solutions in the public sector; 
+
+Establish a Trans-disciplinary Centre on AI, in synergy with the Skills Centre, 
+which will have the following tasks:
+- promote and disclose the debate on the evolution of ethics; 
+- support critical reflection on emerging ethical issues; 
+- improve the conditions for involving experts and citizens to transform technical 
+and social considerations into regulations, standards and technical solutions.
+
+10
+
+Define guidelines and processes based on the principle of security-by-design in 
+the use of AI, increasing the levels of control and facilitating the sharing of data 
+on cyber attacks to and from AI by all European countries.
+
+70
+
+And now? The first steps for an AI-ready PA
+
+All life is about problem solving. 
+(Karl Popper)
+
+This section represents a list of suggestions that is definitely not exhaustive on what could 
+be the first steps that the Public Administrations, also through the support of AgID, can 
+follow to start implementing AI or to fully exploit its potential, without incurring the risks 
+raised in the challenges of this White Paper.
+Some tools are already used by the administrations that feed them in daily life to increase 
+the efficiency and effectiveness of services; in other cases, it is necessary to think of new 
+ones, precisely to cope with the lack of adequate solutions of Artificial Intelligence that 
+support the administration in the administrative activity and in the management of services.
+In  this  paragraph,  we  aim  to  indicate  a  small  “toolbox”,  a  starting  point  pending  more 
+operational steps and paths that can give a more solid and clear context to new technological 
+solutions,  sustainable  implementation  of  Artificial  Intelligence  really  at  the  service  of 
+citizens.
+
+71
+
+AREA OF APPLICATION OF AI SOLUTIONS
+Public administrations and dedicated project teams faced with the issue of the 
+role that AI can play in the management of their activities must move from a 
+starting point: AI is not always a panacea and is not suitable for any type of 
+challenge. 
+Therefore,  it  is  necessary  to  analyse  in  advance  which  internal  processes  or 
+services to citizens can be facilitated by the use of technologies based on AI and, 
+at that point, develop the expectations and impact in relation to the support that 
+can derive in terms of efficiency and/or fairness.
+
+WELL-PLANNED INITIAL INVESTMENTS
+Once  the  Public  Administrations  have  identified  the  areas  in  which  AI  can 
+really  help,  it  is  necessary  to  reflect  on  the  resources  they  need,  starting 
+with  the  budget  necessary  to  implement  the  new  technologies,  followed 
+by  the  involvement  of  experts  (external  or  even  internal  if  appropriately 
+formed)  that  know  the  most  suitable  AI  technology  for  the  need  expressed.
+Furthermore, the Administrations cannot take into account the time necessary 
+for  the  internal  structure  to  implement  the  AI  solutions  identified,  especially 
+when large quantities of data and information must be uploaded to develop them.
+
+72
+
+The Task Force of the Italian Digital Agency remains available to explore forms 
+of co-financing and identification of the needs of the Administration through the 
+email intelligenza-artificiale@agid.gov.it.
+
+LET’S NOT FORGET THE THREE-YEAR PLAN
+AI  requires  accelerating  the  path  of  digital  transformation.  The  Three-Year 
+Plan  provides  all  the  indications  to  build  the  foundations  on  which  it  will  be 
+possible to implement AI solutions. There are already many tools useful for the 
+implementation of the Three-Year Plan, such as the minimum measures for ICT 
+security to public administrations, which must be adopted to counter the most 
+common and frequent threats to which their information systems are subject.
+Or  the  many  procurement  channels  that  can  be  activated,  depending  on  the 
+financial perimeter and the diversified technical needs: from the more classic 
+appeal  to  the  Electronic  Market  for  Public  Administration  (MEPA)  and  to  the 
+Public Connection System (SPC), in particular, lot 3 on Interoperability for data 
+and  application  cooperation  and  lot  4  on  the  creation  and  management  of 
+portals, APP, websites and web applications), up to the procurement tools for 
+innovation.
+In  particular,  on  this  last  front,  the  references  are  those  of  pre-commercial 
+procurement  (PCP,  both  on  a  national  scale  also  in  the  context  of  regional 
+planning  through  European  funds)  and  finally  to  the  public  procurement  of 
+services and innovative products (PPI).
+
+START “SMALL”
+As with many other technologies, it is advisable to test the AI on a small scale 
+before applying it at full capacity in its activities.
+Developing a pilot program allows those who decide to implement AI solutions 
+to  become  familiar  with  the  technology  and  to  correct  any  errors  during 
+development thus allowing the service itself to improve.
+There  are  several  models  that  can  be  used  to  set  up  projects  in  an  agile 
+manner: the site designers.italia.it provides a tailor-made kit for the PA for the 
+development and design of projects. 
+In addition, AI involves a series of risks, well highlighted in the various challenges 
+of the White Paper, related to data protection and privacy, ethical dilemmas, the 
+risk of bias deviations. In order to limit current and future problems as much 
+as  possible,  it  is  a  good  practice  to  involve  the  entities  involved  in  AI-based 
+services from the pilot project, exposing data and algorithms in a transparent 
+and replicable manner.
+
+WORK ON DATA
+It is useful to start from the need of AI to feed on data, at the base of every 
+application of these technologies. For this reason, a typical challenge faced by 
+those who use AI is the access, availability and quality of data.
+The higher the quality of the data, the better the accuracy and performance 
+of the AI system will be. However, public data is often collected by different 
+administrations  and,  in  many  cases,  it  is  fragmented,  limited  and  not  easily 
+accessible.
+Thus, all administrations must ensure the quality and usability of the data they 
+provide, so as to be easily employed to test, use and refine AI systems.
+Useful  tools,  modelled  on  the  needs  of  the  PA  for  the  use  of  data,  their 
+interpretation and procedures for release, are the site dati.gov.it and the National 
+Guidelines for the Valorisation of Public Information Assets.
+
+DEVELOPMENT OF PROFESSIONALISM AND SKILLS 
+Universities have great expertise in the AI sector, with dedicated R&D projects 
+and programs, in addition to the new training and teaching offer of courses and 
+the establishment of ad hoc departments.
+At the same time, administrations need substantial investment in human capital 
+to manage the growth and potential of new technological systems.
+Universities and the public sector in general should face the possible lack of AI-
+related skills with synergy and identify new models for working with AI experts 
+from the private sector and academic world. 
+On the ai.italia.it portal, a mapping of AI-related courses in Italy will soon be 
+available. 
+In the meantime, the evolution of the Italian ecosystem can be observed (https://
+ia.italia.it/en/ai-in-italy/)  related  to  start-ups,  research  centers  and  other 
+realities that deal with the production or use of AI solutions.
+
+73
+
+STAY UPDATED
+The reference portal of the Artificial Intelligence Task Force, ai.italia.it will remain 
+active  and  updated  with  the  initiatives  that  will  be  deployed  in  the  coming 
+months. It is advisable to consult it frequently and to subscribe to the newsletter 
+to stay updated on developments and news.
+The community will also remain active, where it is possible to participate in open 
+(or start new) discussions on issues related to the Task Force activity and to AI 
+in general.
+For  any 
+intelligenzaartificiale@agid.gov.it
+
+information  or  any  collaboration,  there 
+
+is  always  the  email 
+
+Appendix
+
+Summary of technical terms* 
+
+NEURAL NETWORKS
+Special  learning  machines  that  act  through  functions  corresponding  to  ensembles  of  linear 
+operators (neurons or perceptors). They are usually organized in layers, activated according to a 
+rigid order (feedforward inference), a non-linear activation function and can be trained through 
+adaptation algorithms. 
+They produce a backward reinforcement (or a penalty in the case of errors) backwards (back 
+propagation), from the results of the classification (ex. potential errors) to the adjustment of 
+the  backward  operators,  in  the  reverse  order  to  that  of  the  decision  taken.  These  networks 
+have been given the name of multilayer networks (back propagation multilayer perceptors) and 
+constitute the basic algorithmic paradigm for so-called deep learning methods.
+
+7575
+
+ 
+DEEP LEARNING
+Deep  networks  (deep  neural  networks)  are  characterized  by  a  large  number  of  layers.  They 
+exploit enormous sets of examples for the development of the operator system connected to 
+the various layers and thus proceed to the induction of optimal non-linear decision functions in 
+the space of decision functions. 
+The recent successes of these paradigms in complex games, in artificial vision or in the treatment 
+of semantic phenomena in texts, constitute one of the highest results of AI. 
+They  are  of  great  importance  because  they  show  the  practical  utility  in  the  combination  of 
+complex representations of the problem, a recursive algorithm useful in training and the results 
+of  the  theory  of  functional  optimization,  while  offering  enormous  research  prospects  at  the 
+same time.
+
+ 
+
+NATURAL LANGUAGE PROCESSING
+AI  research  sector  typically  dominated  by  a  cascade  of  complex  processes,  where  the 
+concatenation of grammatical and finally semantic morphological evidences regarding a text 
+provide (often incrementally) the necessary evidence for the interpretation of a document or a 
+network of texts.
+
+* elaboration by the IA Task Force
+
+MACHINE LEARNING
+Automatic Learning (or Machine Learning, ML), the ability to exploit data and previous experiences 
+in the performance of a task for the optimization of the operating process itself. In automatic 
+learning, the system uses data to acquire new knowledge, new rules and new decision criteria 
+that  establish  new  optimal  behavioural  models  with  respect  to  certain  criteria:  for  example, 
+more accurate decisions (for example, in cases where the system is able to decide correctly in a 
+larger number of future cases) or more cost-effective decisions (for example in cases where the 
+same decisions can be made through the use of fewer resources, such as for example with less 
+CPU operations or exploiting less memory). 
+In  Automatic  Learning,  the  data  related  to  a  problem  (task)  are  annotated  by  experts  and 
+operators and used through the application of induction algorithms in order to generate more 
+efficient explanatory and implementation models for this task. Therefore, ML is often used to 
+generate significant components of a knowledge base and inference rules for problems that 
+have a large number of examples.
+
+76
+
+ 
+
+KNOWLEDGE DISCOVERY
+According to the Unsupervised Machine Learning algorithms, it is possible to determine regularity 
+and correlations between input data by applying quantitative methods (clustering or probabilistic 
+analysis) on sets or data flows expressed by complex representation (sequences, trees, graphs). 
+The result is the induction of explanatory models of data (categories of grouping of input data 
+or rules of association between properties and classes of individuals) that are sources of new 
+knowledge emerging from data flows and may suggest phenomena to be interpreted by experts 
+(thus maintaining a perspective strongly focused on the expert, human in the loop).
+
+Bibliography
+
+BIBLIOGRAPHY 
+J. Anderson - A. Smith, AI, Robotics, and the Future of Jobs, Pew Research Center 6, 2014
+
+R. Barbrook, Imaginary Futures: From Thinking Machines to the Global Village, 2007
+
+J.D. Bolter, R. Grusin, Remediation, Understanding News Media, MIT Press Cambridge, Ma. 
+1999
+
+European Commission; “Vision and Trends of Social Innovation for Europe”, - DG for Rese-
+arch and Innovation - Open Data, Policy and Science Cloud, 2017
+
+European Parliament, Resolution with recommendations to the Commission on Civil Law 
+Rules on Robotics, 16 February 2017 
+
+77
+
+Executive Office of the President, Artificial Intelligence, Automation, and the Economy, The 
+White House, US, December 2016
+
+Executive Office of the President, Preparing for the future of AI , The White House, US, 
+october 2016
+
+U. Eco, Apocalittici e integrati, ed. Bompiani, 1964
+
+M. Ford, Il futuro senza lavoro. Accelerazione tecnologica e macchine intelligenti. Come 
+prepararsi alla rivoluzione economica in arrivo, Il Saggiatore, 2017
+
+C. B. Frey - M. Osborne, The Future of Employment: how susceptible are jobs to compute-
+risation?, The Oxford Martin Programme on Technology and Employment, 2013
+
+Government Office of Science UK, Opportunities and implications for the future of decision 
+making, november 2016
+
+I. Kant, Fondazione della metafisica dei costumi, ed. Laterza, 2005
+
+G. N. Kouziokas, The application of artificial intelligence in public administration for fore-
+casting high crime risk transportation areas in urban environment, University of Thessaly, 
+2017
+
+78
+
+B. Lepri, N. Oliver, E. Letouzé, et al., Fair, transparent and accountable algorithmic deci-
+sion-making processes. The premise, the proposed solutions, and the open challenges, 
+Science business media, Springer, 2017
+
+H. Mehr, Artificial Intelligence for Citizen Services and Government, Harvard Kennedy 
+School - ASH Center for Democratic Governance and Innovation, 2017
+
+E. Morozov, To Save Everything, Click Here. The Folly of Technological Solutionism, 2013
+
+P. Norvig - S.J. Russell, Artificial Intelligence: a modern approach, Prentice Hall Series in 
+Artificial Intelligence, 2003
+
+I. Panagiotopoulos, A. Kalou, C. Pierrakeas, A. Kameas, An Ontology-Based Model for 
+Student representation in Intelligent Tutoring Systems for Distance Learning, Educational 
+Content, Methodology and Technology Laboratory (e-CoMeT Lab) Hellenic Open University, 
+Patras, 2017
+
+A. Selbst, S. Barocas (ed), et al., AI NOW 2017 Report, New York University, 2017
+
+P. Stone, R. Brooks, E. Brynjolfsson, R. Calo, O. Etzioni, G. Hager, J. Hirschberg, S. Kalyana-
+krishnan, E. Kamar, S.Kraus, K. Leyton-Brown, D. Parkes, W. Press, A. Saxenian, J. Shah, M. 
+Tambe, and A. Teller, “Artificial Intelligence and Life in 2030”. One Hundred Year Study on 
+Artificial Intelligence: Report of the 2015-2016 Study Panel, Stanford University, Stanford, 
+CA,  September 2016 
+
+CASE STUDIES
+Feeding the Brain - Optimizing an intelligent assistant in the government sector [IP Au-
+stralia, Australian Government - September 2017]
+Chatbot MIPAAF Social - Real-time response service for citizens on Facebook Messenger 
+[Ministry of Agricultural, Food and Forestry Policies - may 2017]
+HUB Bologna 2 [Municipality of Bologna - october 2017]
+
+SITE REFERENCES
+https://ec.europa.eu/digital-single-maenbandaultralarga.italia.it
+www.sviluppoeconomico.gov.it
+www.assinform.it
+http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=48587
+http://ec.europa.eu/eurostat/web/digital-economy-and-society/data/main-tables
+http://www.agid.gov.it/agenda-digitale
+https://pianotriennale-ict.italia.it
+
+ai.italia.it
+#AItaskforce
+
+

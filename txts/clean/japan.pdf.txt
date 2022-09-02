@@ -1,0 +1,834 @@
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Artificial Intelligence Technology Strategy  
+
+(Report of Strategic Council for AI Technology) 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Strategic Council for AI Technology  
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+Table of Contents  
+
+ 
+ 
+ 
+
+1. Conditions Surrounding Artificial Intelligence Technology, Data, and Computing ··················1 
+ 
+ 
+2. Promotional Structures Related to Development of Artificial Intelligence Technology by the 
+Government  ·······································································································2 
+ 
+
+(1) Structure of Relevant Ministries  
+(2) Examination Structure of the Strategic Council for AI Technology 
+
+ 
+ 
+3. Industrialization Roadmap Projected by Fusion of AI and other related Technologies  ·············4 
+ 
+
+(1) Priority Areas  
+(2) Organization of Phases  
+(3) Industrialization Roadmap for Various Areas 
+
+ 
+ 
+4. Approaches Related to R&D and Social Implementation of Artificial Intelligence Technology 
+Focusing on the 3 Centers ························································································8 
+ 
+
+(1) R&D  
+(2) Fostering of Human Resources  
+(3) Environmental Maintenance of Data and Tools Owned by Industry, Academia, and 
+Government  
+(4) Start-up Support  
+(5) Promotion of Understanding Related to Development of AI Technology  
+
+ 
+ 
+5. Follow-up of Artificial Intelligence Technology Strategies ············································ 12 
+ 
+ 
+Roster (Chairman and Constituent Members)······························································· 14 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+1. Conditions Surrounding Artificial Intelligence Technology, Data, and Computing 
+-  As  a  result  of  promotion  of  machine  learning,  starting  with  deep  learning, 
+advancement  of  accumulation  of  enormous  amounts  of  data  on  the  Internet, 
+acceleration  of  communication  speed  due  to  broadband,  and  the  popularization  of 
+compact,  high-performance  computers  such  as  smartphones, 
+research  and 
+development  of  artificial  intelligence  (AI)  technology  has  progressed.  Domains  in 
+which AI can be used and applied have also expanded, and a social change known as 
+the “Fourth Industrial Revolution” is beginning. 
+
+-  The  AI  technology  that  is  currently  progressing  is  specialized  AI  technology  for 
+carrying  out  specialized  tasks,  and  is  used  only  to  supplement  human  capabilities. 
+Based on the progression of AI technology, various inferences have become possible 
+from past data, image recognition, language recognition, etc. By using and applying 
+AI technology as a service based on data, the capabilities of human beings are drawn 
+out to the fullest extent, human society has become abundant, including sustainability 
+of  society  and  approaches  to  social  issues  such  as  environmental  problems,  and 
+economic and industrial benefits are yielded. 
+
+-  The dramatic progress of the use and application of AI technology over the last few 
+years was led by IT companies in the United States that have Internet platforms such 
+as search engines, from the perspectives of data quality and volume. 
+
+-  Currently, IoT-related technology such as sensing has expanded to industries and real 
+society,  such  as  in  people’s  lives.  Data  collection  in  the  real  world  is  progressing, 
+domains in which AI technology such as image recognition is being used and applied 
+are  expanding,  and  international  competition  is  becoming  fiercer.  In  addition,  U.S. 
+companies  are  accelerating  social  implementation  of  natural  language  processing, 
+such  as  through  diagnostic  support  based  on  analysis  of  medical  papers  and  others, 
+expansion  towards  a  variety  of  services  for  dialogue  systems  based  on  voice 
+recognition, etc. 
+
+-  In  Japan,  high-quality  data  has  been  utilized  to  improve  productivity  at  monozukuri 
+manufacturing  sites  since  the  past.  Sectors  such  as  arts  and  culture  that  Japan  has 
+cultivated over long periods of time contain contents that can be boasted to the world. 
+It is necessary to integrate such strengths of Japan with AI technology, and to link this 
+to strengthening industrial competitive strength. Although it has been said that “Japan 
+loses in business, even if it wins in technology,” it is important to link technology to 
+business,  by  strategically  taking  the  initiative  in  international  standards  and  holding 
+intellectual  property,  and  using  cooperative  domains  and  competitive  domains  for 
+different purposes. 
+
+-  As  Japan  moves  forward  with  various  forms  of  industrialization  based  on  utilizing 
+
+and applying AI technology, the following kinds of issues are evident.  
+1)  When looking at the number of papers related to AI technology, the number of 
+Japanese papers falls below the number of papers in the U.S. and China, and it is 
+clear  that  there  is  insufficient  investment  in  research  and  development  by  both 
+the  public  and  private  sectors,  and  that  it  is  necessary  for  both  the  public  and 
+private sectors to develop a research and development environment. When doing 
+so,  ensuring  opportunities  for  social  implementation  and  development  in  terms 
+of  institutional  aspects,  while  making  considerations  to  the  roles  of  the  public 
+and  private  sectors,  such  as  by  having  the  government  be  the  central  player  in 
+carrying out basic research, are issues. 
+
+1 
+ 
+
+ 
+
+2)  As  mentioned  above,  data  is  indispensable  to  use  and  application  of  AI 
+technology,  and  data  itself  may  become  competitive  power.  In  Japan,  various 
+data  exists  currently,  but  there  are  also  cases  where  there  is  data  that  has  not 
+been  digitized,  and  other  cases  where  considerations  are  necessary  towards 
+personal  information  protection  and  usage  restrictions.  In  the  future,  it  is 
+necessary  for  industry,  academia,  and  government  to  make  collective  efforts 
+towards  developing  an  environment  where  information  input/output  devices 
+such  as  sensors  and  so  on  can  be  installed,  in  various  sectors  such  as  medical 
+care,  transportation,  distribution,  and  infrastructure.  When  doing  so,  there  are 
+many  issues  that  need  to  be  resolved,  such  as  reliability,  security,  system 
+flexibility,  personal  information  protection,  balance  between  oligopoly  and 
+utilization and application of data, and coordination among data. 
+
+4) 
+
+3)  Although social needs for AI technology have heightened, there is a shortage of 
+AI technology researchers as well as engineers and data scientists (AI personnel) 
+who  handle  AI  technology.  In  addition,  development  of  vocational  abilities  of 
+laborers  in  association  with  reform  of  the  industrial  structure  may  be  required. 
+Based on such a background, it is necessary to move forward with measures for 
+fostering researchers and AI personnel immediately.  
+In  using  and  applying  AI  technology,  open  innovation-type  projects  in  which 
+various  players  who  cross  over  sectors  participate  are  the  focus.  In  particular, 
+there are expectations for start-ups that have mobile power and human resources 
+such  as  researchers  and  freelancers  to  play  roles  in  industrialization  through 
+development,  use,  and  application  of  AI  technology.  It  is  desired  for  large 
+companies  that  are  already  in  existence  to  coordinate  with  respect  to  funding 
+start-ups  and  commercialization,  and  to  form  platforms.  In  order  to  promote 
+robust development as a business,  it is also important to appropriately evaluate 
+AI technology and establish prices that correspond to the provided services. 
+
+thus,  progress  has  been  made 
+
+5)  Although high performance of computers has advanced through high integration 
+of  semiconductors  up  until  now,  it  has  been  said  the  limitations  for  refinement 
+are  drawing  near,  and 
+in  developing 
+semiconductors  that  are  specialized  for  AI  applications,  such  as  learning  and 
+inference  that  pursue  processing  speed  more  so  than  accuracy.  In  the  future,  in 
+order  to  utilize  and  apply  AI  technology  at  sites  in  real-time,  further  power 
+consumption  reduction  and  miniaturization  of  high-performance  computers  are 
+necessary.  The  development  of  completely  new  architecture  such  as 
+neuromorphic  and  quantum  architecture,  and  the  construction  of  devices  and 
+systems  that  use  such  architecture  are  important  challenges.  Also,  in  order  to 
+transmit information from wide-area sensors and the like securely and with ultra-
+low delay, and to make judgments in real-time using AI technology, combination 
+with innovative networks (5G and so on) is important. 
+
+ 
+ 
+2. Promotional Structures Related to Development of Artificial Intelligence Technology 
+
+by the Government 
+
+(1) Structures of Relevant Ministries  
+-  Based  on  instructions  issued  by  the  Prime  Minister  in  “Public-Private  Dialogue 
+towards  Investment  for  the  Future”  in  April  2016,  the  national  government 
+
+2 
+ 
+
+ 
+
+established  the  “Strategic  Council  for  AI  Technology”.  The  Council,  acting  as  a 
+control  tower,  has  come  to  manage  five  National  Research  and  Development 
+Agencies  that  fall  under  the  jurisdiction  of  the  Ministry  of  Internal  Affairs  and 
+Communications,  Ministry  of  Education,  Culture,  Sports,  Science  and  Technology, 
+and Ministry of Economy, Trade and Industry. In addition to promoting research and 
+development of AI technology, the Council coordinates with industries related to the 
+industries  that  utilize  AI  (so-called  “exit  industries”),  and  is  moving  forward  with 
+social implementation of AI technology. 
+
+-  In particular, the Council coordinates with the three research centers (“three centers”) 
+below that are attached to the National Research and Development Agencies that are 
+run by the Ministry of Internal Affairs and Communications, Ministry of Education, 
+Culture,  Sports,  Science  and  Technology,  and  Ministry  of  Economy,  Trade  and 
+Industry,  and  plays  a  central  role  in  promoting  research  and  development  of  AI 
+technology.  
+1)  Center 
+
+(CiNet)  and  Universal 
+Communication Research Institute (UCRI) of the National Institute of Information 
+and Communications Technology (NICT)  
+
+for 
+
+Information  and  Neural  Networks 
+
+2) RIKEN Center for Advanced Intelligence Project (AIP) of the Institute of Physical 
+and Chemical Research (RIKEN) 
+3)  Artificial  Intelligence  Research  Center  (AIRC)  of  the  National  Institute  of 
+Advanced Industrial Science and Technology (AIST)  
+
+*At  NICT,  research  is  conducted  mainly  on  natural  language  processing, 
+multilingual  speech  translation,  and  brain  information  communication;  at  AIP, 
+research  is  conducted  mainly  on  basic  research  and  infrastructure  technology 
+such  as  for  new  algorithms  that  enable  for  high-precision  learning  from  small 
+amounts of data; at AIRC, research is conducted mainly on utilizing these results 
+and  linking  them  to  application  in  industrial  sectors  that  realize  optimal 
+movement of robots.  
+
+-  Projects are also being implemented through the following institutions.  
+
+4) Japan Science and Technology Agency (JST)  
+5) New Energy and Industrial Technology Development Organization (NEDO)  
+
+-  In addition to the three  ministries mentioned above, ministries  that possess big data 
+and  have  jurisdiction  over  exit  industries,  such  as  the  Cabinet  Office  (Cross-
+ministerial  Strategic  Innovation  Promotion  Program  (SIP)),  Ministry  of  Health, 
+Labour and Welfare, Ministry of Land, Infrastructure, Transport and Tourism, and the 
+Ministry of Agriculture, Forestry and Fisheries are also planning projects that utilize 
+and apply AI technology. 
+
+ 
+(2) Examination Structure of the Strategic Council for AI Technology  
+-  When the Strategic Council for AI Technology was established in April of last year, 
+the  Research  Coordination  Council  and  Industry  Coordination  Council  were  also 
+established.  The  Research  Coordination  Council  progressed  with  giving  shape  to 
+linkages in research and development carried out by the three ministries. The Industry 
+Coordination  Council  carried  out  surveys  and  investigations  on  (1)  establishing  a 
+roadmap  for 
+industrialization,  (2)  fostering  of  human  resources,  (3)  data 
+maintenance/provision  and  open  tools,  and  (4)  measures  such  as  for  fostering  start-
+ups and financial linkages, in aiming towards research and development  carried out 
+
+3 
+ 
+
+ 
+
+by the three ministries and social implementation of other businesses. The results of 
+these activities will be mentioned hereinafter. 
+
+-  With regard to ethical aspects of AI technology, intellectual property rights, personal 
+information  protection,  and  promotion  of  open  data,  separate  opportunities  for 
+examinations have been established by the government as cross-sectional items.  
+
+ 
+ 
+3. Industrialization Roadmap Projected by Fusion of AI and other related Technologies 
+(Attachment 1)  
+-  New  services  and  products  are  born  from  the  utilization  and  application  of  AI 
+technology. Fusion of AI technology with other related technologies largely includes 
+the  possibility  of  resolving  various  social  issues.  Even  when  looking  at  past 
+technologies  after  the  Industrial  Revolution,  solutions  to  social  issues,  such  as 
+automobiles, have grown into large industries. 
+
+-  In  order  for  Japan  to  lead  the  world,  it  is  necessary  to  come  up  with  a  challenging 
+roadmap oriented towards industrialization based on AI technology and other related 
+technology, based on the on-site strengths that Japan possesses with regard to social 
+issues  that  Japan  and  the  world  are  directly  faced  with.  It  is  also  necessary  for  the 
+wisdom  of  industry,  academia,  and  the  government  to  be  assembled,  and  for 
+consistent  approaches,  from  research  and  development  to  social  implementation,  to 
+be accelerated. 
+
+-   “Industrialization  Roadmap  Projected  by  Fusion  of  AI  and  other  related 
+Technologies  (Industrialization  Roadmap)”  has  been  formulated  from  such  a 
+perspective.  
+
+ 
+(1) Priority Areas  
+-  As  priority  areas  that  should  be  taken  up  for  the  time  being  as  part  of  the 
+Industrialization  Roadmap,  in  addition  to  the  three  areas  of  “productivity,”  “health, 
+medical  care,  and  welfare,”  and  “mobility”  that  were  determined  as  a  result  of 
+conducting  reviews  from  the  perspectives  of  (1)  necessity  of  urgent  solutions  for 
+social  issues,  (2)  contribution  to  economic  ripple  effects,  and  (3)  expectations  for 
+contributions  based  on  AI  technology,  a  fourth  area  of  “information  security”  was 
+also specified as a cross-sectional area. 
+
+ 
+(2) Organization of Phases  
+-  AI  technology  is  simply  a  service.  Its  usage  and  application  expand  to  various 
+
+domains only through combination with various data (= “AI as a service (AIaaS)”).  
+
+-  The  development  of  industrialization  was  organized  based  on  dividing  it  into  three 
+
+phases (Figure 1).  
+1)  Phase  1:  Utilization  and  application  of  data-driven  AI  developed  in  various 
+
+domains  
+
+2) Phase 2: Public use of AI and data developed across various domains 
+3) Phase 3: Ecosystem built by connecting multiplying domains 
+
+4 
+ 
+
+ 
+
+-  The  boundary  between  Phase  1  and  Phase  2  is  anticipated  as  being  approximately 
+2020, and the boundary between Phase 2 and Phase 3 is anticipated as being roughly 
+2025 to 2030. These phases were organized based solely on possibilities in terms of 
+technology,  and  since  it  is  necessary  to  resolve  issues  such  as  system  development, 
+social receptivity, etc. before social implementation, it is possible that more time will 
+be  required.  Also,  in  fields  such  as  automatic  operation,  it  is  necessary  to  take  into 
+consideration  that  the  possibility  of  technological  development  progressing  faster 
+than expected is large.  
+
+ 
+
+-  The  possibility  that  the  domain  in  which  AI  technology  will  expand  is  not  only 
+industry,  but  that  other  unanticipated  axes  will  appear,  such  as  various  social  axes 
+including the sphere of life, owned resources/resource saving, and business, is large. 
+
+-  Individual  technology  levels  and  data  environments,  including  semiconductor 
+architecture  that  makes  up  AI  technology,  quality  of  used  data,  location  of 
+information  processing,  data  accumulation,  etc.,  are  related  deeply 
+the 
+development of phases. 
+
+to 
+
+ 
+
+(3) Industrialization Roadmap for Various Areas 
+-  With  regard  to  each  of  the  areas  of  “productivity,”  “health,  medical  care,  and 
+welfare,”  and  “mobility,”  the  image  of  society  that  should  be  aimed  for,  and  the 
+image  of  industrialization  for  each  phase  oriented  toward  realizing  such  a  society 
+were organized.  
+
+-  The image of society and image of industrialization that should be aimed for in each 
+
+area are as follows.  
+ 
+1) Productivity  
+Image of society that should be aimed for 
+-  To  realize  user-driven  hyper  customization  through  the  realization  of  automation 
+and optimization of production systems, efficiency improvement and optimization 
+
+5 
+ 
+
+（Figure 1）Artificial Intelligence (AI) Development PhasesUtilization and application of data-driven AI developed in various domainsEcosystem is built by connecting multiplying domainsPublic use of AI and data developed across various domainsPhase 1Phase 2Phase 3Utilization of AI and data will increase together with new seeds of growth in related service industries.Public use of AI and data is developed and new industries, such as service industries, will expand. An ecosystem is established as various multiplying domains are connected and merged. *The duration of each phase is not indicated because the current situation and future development differs depending on the field.  ・Imagerecognition・Naturallanguage processing・Voice recognition/synthesis・PredictionAItechnologyArtificial intelligence as a service (AIaaS)Note:The concept of AIaaS is borderless and developed across fields.DataPersonalNature/urban spaceVoice/ConversationVitalsLife/workspaceActionand search historySales/ProductionTrafficWeatherMaps/Land formations/Urban spaceFactoryHospitalCall centerAgricultureTruck, Drone・・・・・・ServicesServicesServicesServicesServicesMultipurposeservicesMultipurposeservices・・・・・・・・・Phase 2Phase 3Phase 1ServicesNew value creation・Supply（Virtuous cycle）Approx. 2020Approx. 2025～2030Complex application services・・・ 
+
+of service industries, and matching needs  with  goods and services, leading to the 
+integration  of  manufacturing,  distribution  and  services  for  items  such  as  energy 
+and  food,  which  allows  for  the  establishment  of  an  ultimate  ecosystem  that  is 
+efficient and that will enhance productivity in society as a whole. 
+
+-  To enhance people's creativity, leading to a society where innovative services and 
+
+products can be continuously created. 
+
+Image of industrialization (Figure 2) 
+
+ 
+
+ 
+2) Health, Medical Care, and Welfare  
+Image of society that should be aimed for 
+-  To  be  the  leader  in  medical  care  and  welfare  technologies  by  utilizing  big  data 
+
+together with AI as Japan becomes the world’s most rapidly aging society. 
+
+-  To  be  the  leader  in  industries  for  health  and  longevity  by  advancing  preventive 
+medicine to avoid diseases. In 2030, over 40% of the Japanese population will be 
+elderly, and at the age of 80, people  who are willing can work actively. This will 
+not  only  increase  individual  life  satisfaction  but  also  reduce  social  security 
+expenses and address the social issue of a shrinking workforce.  
+
+ 
+
+6 
+ 
+
+（Figure2）Industrialization Roadmap Projected by the Fusion of AI and other related Technologies (Productivity)A society where innovative services and products are continuously developed-Moving from manufacturing to value creation -Prevalence of creative products and servicesProducts and services that go beyond established concepts are fused and continuously developed.Realization of  subconscious desiresPeople find things they really want and which cause them to realize new value.High value-added items become familiarAutonomous robots enable stable and high-quality production indoors and outdoors, realizing a zero-waste society.Careful deliveryNecessary items are available at reasonable prices when needed.Phase 1Phase 2Phase 3Implementation of mass customizationFailure prediction of production equipmentFurther use of data in manufacturing, logistics and procurement (shippingbefore ordering, optimization)Widespread use of new and detailedgrid  informationCooperative production by humansand robotsImplementation of robots that simulate behavior of craftsmenAutomatic maintenance of machinery and equipmentHouse and home appliances powered by AISupply of high value-added crops using robots powered by AI for farm workImplementation of neuromarketingAutomatic replenishment servicefor consumablesImplementation of dynamic pricingSpreading use of masscustomizationServices to deliver value based on prediction in multiple areasRealization of hyper customizationRobots able to perform multiple functions and cooperate with each otherAI-based prediction/ matching ofsupply and demandAI, robotsReal-time assessment of operational statusSmart factory using IoTand AIUse of robots on unmanned farmsand for craftsman workOn-demand supply serviceCreation of new servicesand products with AI  Enhancement ofpeople’s creativityInfrastructure for dataPersonal life conciergeCreation of diversified services and productsacross industrial fieldsElimination of energy waste through supply and demand matchingusing regional EMSOptimization of energy consumption by using regional energy managementsystem (EMS)Image of industrialization (Figure 3) 
+
+ 
+
+ 
+3) Mobility  
+Image of society that should be aimed for 
+-  To  make  travel  time  and  space  not  just  for  travel,  but  for  work,  life,  and 
+
+ 
+
+entertainment. 
+
+-  To  build  a  society  where  anyone  can  travel  safely  and  freely,  and  to  realize 
+environmentally-friendly travel by building a sharing economy with transportation 
+equipment for both people and goods, aiming for zero accidents caused by human 
+error in 2030 and achieving minimal social cost associated with travel. 
+
+-  To  realize  a  society  where  new  value  is  generated  by  creating  high  value-added 
+
+travel, autonomous automatic delivery, and virtual travel. 
+
+Image of industrialization (Figure 4) 
+
+ 
+ 
+
+7 
+ 
+
+ 
+
+A society that enjoys healthful life and longevity-From treatment medicine to advanced preventive medicine -Comfortable health controlEasy and enjoyable to take preventive medicine every day for disease, dementia and anti-aging, leading to a long and healthy life.Designing your own bodyDisease can be immediately cured. Also, body functions can be easily replaced by artificial organs and sensors.Easy use of advanced medicineMedical treatment with advanced techniques and equipment can be easily implemented non-invasively at home under a doctor’s care.Personal robotsGeneral-purpose robots are utilized as family members in daily life, solving the problem of nursing care and allowing people to live in peace.Phase 1Phase 2Phase 3（Figure 3）Industrialization Roadmap Projected by the Fusion of AI and other related Technologies (Health, Medical Care, Welfare)Construction of Japanese ICT integrated community care system by utilizing advanced electronic health record (EHR)AI-assisted medical examination and suggestion of prescription candidates Telemedicine and home medical careConstant health monitoring servicePrepare and organize data on health, medical care, and welfareWorldwide deployment of Japanese ICT integrated community care systemComplete medical checkup at homeCollection of everyday health data Advanced individualized/grouped medical examinationsAI-assisted drug discoverySurgical robot capable of simulating behavior of a skilled surgeonNanorobotsthat work inside the human bodySmart operating room with robots capable of supporting diagnosis using AI to assist surgical proceduresData collection, data preparationImage recognition,anomaly detectionVital sign sensorHigh-speed telecommunication,diagnostic medical equipmentAI, medical, elderly care robotsVoice recognition, semantic interpretationReplacement of body functions with artificial organsOrgan transplants, regenerative medicineRegenerative medicinePersonal healthcare conciergeImage recognition, tactile sensorDrug discoveryCare facilities with installed sensorsRobots that provide walking assistance, supervision, and support through conversationProviding a variety of functional foods customized to the health condition of an individualAI-assisted early detection, treatment and prevention of disease and illnessDevelopment of drug having a great effect on specific constitution and symptom with biomarker and DDSRobots which understand a person’s intentionsTransportation devicesAI, personal dataAutonomous control (air)Expansion of car-sharing businessAI-based supply and demand matchingPhase 1Phase 2Society that enables safe and free travel-From transportation (cost) to personalized space creation (value) -Reducing the number of people who have difficulty traveling and eliminating fatal accidents caused by human error(Accident fatalities: 1.25 million people worldwide; unlicensed people: about 6 billion overseas, 40 million domestic)High value-added travelMaximizing additional value such as sightseeing, sports and personal contact during travelFusion of cyber and physical spaceProviding a near-realistic travel experience without travelingMinimizing time and energy for transportation of people/goods（Figure4）Industrialization Roadmap Projected by the Fusion of AI and other related Technologies (Mobility)Reservations/services fortransportation devicesExpansion of GPS-related industryCollection of travel information and prediction of surrounding environment using AI and sensors3D maps/traffic control systemLevel 1, 2autonomous carDiversification of transportation devicesDiversification of spatial transportation devices such as dronesProviding valuable space for travelers Spread of telecommutingwith progress in ITLevel 3 autonomous carTransportation devices powered by IoT/expanded application maintenance industriesPrivatization of traveltime and space Industrialization of entertainmentin travelVirtual office providing face-to-face based pseudo-communicationProviding full virtual tourismAutonomous transportation/delivery technology such as platooningLevel 4 autonomous carSecuring various means of travelReal-time collectionof location and road informationInfrastructure networkAutonomous driving (ground)VR, communication environmentMaturity of sharing economy, changing the concept of ownership/use of travel equipmentAutonomous transportation/delivery servicesProviding full-scalevirtual travelRealization of multipurposeuse of owned carPhase 3Automatic version updateof transportation deviceswhile not in useProviding services that realize seamless travelExpanded peripheral industries utilizing automobile dataEdge computing 
+
+4) Information Security  
+-  The  information  security  sector  is  a  cross-sectional  sector  in  which  technological 
+development  and  implementation  move  forward,  in  line  with  the  development  of 
+AI in other sectors. With regard to “information security” technology, not only will 
+reliability  and  stability  be  emphasized,  but  the  confidentiality  of  technology  will 
+also be emphasized and technological development will progress.  
+
+ 
+ 
+4.  Approaches  Related  to  R&D  and  Social  Implementation  of  Artificial  Intelligence 
+
+Technology Focusing on the 3 Centers 
+
+-  In  realizing  the  Industrialization  Roadmap,  it  is  necessary  to  take  approaches  by 
+gathering  the  wisdom  of  industry,  academia,  and  government.  However,  national 
+institutions  starting  with  the  three  centers  should  take  on  the  role  of  platforms  for 
+industry,  academia,  and  government,  such  as  development  of  infrastructure 
+technology,  fostering  of  skilled  human  resources,  maintenance  of  public  data,  and 
+support for start-ups.  
+
+ 
+(1) R&D  
+
+1) Priority Research Policies 
+-  The  key  to  research  and  development  of  AI  technology  is  contact  with  society, 
+more  so  than  for  other  technologies.  In  national  projects  focusing  on  the  three 
+centers, among the themes in the Industrialization Roadmap, research for practical 
+application and research on fundamental /infrastructure/elemental technologies that 
+contribute  to  advancement  are  promoted  in  a  mutual  and  complementary  manner 
+for  several  themes  that  should  be  approaches  with  priority.  In  particular, 
+approaches will be made actively for challenging themes in Phases 2 and 3 of the 
+Industrialization Roadmap.  
+
+ 
+2) R&D Objectives Based on Coordination among the 3 Centers (Attachment 2)  
+-  Based  on  the  Industrialization  Roadmap,  the  three  centers  will  coordinate  and 
+make  approaches  toward  the  research  and  development  themes  that  should  be 
+approached in a manner where the National Research and Development Agencies 
+play a central role in particular. 
+
+-  The themes that should be approached based on the three centers coordinating with 
+
+each other are selected from the following perspectives.  
+-  Those for which approaches should be made consistently, from basic research 
+
+to social implementation.  
+
+-  Those for which short-term monetization cannot be expected, and development 
+
+does not move forward based on only the private sector. 
+
+-  Those in cooperative domains, such as international standardization and shared 
+
+infrastructure technology. 
+
+-  Concretely,  approaches  will  be  made  toward  the  following  kinds  of  research 
+
+themes.  
+i)  “Productivity”:  Research  and  development  of  next-generation  production 
+technology  that  enables  for  small  lot  production  of  many  products  at  proper 
+timings and in proper amounts that reflects the demand of consumers, in an aim 
+to realize hyper customization (RIKEN, AIST) 
+
+8 
+ 
+
+ 
+
+ii)  “Health,  medical  care,  and  welfare”:  Early  discovery  of  diseases  including 
+dementia,  selection  of  optimal  cure  methods,  research  and  development  of 
+systems  that  enable  for  handling  in  an  aim  to  realize  healthcare  in  which 
+diseases  are  avoided  through  advancement  of  preventive  medicine  (NICT, 
+RIKEN, AIST) 
+
+iii)  “Mobility”:  Research  and  development  of  smart  mobility  that  realizes  high 
+added values of travel space based on universal communication technology and 
+significance of map data, while coordinating with automatic traveling systems in 
+SIP (NICT, AIST) 
+
+ 
+3)  Promotion  of  R&D  Projects  Based  on 
+
+Industry-Academia-Government 
+
+Collaboration  
+
+-  Although  not  all  research  and  development  of  AI  technology  will  be  covered  by 
+only  the  three  centers,  the  three  centers  will  serve  as  hubs,  and  research  and 
+development projects will be promoted based on open innovation through industry-
+academia-government collaboration.  
+
+-  Coordination  with  projects  of  relevant  ministries  that  have  jurisdiction  over  exit 
+industries, such as the Ministry of Health, Labour and Welfare, Ministry of Land, 
+Infrastructure,  Transport  and  Tourism,  and  the  Ministry  of  Agriculture,  Forestry 
+and Fisheries, will be promoted, including the Cabinet Office’s SIP.  
+
+-  Starting last year, the government has made it an objective to increase investments 
+by  companies  in  universities  and  Research  and  Development  Agencies  by  three-
+fold over the next ten years. Even with regard to research and development of AI 
+technology, private investments are being promoted.  
+
+Concrete Examples of Approaches  
+
+-  Research  and  development  of  AI  technology  related  to  brain  information 
+communication  and  natural  language  processing  (Ministry  of  Internal  Affairs 
+and Communications, NICT)  
+
+-   “IoT/BD/AI  Information  Communication  Platform”  social  implementation 
+
+promotion project (Minister of Internal Affairs and Communications) 
+
+-  AIP Network Lab (JST)  
+-  Industry-Academia-Government  Project  at  Global  Research  Bases  Related  to 
+
+Artificial Intelligence (AIST, University of Tokyo) 
+
+-  Research  and  development 
+
+revolutionary  software  and  hardware 
+technologies, and development of  trial manufacture/design environment for the 
+latest devices for such  research  and development (Ministry of Economy, Trade 
+and Industry)  
+
+for 
+
+ 
+
+(2) Fostering of Human Resources (Attachment 3)  
+
+-  In  realizing  research  and  development  objectives  and  the  Industrialization 
+Roadmap,  as  it  has  been  pointed  out that  there  is  a  shortage  of  AI  personnel,  the 
+fostering  of  top-level  AI  personnel,  particularly  in  Phase  1,  as  immediately 
+effective players based on strong industry-academia-government collaboration is a 
+pressing necessity.  
+*  There  are  expectations  for  such  personnel 
+
+to  possess  a  variety  of 
+knowledge/general-purpose abilities related to AI (problem-solving), and be able 
+to drive knowledge on computer science/programming techniques (realization), 
+
+9 
+ 
+
+ 
+
+as well as apply concrete social issues (utilization).  
+
+-  As utilization and application of AI technology in broader industries is anticipated 
+in Phases 2 and 3, it is necessary to  foster human resources  who can disseminate 
+the value created by AI technology as industries.  
+
+-  To  exhibit  the  effects  of  fostering  of  AI  personnel,  it  is  important  to  ensure 
+opportunities where AI personnel can participate actively, from the perspective of 
+environment  development  that  attracts  AI  personnel.  From  this  viewpoint,  it  is 
+necessary  for  NICT,  RIKEN,  and  AIST  to  worthily  treat  young  researchers  from 
+Japan and abroad who can participate actively in global standards and to make not 
+only  their  salaries  but  their  work  environments  and  contents  attractive,  and  to 
+promote  approaches  such  as  welcoming  researchers  from  joint  research  partners 
+and  conducting  exchanges  with  collaborating  graduate  schools  and  external 
+researchers. 
+
+-  As  there  are  also  issues  such  as  development  of  an  educational  environment 
+corresponding to social needs and treatment and matching at companies, it is also 
+necessary to move forward with discussions related to such issues as well.  
+
+Concrete Examples of Approaches  
+
+1) New approaches for fostering immediately effective workers 
+-  Education  program  for  fostering  immediately  effective  workers  (aim  for 
+members  of  society  engaged  in  AI  to  acquire  the  latest  knowledge  on  sectors 
+required  in  their  work  and  systematic  knowledge  on  AI,  and  to  improve  value 
+creativity through practice of real common data)  
+
+2) Collaboration between universities and the industrial world  
+-  Joint  research  between  universities  and  the  industrial  world,  and  unfolding  of 
+approaches such as fostering of human resources through OJT (popularization of 
+education programs, examination of enhancement of internships, etc.) 
+
+3)  Past  approaches  by  the  government  and  research  institutions,  and  further 
+enhancements  
+-  Fostering of young human resources through JST funding 
+-  Program for fostering data-related human resources 
+
+ 
+
+(3) Environmental Maintenance of Data and Tools Owned by  Industry, Academia, and 
+
+Government (Attachment 4)  
+1) Strengthening of data maintenance in priority areas 
+-  Data is essential to technical development of AI technology. It is necessary to carry 
+out environmental development and utilize data that is linked to social needs, such 
+as  in  the  sectors  of  health,  medical  care,  welfare,  transportation,  agriculture, 
+forestry  and  fisheries.  To  do  so,  it  is  also  necessary  for  the  three  centers  to 
+coordinate with relevant ministries. 
+
+-  In addition to data itself, AI work products that is generated from data has a more 
+important value. Building a mechanism where AI work products can be distributed 
+is an important issue.  
+
+Concrete Examples of Approaches  
+
+-  Implementation of projects with the objective of data maintenance (NEDO and 
+
+others)  
+
+-  Maintenance of latest AI data test beds (NICT)  
+-  Maintenance  of  mechanism  for  smooth  and  fair  utilization  of  anonymously 
+
+10 
+ 
+
+ 
+
+processed information  
+
+ 
+2)  Strengthening  of  data  maintenance/provision  based  on  industry-academia-
+government collaboration  
+-  Large  burdens  are  associated  with  maintenance  and  provision  of  data  by 
+universities and research institutions. It is necessary to identify the necessary data, 
+and  to  develop  and  strengthen  a  support  system  for  effectively  maintaining  and 
+managing data.  
+
+-  It is also necessary to develop mock environments, simulators, and demonstration 
+environments based on industry-academia-government collaboration to efficiently 
+maintain and provide data.  
+
+Concrete Examples of Approaches  
+
+-  Strengthening  of  system  of  institutions  dedicated  to  data  maintenance  (NICT, 
+
+JST, RIKEN, and others)  
+
+-  Development  of  mock  environments,  demonstration  environments,  and  AI 
+
+clouds at global research bases related to AI (AIST)  
+
+ 
+3) Promotion of utilization and application of data owned by the private sector  
+-  Due  to  enactment  of  the  Basic  Act  for  Promotion  of  Public  and  Private  Data 
+Utilization,  it  is  necessary  for  the  national  government,  local  public  bodies,  and 
+private  business  operators  to  cooperate  and  make  approaches  toward  expanding 
+data distribution. 
+
+-  With regard to utilization of privately-owned data, it is difficult to make judgments 
+on competitive domains and cooperative domains for the data itself, and there are 
+many  issues  that  should  be  resolved,  such  as  handling  of  personal  information. 
+Examples of success, such as of the Data Distribution Acceleration Working Group 
+in  the  IoT  Acceleration  Consortium,  will  be  shared  to  promote  necessary  data 
+utilization.  
+
+-  It is also important to move forward  with developing  rules related to data profile 
+
+standardization, such as data formats, and information utilization. 
+
+Concrete Examples of Approaches  
+
+-  Data Distribution Acceleration WG (IoT Acceleration Consortium)  
+-  Building  of  a  model  for  utilization  of  medical  care  and  health  data  (PHR  and 
+
+others) (AMED)  
+
+-  IoT demonstration projects oriented towards standardization of data profiles and 
+
+so on 
+
+ 
+
+(4) Start-up Support (Attachment 5)  
+
+1) Strengthening of start-up support through open innovation 
+-  In promptly and flexibly moving forward with development of AI technology, it is 
+desired for existing large companies to coordinate in terms of funding start-ups and 
+commercialization, and for open innovation-type platforms to be formed.  
+
+-  In addition to developing opportunities for matching large corporations with start-
+ups, it is important to specify the skilled human resources at large corporations and 
+to form a network.  
+
+-  In addition, it is also important to identify issues of large corporations, and foster 
+coordinators  who  can  link  them  to  start-ups  that  have  the  technology  to  resolve 
+
+11 
+ 
+
+ 
+
+such issues.  
+
+Concrete Examples of Approaches  
+
+-  Japan Open Innovation Council  
+-  NEDO Pitch (NEDO) 
+-  Dispatch of coordinators (AIST, Organization for Small & Medium Enterprises 
+
+and Regional Innovation)  
+
+ 
+2) Fostering/securing of human resources who are responsible for start-ups 
+-  There is still a shortage of people who bear responsibility for start-ups centering on 
+the AI sector, such as there being people who have techniques but not management 
+know-how. In addition to fostering human resources for start-ups, it is necessary to 
+support  challenges  toward  commercialization  using  new  technology  and  support 
+funding at the pre-seed stage, when funding from large corporations is difficult. 
+
+Concrete Examples of Approaches  
+-  Outreach community (AIST)  
+-  AI Challenge Contest 
+-  Technology-based Startup Support Program (NEDO)  
+-  ICT Innovation Creation Challenge Program (I-Challenge!) (Ministry of Internal 
+
+Affairs and Communications)  
+
+ 
+(5) Promotion of Understanding Related to Development of AI Technology 
+-  Although  there  are  voices  of  concern  regarding  negative  impacts  on  existing 
+industries  and  employment  caused  by  advancement  and  popularization  of  AI 
+technology, it is important to overcome these negative impacts, utilize the capabilities 
+of  human  beings  to  the  fullest  extent  by  using  AI  technology  as  services,  make 
+human  society  abundant,  and  ferment  understanding  that  AI  technology  brings 
+benefits to the economy and industries.  
+
+-  Although  there  are  still  some  aspects  that  remain  unexplained,  in  principle,  such  as 
+deep learning, it is important that development itself should not be restricted because 
+of  this,  and  for  sufficient  demonstrations  to  be  carried  out  upon  progressing  with 
+development.  
+
+-  The performance and safety of AI technology partially depends on the used data and 
+environment,  and  not  only  algorithms  and  devices.  It  is  necessary  for  not  only 
+manufacturers, but service providers and users to understand AI technology as well.  
+
+ 
+ 
+5. Follow-up of Artificial Intelligence Technology Strategies 
+-  The  Strategic  Council  for  AI  Technology  will  conduct  regular  follow-ups  on  the 
+
+approaches described in these strategies. 
+
+-  It is necessary for relevant ministries to make continuous approaches from a medium- 
+and  long-term  perspective,  without  stopping  during  temporary  booms,  taking  into 
+consideration  the  Industrialization  Roadmap.  Utilization  and  application  of  AI 
+technology  have  been  progressing  rapidly,  and  relevant  ministries  and  research 
+institutions  should  move  forward  with  approaches  that  take  the  latest  trends  into 
+consideration. 
+
+-  For  matters  that  require  institutional  examinations  in  implementing  these  strategies, 
+information  will  be  provided  to  investigatory  organs,  such  as  the  Council  on 
+
+12 
+ 
+
+ 
+
+Investments for the Future, and timely examinations will be promoted.  
+
+-  Dialogues with relevant economic organizations and academic societies will be held 
+with  regard  to  these  strategies,  and  approaches  by  private  corporations  and 
+universities will be promoted. 
+
+ 
+
+ 
+
+13 
+ 
+
+ 
+

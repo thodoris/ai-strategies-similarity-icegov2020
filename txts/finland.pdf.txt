@@ -1,0 +1,3752 @@
+Publications of the Ministry of Economic Affairs and Employment  
+Ministry • 47/2017
+
+Finland’s Age of 
+Artificial Intelligence
+Turning Finland into a leading country in the 
+application of artificial intelligence 
+Objective and recommendations for measures
+
+Publications of Ministry of Economic Affairs and Employment 47/2017 
+
+Finland’s Age of Artificial Intelligence 
+Turning Finland into a leading country in  
+the application of artificial intelligence  
+Objective and recommendations for measures 
+ 
+
+Ministry of Economic Affairs and Employment, Helsinki 2017 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+Ministry of Economic Affairs and Employment 
+ 
+ISBN: 978-952-327-248-4 
+
+Layout: Government Administration Unit, Publications 
+
+Helsinki, Finland 2017 
+  
+
+ 
+
+ 
+
+ 
+
+Description sheet 
+
+Published by 
+
+Ministry of Economic Affairs and Employment 
+
+18 December 2017 
+
+Authors 
+
+Steering Group of the Artificial Intelligence Programme 
+
+Title of publication 
+
+Series and publication 
+number 
+
+Finland’s age of artificial intelligence 
+Turning Finland into a leading country in the application of artificial intelligence. Objective and 
+recommendations for measures 
+Publications of Ministry of Economic Affairs and Employment 
+MEAE reports 47/2017 
+
+Register number 
+
+ 
+
+ISBN PDF 
+
+978-952-327-290-3 
+
+Subject 
+
+ISSN PDF 
+
+Ministry 
+
+1797-3562 
+
+Website address 
+(URN) 
+
+Pages 
+
+Keywords 
+
+Abstract 
+
+http://urn.fi/URN:ISBN:978-952-327-290-3 
+
+74 
+
+Language 
+
+English 
+
+artificial intelligence, platform economy, digitilisation 
+
+Artificial intelligence has been developed and used since the 1950s, but it was not until the recent rapid developments and 
+successful applications that we have concrete proof of the opportunities it offers. Today artificial intelligence is everywhere, 
+and over the next few years it is believed that it will revolutionise transport, industry, healthcare and working life. We already 
+have success stories of artificial intelligence in abundance, but the real breakthrough is just getting started. Finland has 
+excellent opportunities to be among the winners in this transformation – when comparing the impact of artificial intelligence 
+on economic growth Finland was ranked second among 11 developed countries. 
+
+The application of artificial intelligence creates pressures for change and offers opportunities to companies, the public 
+sector, citizens and the whole of society. The extensive and successful utilisation of artificial intelligence creates conditions 
+for strong economic growth and a higher rate of employment, but at the same time a proper response to the transformation 
+of work is needed. The extensive utilisation and application of artificial intelligence offers a vision of a prosperous and 
+healthy Finland of the future. 
+
+The race for the utilisation of artificial intelligence has started, and to succeed Finland will have to make systematic efforts to 
+implement the measures proposed in this playbook. The working group on artificial intelligence gives eight proposals 
+through which Finland will enter into a successful age of artificial intelligence. www.tekoälyaika.fi   
+
+Contact person within Ministry of Economic Affairs and Employment: Director General Ilona Lundström, Enterprise and 
+Innovation Department, tel. +358 29 504 7186 
+
+ 
+
+ 
+
+Publisher 
+
+Ministry of Economic Affairs and Employment 
+
+Distributed by 
+
+Online version: julkaisut.valtioneuvosto.fi 
+
+ 
+
+ 
+
+ 
+ 
+
+Presentationsblad 
+
+Utgivare 
+
+Författare 
+
+Publikationens titel  
+
+Publikationsseriens 
+namn och nummer 
+Diarie-
+/projektnummer 
+
+ISBN PDF 
+
+URN-adress 
+
+Sidantal 
+
+Nyckelord 
+
+Referat 
+
+Arbets- och näringsministeriet 
+
+18.12.2017 
+
+Styrgruppen för programmet för artificiell intelligens 
+
+Finlands AI-era 
+Hur Finland blir ett föregångarland i tillämpning av AI. Mål och åtgärdsrekommendationer 
+Arbets- och näringsministeriets publikationer 
+ANM rapporter 47/2017 
+
+ 
+
+Tema 
+
+978-952-327-290-3 
+
+ISSN PDF 
+
+http://urn.fi/URN:ISBN:978-952-327-290-3 
+
+Ministeriet 
+
+1797-3562 
+
+74 
+
+Språk 
+
+Engelska 
+
+artificiell intelligens, plattformsekonomi, digitalisering 
+
+Artificiell intelligens (AI) har utvecklats och tillämpats ända sedan 1950-talet, men det är först den senaste tidens kraftiga 
+utveckling och framgångsrika tillämpningar som rent konkret har visat på möjligheterna med AI. AI finns i dag överallt, och 
+det förutspås att den under de kommande åren kommer att revolutionera trafik och transporter, industri, hälso- och sjukvård 
+och arbetsliv. Även om det redan finns många exempel på framgångshistorier relaterade till AI, har AI-revolutionen bara 
+börjat. Finland har utmärkta möjligheter att bli en av vinnarna i denna revolution – i en jämförelse av AI:s inverkan på den 
+ekonomiska tillväxten placerar sig Finland på andra plats av elva industriländer.  
+
+Tillämpning av AI skapar tryck på förändring och innebär möjligheter för företag, den offentliga sektorn, medborgarna och 
+hela samhället. En bred och lyckad användning av AI skapar möjlighet till stark ekonomisk tillväxt och höjd sysselsättnings-
+grad, men samtidigt är det nödvändigt att reagera på de förändringar det innebär för arbetslivet. Omfattande användning 
+och tillämpning av AI ger en vision om ett välmående Finland i framtiden. 
+
+Kapplöpningen om utnyttjande av AI har börjat och för att klara sig i den bör Finland målmedvetet genomföra de åtgärder 
+som föreslås i denna strategiska rapport. Arbetsgruppen för artificiell intelligens ger åtta rekommendationer för hur Finland 
+kan bli framgångsrikt i AI-eran. www.tekoälyaika.fi. 
+
+Kontaktperson vid arbets- och näringsministeriet: Närings- och innovationsavdelningen, överdirektör Ilona Lundström,  
+tfn +358 29 504 7186 
+
+ 
+
+ 
+
+ 
+
+Förläggare 
+
+Distribution 
+
+Arbets- och näringsministeriet 
+
+Elektronisk version: julkaisut.valtioneuvosto.fi 
+
+ 
+
+ 
+
+Kuvailulehti 
+
+Julkaisija 
+
+Tekijät 
+
+Työ- ja elinkeinoministeriö 
+
+Tekoälyohjelman ohjausryhmä 
+
+18.12.2017 
+
+Julkaisun nimi 
+
+Julkaisusarjan nimi  
+ja numero 
+
+Suomen tekoälyaika – Suomi tekoälyn soveltamisen kärkimaaksi:  
+Tavoite ja toimenpidesuositukset 
+Työ- ja elinkeinoministeriön julkaisuja  
+TEM raportteja 47/2017 
+
+Diaari/hankenumero 
+
+ 
+
+ISBN PDF 
+
+URN-osoite 
+
+Sivumäärä 
+
+Asiasanat 
+
+Tiivistelmä 
+
+978-952-327-290-3 
+
+Teema 
+
+ISSN PDF 
+
+Ministeriö 
+
+1797-3562 
+
+http://urn.fi/URN:ISBN:978-952-327-290-3 
+
+74 
+
+Kieli 
+
+Englanti 
+
+tekoäly, alustatalous, digitalisaatio 
+
+Tekoälyä on kehitetty ja sovellettu aina 1950-luvulta lähtien, mutta vasta viimeaikainen voimakas kehitys ja menestyksek-
+käät sovellukset ovat osoittaneet sen mahdollisuudet konkreettisesti. Tekoäly on tänä päivänä kaikkialla ja sen uskotaan 
+mullistavan liikenteen, teollisuuden, terveydenhuollon ja työelämän seuraavien vuosien aikana. Vaikka on jo olemassa 
+paljon esimerkkejä tekoälyn menestystarinoista, on tekoälyn murros vasta alkamassa. Suomella on erinomaiset mahdolli-
+suudet olla tämän murroksen voittaja – verrattaessa tekoälyn vaikutusta talouskasvuun, Suomi sijoittuu toiseksi 11 kehitty-
+neen maan joukossa.  
+
+Tekoälyn soveltaminen luo muutospaineita ja tarjoaa mahdollisuuksia yrityksille, julkiselle sektorille, kansalaisille ja koko 
+yhteiskunnalle. Laaja ja onnistunut tekoälyn hyödyntäminen luo mahdollisuuden vahvaan talouskasvuun ja työllisyysasteen 
+nostoon, mutta samalla työn muutokseen on välttämätöntä vastata. Tekoälyn laaja hyödyntäminen ja soveltaminen tarjoaa 
+vision tulevaisuuden hyvinvoivasta Suomesta. 
+
+Kilpajuoksu tekoälyn hyödyntämisessä on alkanut, ja pärjätäkseen Suomen tulee määrätietoisesti toteuttaa tämän pelikirjan 
+toimenpiteitä. Tekoälytyöryhmä antaa kahdeksan suositusta, joiden kautta Suomessa voi koittaa menestyksekäs 
+www.tekoälyaika.fi.  
+
+Työ- ja elinkeinoministeriön yhdyshenkilö: Elinkeino- ja innovaatio-osasto, ylijohtaja Ilona Lundström,  
+puh. +358 29 504 7186 
+
+ 
+
+ 
+
+ 
+
+Kustantaja 
+
+Työ- ja elinkeinoministeriö 
+
+Julkaisun jakaja 
+
+Sähköinen versio: julkaisut.valtioneuvosto.fi 
+
+ 
+ 
+
+ 
+
+ 
+
+Table of contents 
+
+Preface ................................................................................................................. 9 
+
+Abstract ............................................................................................................. 11 
+
+A Vision for Finland in the age of artificial intelligence ................................. 14 
+
+1 
+
+The role of artificial intelligence in Finland's wellbeing ......................... 15 
+1.1  Artificial intelligence around the world ........................................................................ 19 
+Companies as drivers of artificial intelligence in the United States .................................. 20 
+The government leads artificial intelligence development in China ................................. 20 
+Europe has numerous differing strategies for artificial intelligence .................................. 21 
+Japan is to become Society 5.0 ....................................................................................... 22 
+What can Finland learn? .................................................................................................. 23 
+1.2  Finland’s possibilities in the global markets ............................................................... 23 
+Business revolution .......................................................................................................... 23 
+Reform of the public sector .............................................................................................. 24 
+The possibilities made available to Finland by megatrends ............................................. 25 
+Artificial intelligence will add anticipation capacity to the energy sector .......................... 25 
+Heading towards intelligent transport ............................................................................... 25 
+Artificial intelligence used to create security .................................................................... 26 
+Robotics to facilitate better wellbeing ............................................................................... 26 
+Seamless cooperation between man and machine is vital .............................................. 27 
+1.3  Finland’s strengths and weaknesses........................................................................... 28 
+Expertise, high-quality data and cooperation as strengths .............................................. 28 
+Weaknesses include limited resources and a small internal market ................................ 29 
+
+2  Artificial intelligence will transform our society ..................................... 32 
+2.1  Companies are leaders in the application of artificial intelligence ........................... 32 
+International cooperation is of great importance in all activities ....................................... 34 
+2.2  Artificial intelligence facilitating a more efficient public sector ................................ 34 
+Artificial intelligence will bring better service .................................................................... 35 
+2.3  Artificial intelligence will revolutionise society .......................................................... 36 
+Impacts in all sectors ....................................................................................................... 36 
+What will happen to work in the age of artificial intelligence? .......................................... 37 
+
+ 
+
+ 
+
+3 
+
+ 
+
+The importance of interpersonal skills and communication will be emphasised .............. 38 
+Education will support society in this time of change ....................................................... 39 
+Moving forward with a passive or active strategy? ........................................................... 39 
+
+Eight key actions for taking Finland towards the age of 
+artificial intelligence: Recommendations by the artificial 
+intelligence working group ....................................................................... 41 
+1.  We will enhance the competitiveness of companies through the use of  
+
+artificial intelligence ...................................................................................................... 41 
+Enterprise-driven ecosystems to help in the application of artificial intelligence .............. 42 
+Incentives to utilise artificial intelligence solutions ........................................................... 43 
+2.  We will utilise data in all sectors .................................................................................. 44 
+The accumulation and enrichment of Finnish data resources .......................................... 44 
+MyData will be opened for use by citizens ....................................................................... 45 
+The piloting of data providers: In what way can data be turned into a product? .............. 46 
+3.  We will speed up and simplify the adoption of artificial intelligence ........................ 46 
+Using the artificial intelligence accelerator to help us get started .................................... 47 
+Areas of free intelligence create an environment for trials ............................................... 48 
+4.  We will ensure top-level expertise and attract top experts ........................................ 49 
+Creating a Centre of Excellence for artificial intelligence and applied basic research ..... 49 
+Broad-scoped expertise in artificial intelligence and its application ................................. 50 
+We will work to attract international artificial intelligence experts to Finland .................... 51 
+A Master of Artificial Intelligence degree will provide more expertise .............................. 52 
+5.  We will make bold decisions and investments ........................................................... 52 
+Research and innovation funding that will support renewal ............................................. 53 
+6.  We will build the world’s best public services ............................................................ 54 
+The citizen’s Aurora assistant .......................................................................................... 54 
+Various data must function together ................................................................................ 55 
+7.  We will establish new cooperation models ................................................................. 56 
+A new age of PPP cooperation ........................................................................................ 56 
+8.  We will make Finland a trendsetter in the age of artificial intelligence .................... 57 
+
+Finland is in the driver's seat in drawing up a European agenda for  
+artificial intelligence .......................................................................................................... 57 
+Follow-up questions on the road to the age of artificial intelligence ................................. 58 
+The labour market and unemployment security in the age of artificial intelligence .......... 58 
+The age of artificial intelligence will bridge from work to work ......................................... 59 
+Ethical questions related to artificial intelligence .............................................................. 59 
+
+ 
+
+Coordination of digitalisation ............................................................................................ 60 
+Overall security ................................................................................................................ 60 
+
+4  How will work in the field of artificial intelligence continue? ................ 61 
+Join the conversation! ...................................................................................................... 61 
+Online workshops and courses ........................................................................................ 62 
+Follow the programme’s progress .................................................................................... 62 
+The final report is to be completed in 2019 ...................................................................... 62 
+
+Appendix 1: What is artificial intelligence? .................................................... 64 
+
+Appendix 2: Definition of ecosystem .............................................................. 66 
+
+Appendix 3: Current state of artificial intelligence education ....................... 67 
+
+Appendix 4: Citizens' opinions ........................................................................ 68 
+
+Appendix 5: Assignment and activities of the Artificial Intelligence  
+
+              Programme Steering Group ........................................................ 71 
+
+ 
+ 
+
+ 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 41/2017. 
+
+ 
+
+PREFACE 
+
+Dear reader, 
+
+How can we ensure that Finland becomes one of the frontrunners among countries 
+that apply artificial intelligence? At the end of May 2017, Minister of Economic Affairs 
+Mika Lintilä appointed a working group tasked with answering this question. The spe-
+cial nature of the task at hand is that it requires consideration of measures reaching 
+far into the future and at the same time measures that are relevant today. The report’s 
+conclusions will have an impact on the whole of society. 
+
+The working group on the future utilisation of artificial intelligence summed up its as-
+signment with four questions: (1) How can the public and private sectors best work to 
+ensure that companies receive adequate support for the production of artificial intelli-
+gence-based innovations? (2) How can data-driven businesses benefit from the sec-
+ondary use of the public sector's information resources? (3) How will artificial intelli-
+gence affect us as individuals and what will be its impact on the future of work? What 
+will be its wider impact on society? (4) What types of measures are required from the 
+public sector as we move towards the age of artificial intelligence?  
+
+This report is the first stage in ongoing work that will hopefully extend over several 
+years. We are only now beginning to understand the importance artificial intelligence 
+will have in regard to wellbeing for Finland. We are also just beginning to determine 
+what actions we need to implement in order to reach our objectives.  
+
+A broad network of experts was utilised in the work leading up to this report. This form 
+of working can be called a network of networks. It provided knowledge on each of the 
+themes that is as extensive as possible. The working group will continue its work until 
+the end of the current government's term as the steering group for the artificial intelli-
+gence programme. It will continue its concrete work, steering Finland into the age of 
+artificial intelligence. The group will carry on in the preparation of changes by focus-
+ing, for example, on the open questions presented in the report. The most significant 
+of these is the question of what impacts artificial intelligence will have on future work 
+
+ 
+
+ 
+
+9 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+and how it will impact society. The recommended measures related to this question 
+will be published in August 2018. 
+
+We are already moving full speed ahead on our way to the age of artificial intelli-
+gence. To ensure our success, in our report we have provided eight key actions for 
+Finland. These are proposals for actions, drawn up by working groups and networks, 
+which will help open the way for wellbeing in our future. We know for certain that the 
+current view will rapidly change and be updated as this work progresses. For this 
+reason, it is essential that cooperation between different actors continues to be as in-
+depth as possible. All of Finland is facing a completely new era, and each of us will 
+have an effect on how we understand the future. We can only create new solutions for 
+the changing world if we work together. 
+
+We would like to thank all of you who have been involved in this initial stage of the 
+work. You have participated in important voluntary work to develop the understanding 
+of artificial intelligence and your contribution has been vital to building the proposals 
+for key actions. The secretariat has been particularly intensely involved in the work. 
+We received vital content from the steering group appointed for this work as well as 
+from three sub-groups and their chairmen. 
+
+Together, we are moving forward into Finland’s prosperous age of artificial intelli-
+gence.  
+
+ 
+
+23 October 2017 
+
+                       
+
+ 
+
+Pekka Ala-Pietilä                         
+Programme chair                                  
+
+ 
+ 
+
+Ilona Lundström 
+Deputy chair of programme 
+
+  
+
+ 
+
+ 
+
+10 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+ABSTRACT 
+
+A prosperous Finland as a target - in the age of artificial intelligence 
+
+We do not yet know what artificial intelligence will bring with it in the future or all the 
+things that this will have an influence on. However, we do know that now that compu-
+ting capacity and data storage volumes have increased enormously, the technology 
+required by artificial intelligence has reached the required level for the strong devel-
+opment of artificial intelligence that we have been promised for over 60 years. 
+
+Today, artificial intelligence is already part of our daily lives. Our chats are answered 
+by robots, we ask our phone's Siri for advice and we are currently in the process of 
+preparing transport that will allow us (at some point in time) to eliminate the greatest 
+threat to safety: human drivers. In the future, the role of artificial intelligence as part of 
+our daily lives will grow, and it will be utilised in increasingly challenging tasks, such 
+as in assisting doctors, process engineers or lawyers.  
+
+Economic growth will be established with increased work and new investments, as 
+well as the ability of both companies and the public sector to utilise new technology. 
+The ability to utilise new technology accounts for up to two-thirds of growth. For this 
+reason, information and communication technology (ICT) is the most significant single 
+technology on which the improvement of growth and productivity can be built. Artificial 
+intelligence is like a turbocharger in an ICT engine. Or perhaps it is similar to Pop-
+eye's spinach, providing almost natural properties to learning neural network-based 
+computer programmes. From the point of view of citizens and users, it is comparable 
+to a new electricity; so commonplace that we do not notice its functions, but so indis-
+pensable that we would not be able to get by without it in the future. 
+
+What kind of impact will artificial intelligence have? What will its influence apply to? 
+How quickly will its positive or painful impacts be reflected in our everyday lives? We 
+as a society, as companies, as public sector actors and as individuals must search for 
+answers to these and many other questions. The role of the predictor has been par-
+ticularly thankless in matters related to technological development. This is also the 
+case with artificial intelligence. 
+
+Finland has excellent prerequisites for benefiting from the application of artificial intel-
+ligence. Finland was placed second after the United States among 11 developed 
+countries in which the economic growth potential made possible by artificial intelli-
+
+11 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+gence has been assessed.1 This is partly due to Finland’s business structure and 
+investment product-driven industry and the public sector's degree of digitalisation as 
+well as Finland’s high level of education.  
+
+Making use of the economic growth potential brought about by artificial intelligence 
+will require informed decisions and efficient implementation. McKinsey has conducted 
+a study on the future of work and artificial intelligence, as well as on automation, in 
+nine countries considered frontrunners in the digital revolution2. Two key questions 
+arise in the section on Finland: 
+
+•  How actively can companies operating in Finland and Finland’s public 
+sector make use of and apply the solutions for the development of oper-
+
+•  Will development activities be used primarily for the development of new 
+things and creating growth or for improving the efficiency of current op-
+erations? 
+
+ations that artificial intelligence facilitate? 
+ 
+
+ 
+
+There significant differences in the alternative projected future scenarios for 2030. If 
+we put the brakes on and fall behind everyone else in artificial intelligence develop-
+ment, and focus out development on improving the efficiency of current activities, this 
+will see our GDP increase annually by 0.8% and our net employment will fall by 0.5% 
+until 2030. These figures will be fundamentally different if active artificial intelligence-
+based development activities focus on development and the creation of growth in new 
+areas. In this case, Finland's GDP per person would grow by 3% a year until 2030 
+and our net employment would be up to 5% higher.  
+                                                
+ 
+1 Accenture and Frontier Economics, “Why Artificial Intelligence is the Future of Growth”, 2017. 
+2  McKinsey&Company,  “Digitally-enabled  automation  and  artificial  intelligence:  Shaping  the 
+future  of  work  in  Europe’s  digital  front-runners”,  2017.  Finland-specific  figures  from  a  non-
+published country appendix. 
+
+12 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Finland's artificial intelligence-based growth potential is thus very high. By making 
+informed decisions, we can have a positive impact on economic growth and net em-
+ployment. Put simply, this means that in order for Finland to remain a prosperous 
+country, Finland must be able to learn quickly and to apply new technology smartly. 
+This applies to companies and the public sector, as well as individual citizens.  
+
+Artificial intelligence-driven new business will split companies more clearly than 
+normal into those that benefit from artificial intelligence and those that are left lagging 
+behind. Pioneering companies involved in the global consumer business can benefit 
+disproportionately from their technological advantage in market share competition. 
+However, examples are not directly applicable to investment-intensive sectors, which 
+the Finnish business structure represents. 
+
+The public sector will benefit as artificial intelligence creates an exceptional oppor-
+tunity to accelerate development. We are on our way towards a society that predicts 
+service needs and is able to respond better and more effectively than previously to 
+each citizen’s needs and life situation. 
+
+Ordinary citizens will benefit from the numerous new possibilities for a more reward-
+ing working life and the wellbeing that artificial intelligence-based new technology will 
+create. This change will naturally also include transition stages that will bring some 
+challenges and uncertainty. 
+
+As for its impact on society, artificial intelligence-based new technology – with all its 
+related pressures for change – will measure the capacity for change and the rate of 
+change of multiple institutions in a situation where correctly timed decisions must be 
+made in the midst of greater uncertainty. 
+
+ 
+
+ 
+
+ 
+
+13 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+A VISION FOR FINLAND IN THE AGE OF ARTIFICIAL 
+INTELLIGENCE 
+
+In another five years time, artificial intelligence will be an active part of every Finn's 
+daily life. Finland will make use of artificial intelligence boldly in all areas of society – 
+from health care to the manufacturing industry – ethically and openly. Finland will be a 
+safe and democratic society that produces the world’s best services in the age of arti-
+ficial intelligence. Finland will be a good place for citizens to live and a rewarding 
+place for companies to develop and grow. Artificial intelligence will reform work as 
+well as create wellbeing through growth and productivity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+1  The role of artificial intelligence in 
+
+Finland's wellbeing 
+
+These days, it seems that artificial intelligence is everywhere. Artificial intelligence is 
+expected to revolutionise transport, industry, health care and working life in the com-
+ing years. Even so, artificial intelligence is not a new technology, rather it has been 
+researched and applied in various ways since the 1950s. Over the past few decades, 
+the development of artificial intelligence and the expectations based on this have ex-
+perienced both up-hills and down-hills. Artificial intelligence and its related expertise 
+have also been developed in Finland from the inception of artificial intelligence. For 
+example, Professor Teuvo Kohonen is one of Finland's pioneers in the field and is 
+known worldwide for his work.3 
+
+The recent increase in and development of artificial intelligence are based primarily on 
+the rapid growth of computational capacity and easily available and affordable data 
+that can be used for the teaching of artificial intelligence (i.e. educational data). The 
+availability and accessibility of data have particularly influenced the more widespread 
+use of affordable sensors, the growth of storage capacity and a decrease in the cost 
+level, as well as the simplicity of data transfer via the internet. What is artificial intelli-
+gence exactly? 
+
+Artificial intelligence is an extensive entity for which there is no precise definition. 
+When speaking about the application of artificial intelligence, it is not necessary to 
+give a very specific definition but, rather, it is necessary to give an appropriate one. In 
+this report, artificial intelligence refers to devices, software and systems that are able 
+to learn and to make decisions in almost the same manner as people. Artificial intelli-
+gence allows machines, devices, software, systems and services to function in a sen-
+sible way according to the task and situation at hand.  
+
+                                                
+ 
+3 Professor Kohonen is one the world’s best-known researchers of neural networks and the self-
+organising maps he developed were widely adopted in artificial intelligence algorithms. 
+
+15 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+However, artificial intelligence alone is often not enough to produce benefits – it also 
+needs a great deal of other technology, as well as data resources. Finland’s strengths 
+that will allow it to succeed in the global transition to artificial intelligence lie largely in 
+artificial intelligence apps and areas that support the application of artificial intelli-
+gence. It is in part for this reason that the objective set for the artificial intelligence 
+working group appointed by Minister Lintilä has been to make Finland a leading coun-
+try in the application of artificial intelligence. This in turn means that the working group 
+must also look for the ways in which artificial intelligence can be utilised and the ways 
+in which we can best benefit from its development.  
+
+The ultimate goal of the working group is to ensure a prosperous Finland in a time 
+when artificial intelligence is widely used. In order to achieve this objective, the work-
+ing group has prioritised its three main challenges which are examined in this report: 
+
+1.  How can we ensure that the potential offered by artificial intelligence is 
+utilised to its full extent in order to guarantee the competitiveness and 
+economic growth of business?  
+
+2.  How can we ensure that the public sector is able to make use of the 
+possibilities offered by artificial intelligence in its own activities and is 
+able in this way to effectively produce high-quality public services? 
+3.  How can we ensure that our social structures adapt to the changes 
+brought about by artificial intelligence and that Finland will be able to 
+continue to provide a well-functioning society and wellbeing for its citi-
+zens?  
+
+ 
+
+ 
+
+16 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+The provision of high-quality public services and a well-functioning society requires 
+economic growth, which has traditionally been based on the growth of capital, labour 
+and productivity.4 In a country such as Finland, which is technology intensive but has 
+a small internal market, there is no great growth in capital and labour on the horizon. 
+The most significant factor in economic growth has been the development of technol-
+ogy and the ability to apply it both in the private and public sectors.  
+
+Finland has excellent prerequisites for the utilisation and application of artificial intelli-
+gence. If we are able to take full advantage of the possibilities created by artificial 
+intelligence, the growth of economic value in the Finnish economy is estimated to 
+double by 2030. This will requires that Finland invests in the development and appli-
+cation of technology as well as in our ability to adapt. Unlocking our potential will also 
+require strong scientific support as well as the ability to put possibilities created by 
+artificial intelligence into practice in both the private and public sectors. Legislation 
+should naturally also support the change.5  
+
+Individuals and their expertise will have a prominent role in achieving the benefits of 
+artificial intelligence. In this respect, Finland is again in a good position as it is able to 
+apply artificial intelligence and develop artificial intelligence-based solutions in an 
+agile manner. However the large-scale application of artificial intelligence also comes 
+with uncertainties and threats related to wellbeing, such as the fear of the loss of jobs. 
+It is difficult to predict the future, but public debate tends to emphasise two areas of 
+concern in particular: the amount of work (i.e. how many people will have a job in the 
+future) and the quality of work (i.e. the ways in which people's work will change). The 
+bleakest predictions indicate that the amount of jobs and work available to people will 
+decrease, the meaningful content of work will decline and the labour market status 
+and earnings trend of employees will become more uncertain. Even so, experiences 
+thus far also indicate the opposite: the amount of human work carried out alongside 
+automation will increase, contrary to expectations, and work tasks will become more 
+meaningful as artificial intelligence assists in the performance of duties. 
+
+It is likely that previous major structural changes to the economy, such as transitioning 
+from an agriculture- and forestry-driven society to an industrial and post-industrial 
+one, have been more severe with regard to the loss of jobs than the changes these 
+new changes will bring. The structural change that will come with artificial intelligence 
+will also affect the jobs of people in higher-wage specialist professions such as doc-
+tors or lawyers. People working in these professions are often very capable of adapt-
+ing to change, but in a growing number of cases they may have to take on jobs with a 
+lower wage than previously. It has been predicted that artificial intelligence will further 
+                                                
+ 
+4 Elinkeinoelämän Tutkimuslaitos ETLA, ”Mistä talouskasvu syntyy”? (Sarja B 214)  
+5 Accenture and Frontier Economics, Why Artificial Intelligence is the Future of Growth, 2017 
+
+17 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+increase demand for expertise and education, and the wage benefits related to these. 
+One could imagine that the opposite view might also be possible – one where jobs 
+requiring currently available expertise and education will be simplified as a result of 
+the development of artificial intelligence and the extensive application of digitalisation. 
+In any case, we are only just at the beginning of the journey into the broadly scoped 
+application of artificial intelligence technology. As a consequence, the demand and 
+pay level for the field’s experts will now increase dramatically. They are the most ob-
+vious beneficiaries in this initial phase. 
+
+However, in the future, artificial intelligence will have the greatest impact on the work 
+tasks in which it is directly applied and utilised. While it is true that artificial intelligence 
+will transform work, in the short term there is no mass disappearance of jobs in sight. 
+According to McKinsey's study, approximately 10% of all work tasks are those in 
+which over 90% of the work involved in the task can be automated by 2030. On the 
+other hand, around 40% of all could be automated with artificial intelligence, which 
+means that artificial Intelligence is due to change the performance of many different 
+work tasks at quite a rapid pace. In practice, routine data work tasks in particular can 
+be automated, and artificial intelligence apps will increasingly support people in com-
+pleting different tasks.6 Therefore, artificial intelligence will function as a form of sup-
+port intelligence for people in many areas of use and this in turn will facilitate the per-
+formance of tasks and improve the quality of the end result.  
+
+The change brought about by artificial intelligence is international and will require 
+employees to have the ability to learn how to work with artificial intelligence, what its 
+limits are and how to make the best use of artificial intelligence. In Finland’s case, this 
+is a clear opportunity – Finns are highly educated and view technology in a positive 
+light. Finns may therefore be able to adapt to artificial intelligence considerably faster 
+than people in other countries. In addition, Finland has a relatively good basic exper-
+tise in the application of artificial intelligence and the technologies that support it. 
+From Finland’s perspective, it is essential to actively search for ways to utilise artificial 
+intelligence and to support the training of workers.   
+
+ 
+
+ 
+
+ 
+
+                                                
+ 
+6 VTT Policy Brief 1/2017: Tuottoa ja tehokkuutta Suomeen tekoälyllä 
+
+18 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+1.1  Artificial intelligence around the world 
+
+Artificial intelligence is one of the world's most significant technology revolutions. It will 
+have a significant impact on the competitiveness of both countries and companies.  
+
+Investments in artificial intelligence by both countries and companies have increased 
+quickly, particularly in the United States and China. For example, in 2016, artificial 
+intelligence-related investments by technology giants Google and Baidu were esti-
+mated to total $20–30 billion, including completed corporate mergers. In addition, risk 
+financing has tripled in three years and it totalled approximately five to eight billion 
+dollars in 2016.7 Over the past few years, several governmental initiatives have been 
+established that aim to support the private and public sectors in the utilisation of the 
+possibilities produced by artificial intelligence and to ensure the functioning of society 
+at a time when artificial intelligence is widely used.  
+
+At the moment, the United States is the leading country in the development and appli-
+cation of artificial intelligence (according to numerous indicators). In 2016, approxi-
+mately 66% of all artificial intelligence investments were made in the United States.8 
+China is closing the gap with strong investments and a state plan (17% of investments 
+made in 2016).  
+
+Europe is very clearly lagging behind, and development is hindered by such things as 
+heterogeneous legislation and data resources. However, Europe’s development is 
+picking up, especially in the UK, Germany, France and the Nordic countries.9   
+
+ 
+
+                                                
+ 
+7 McKinsey Global Institute, “Artificial Intelligence: The next Frontier?”, Discussion paper, June 
+2017 
+8 Ibid. 
+9 Galina Degtyareva, “European AI startups landscape”, Medium.com, March 21, 2017 
+
+19 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Companies as drivers of artificial intelligence in the United States 
+
+A number of policy measures have been implemented in the United States, especially 
+during President Barack Obama’s terms. These policy measures emphasised in par-
+ticular society’s perspective and assessments have focused on three aspects10: 
+
+1.  How can we support the development of artificial intelligence and pro-
+
+mote its positive effects? 
+
+2.  What impact will artificial intelligence have on workplaces, and how can 
+
+the population be educated for future working life? 
+
+3.  How can we support the labour force during this change, and how can 
+
+we guarantee economic growth and the distribution of income during this 
+revolution? 
+
+The United States does not have a state-run artificial intelligence programme in place 
+(such as China does). Instead, development is based on existing structures and ef-
+forts. Even so, these efforts are quite significant in size and the public sector's devel-
+opment efforts as well as the defence industry (e.g. NSF and Darpa) have also had a 
+strong impact on speeding up development.  
+
+The United States’ strength lies in the efforts and activities of leading artificial intelli-
+gence companies. For example, the operating models of global market leaders – such 
+as Apple, Google and Facebook – are based on the digital platform economy. These 
+companies have access to extensive data, on the basis of which they are able to easi-
+ly and efficiently develop artificial intelligence technology and apply it to various busi-
+ness activities.  
+
+There are also a number of innovation hubs, such as Silicon Valley in the United 
+States, where a group of dynamic startups operate alongside large corporations. Uni-
+versities support companies in their development work by providing access to re-
+search results and experts. On the other hand, the research organisations receive 
+data from companies and companies also contribute strongly to research institutes in 
+various ways. However, accessing data has grown more difficult recently as compa-
+nies have come to understand its value and the competitive advantage it provides.  
+
+The government leads artificial intelligence development in China 
+
+In China, the starting point is completely different. The Chinese central government 
+has taken control of the sector’s development and the creation of related business. In 
+                                                
+ 
+10 Executive Office of the President (EOP), “Artificial intelligence, automation, and the economy”, 
+2016 
+
+20 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+2016, the Chinese government announced that it would create a 15 billion dollar artifi-
+cial intelligence market by 2018. The investments resulting from this are apparent, for 
+example, in patent and startup statistics.11 It is true though that there are also corpo-
+rations that are world leaders in the utilisation of artificial intelligence, such as Alibaba 
+and Tencent, based in China. 
+
+In July 2017, the Chinese government published its Next Generation Artificial Intelli-
+gence Development Plan. The objective of this plan is to propel China to the position 
+of a global leader in the development of artificial intelligence and to make the country 
+a leading artificial intelligence innovation hub by 2030. The idea is to utilise research 
+and development activities to increase the size of the artificial intelligence industry. 
+The new AI Plan Promotion Office, which is part of the Ministry of Science and Tech-
+nology, is responsible for managing the centralised implementation of the plan. The 
+plan has been divided into three phases12: 
+
+By 2020 China will have a world-leading rate of general development and ap-
+plication. At the same time, the artificial intelligence industry will be an im-
+portant market growth area. 
+
+By 2025 artificial intelligence will be a key driver of industrial and economic re-
+form. China will be a leading country in artificial intelligence research and de-
+velopment, and will apply artificial intelligence extensively in industry and 
+medicine, as well as its defence industry. 
+
+By 2030 China will be the world’s leading artificial intelligence innovation hub. 
+China has already achieved significant breakthroughs in artificial intelligence, 
+and by 2030 it plans to have achieved a leading position in the utilisation of 
+artificial intelligence. 
+
+Europe has numerous differing strategies for artificial intelligence 
+
+Europe has no uniform artificial intelligence strategy, but the EU Member States have 
+numerous differing measures in place. The European Commission also has various 
+initiatives which aim to harmonise practices and legislation (for example, MyData, 
+Digital Single Market and Digitizing European Industry) and to support the develop-
+ment of artificial intelligence and digital business. Artificial intelligence is highlighted in 
+the Horizon 2020 Work Programme through various thematic fields. However, EU 
+
+                                                
+ 
+11 The Wuzhen Institute 
+12 State Council of the People’s Republic of China, “Next Generation Artificial Intelligence Devel-
+opment Plan”, 2017  
+
+21 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Member States hold responsibility for development, and each of them has differing 
+strategies for the utilisation of artificial intelligence. Large Member States, such as 
+France and Germany, have invested in artificial intelligence with very different strate-
+gies, but both very visibly. 
+
+France’s objective is to clarify discussion and debate on artificial intelligence and to 
+boost the activeness of the French artificial intelligence community domestically and 
+internationally, as well as to agree on nationally necessary measures. There are three 
+main areas of focus in the initiative: 1) research and education (the responsibility of 
+the Minister of Higher Education, Research and Innovation), 2) innovations (the re-
+sponsibility of the Minister of Industry, Digitalisation and Innovation) and 3) social and 
+economic impacts (several actors hold responsibility for this).  
+
+As part of it science and innovation policy, Germany has established an organisation 
+specialised in artificial intelligence. The German Research Center for Artificial Intelli-
+gence (DFKI) is Germany’s leading centre that develops innovative commercial artifi-
+cial intelligence-based software. It activities receive both federal and regional funding, 
+in addition to private contributions. 
+
+Japan is to become Society 5.0 
+
+Japan’s approach to artificial intelligence is a combination of the US and Chinese 
+models. It is based on the 5th Science and Technology Basic Plan (2016–2020) of the 
+Japanese Council for Science, Technology and Innovation (CSTI). The plan’s objec-
+tive is to establish Japan as a Super Smart Society (i.e. Society 5.0). The programme 
+is headed by the Prime Minister, and its field-specific programmes are headed by 
+selected corporate heads. 
+
+The vision for Society 5.0 is a society in which all the necessary products and ser-
+vices can be provided according to the needs of people in a timely manner. In prac-
+tice, the objective is to build a national change programme in which society acts as a 
+pilot platform for citizens’ services, business solutions and social change. Areas of 
+change include: 
+
+the elimination of barriers between Government and ministries  
+the elimination of legislative obstacles  
+the elimination of technological obstacles  
+increasing education and attracting more experts 
+
+• 
+• 
+• 
+• 
+•  achieving citizens, approval and, for example, creating a code of ethics  
+
+Artificial intelligence is one of the project’s most important issues involving technology, 
+and a significant sum of resources will be invested in its research, development and 
+
+22 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+application. For example, the CSTI will allocate 550 million USD via its ImPACT pro-
+gramme to 16 extensive consortiums, many of which are involved in the development 
+of artificial intelligence. Additionally, a total of 250 million USD will be allocated annu-
+ally from three ministries to the development of artificial intelligence. 
+
+What can Finland learn?  
+
+Finland can learn about its competitors, but each country will step into the age of arti-
+ficial intelligence with its own merits. The possibilities for applying artificial intelligence 
+are extensive, and markets for related solutions are global. When comparing interna-
+tional contributions to artificial intelligence, it is clear that the majority of artificial intel-
+ligence developments and innovations will take place outside of Finland. What is es-
+sential is that we are able to take advantage of these developments and innovations.  
+
+Taking part in strong international cooperation is a prerequisite for Finland’s success. 
+Competition is global and intense, but Finland can make headway in this competition 
+exceptionally well if it so wishes. This report’s proposals for key actions and recom-
+mendations will specify in more detail what will be needed to achieve success.   
+
+1.2  Finland’s possibilities in the global 
+
+markets 
+
+Business revolution 
+
+Industry has been going through reform caused by digitalisation for quite some time. 
+This revolution has seen industry become automated and the share of labour costs in 
+overall costs of production decrease. In this way the competitiveness of the manufac-
+turing industry may also improve in countries with high cost structures, such as Fin-
+land. Factories will become agile production facilities that can be converted for various 
+needs and places where people and automation work together flexibly. The reform of 
+industry will also mean that production will be transferred to places closer to the mar-
+ket In order for Finland, as a country with a small internal market, to benefit from the 
+change; we need to facilitate a higher value yield in addition to production. This will 
+mean the development of various data-based services and digital business models, in 
+which the utilisation of artificial intelligence will play a key role.  
+
+Finland’s economic growth and employment rate are securely linked to the success of 
+its export industry. For this reason, it is important that Finnish industry develops and 
+boldly makes use of solutions that utilise digital artificial intelligence and new business 
+
+23 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+models. This is supported by the special characteristics of Finnish industry, such as 
+our high share of service business among our exports, and in this way the data re-
+sources we have accumulated, which facilitate the development of artificial intelli-
+gence-based solutions. Ecosystems where data and functions can be shared effec-
+tively among actors will play a crucial role; Finnish actors have excellent potential to 
+be part of these global ecosystems and to actively develop completely new ecosys-
+tems in their areas of strength. 
+
+Finland’s process industry has long traditions in areas such as the digitalisation of 
+value chains for forest resources This provides a good foundation for the development 
+of artificial intelligence via the bioeconomy, where effective cooperation between and 
+management of various processes is crucial. Finland has expertise and a significant 
+global industry in the sector, which creates possibilities for the rapid development of 
+artificial intelligence solutions. 
+
+Reform of the public sector 
+
+The population is growing and its life expectancy is increasing. At the same time, the 
+cost of health care and care for the elderly will continue to grow and cause pressure 
+to create solutions for proactive health care and disease prevention. Artificial intelli-
+gence and other technologies facilitate many opportunities for developing new solu-
+tions. At the same time, we can significantly improve the efficiency of healthcare pro-
+cesses as well as support the work of doctors and healthcare staff. 
+
+Finland has internationally unique healthcare data resources, the correct and appro-
+priate utilisation of which will facilitate the development of unique solutions for the 
+global market as well as for improving human wellbeing. Wellbeing is a rapidly grow-
+ing market in western countries: there is a need for solutions that can support the 
+wellbeing of people on a more extensive scale and proactively intervene in less acute 
+phenomena that hinder people's wellbeing, such as social exclusion. This is another 
+area in which Finland has significant expertise and business operations (e.g. as a 
+result of Nokia). 
+
+Finland has a harmonised and effective education system which makes it possible for 
+Finns to react quickly to new, necessary educational needs. This is exceptional by 
+international standards.  
+
+ 
+
+ 
+
+24 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+The possibilities made available to Finland by megatrends 
+
+Worldwide megatrends also create many opportunities for the utilisation and applica-
+tion of artificial intelligence. The best way to gain access to these is via public-private 
+partnerships, in other words, via cooperation between the private and public sectors.  
+
+For example, the Paris Climate Agreement, which nearly 200 countries have commit-
+ted to, is of great importance. The objective is to limit climate warming to a maximum 
+of two degrees. The largest market for climate solutions is likely to be in those fields 
+that emit the most climate and greenhouse gases. These include energy, transport 
+and the bioeconomy, which account for 70% of global greenhouse gas emissions.13 
+These are also the areas in which Finland has clear expertise and business strengths, 
+as well as data resources.  
+
+Artificial intelligence will add anticipation capacity to the energy sector 
+
+The energy sector is going through a global transition to the use of renewable energy 
+sources. This means, for example, a distributed energy system where there are strong 
+fluctuations in the production of different energy sources. Future energy systems will 
+be required to have the capacity to anticipate what the surrounding conditions and 
+users need and to adjust the complex system accordingly. The application of artificial 
+intelligence in these solutions presents enormous opportunities, but application re-
+quires strong expertise in the system, the reliability of which is part of the critical infra-
+structure of society. Finland can use its strengths to build a competitive advantage in 
+this challenging area.  
+
+When compared by international standards, Finland's energy system is very ad-
+vanced and contains numerous characteristics of a smart grid which are still being 
+developed elsewhere. The system makes it possible to control distributed energy pro-
+duction for instance. Finland has excellent potential to raise its profile to that of a 
+world leader by applying artificial intelligence in its energy sector and creating interna-
+tionally interesting piloting environments in the sector.  
+
+Heading towards intelligent transport 
+
+Intelligent transport will also open possibilities for Finland’s world conquest in artificial 
+intelligence expertise. The transport revolution will take place with the steadfast pro-
+gress of electrification, as well as the servicification of mobility. In both of these areas, 
+the management of data-based, proactive and multidimensional systems is critical, 
+                                                
+ 
+13 IPCC 2014 
+
+25 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+and transport solutions are seen as one of the most significant global areas of appli-
+cation for artificial intelligence. 
+
+Finland has strong expertise in mobility, for example in the area of autonomous 
+transport and its supporting communications solutions. Additionally, Finland’s legisla-
+tion is one of the world’s most lenient with regard to automatic driving and there are 
+numerous and versatile test areas for accelerating the sector’s development. Smart 
+transport thus provides a solid foundation for the development of artificial intelligence 
+and the solutions that apply artificial intelligence. 
+
+Artificial intelligence used to create security  
+
+The need for security has grown as the world’s uncertain state increases and people’s 
+standard of living improves. At the same time, digitalisation has made it possible for 
+various threat mechanisms to become more complex and a significant new market is 
+growing alongside the traditional defence industry.  
+
+A safe society and secure business require the early detection of threats, prepared-
+ness and the guarantee of quick recovery. The application and development of artifi-
+cial intelligence has the capacity to create solutions to these types of situation, which 
+can help in being prepared for very complex and surprising situations. On the other 
+hand, the application of artificial intelligence accelerates its need for new types of 
+security solutions and related legislation. Although these are major issues, the indi-
+vidual is the central focus of this matter: the protection of individuals and privacy must 
+be guaranteed. 
+
+Finland as a European but non-aligned country that is a multiskilled actor in technolo-
+gy has an excellent opportunity to raise its profile as an expert in artificial intelligence 
+in the defence sector and to produce the sector’s solutions. The European Centre of 
+Excellence for Countering Hybrid Threats is already based in Finland, and this means 
+that Finland acts as a hub for this significant network. Finland can expand this exper-
+tise and at the same time take a major role in other international networks. 
+
+Robotics to facilitate better wellbeing 
+
+Technological development has meant that the dividing lines between artificial intelli-
+gence and robotics have blurred. Robots today are not merely mechanical devices 
+that carry out given commands, but can also be, for example, software that automates 
+challenging data-driven expert work. The application of artificial intelligence and other 
+technologies has meant that it is now easier to teach robots different tasks and they 
+are able to get through various changing situations more independently. The range of 
+
+26 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+robotics applications has increased significantly and the threshold for their utilisation 
+has lowered. 
+
+Traditionally, robotics has been seen as a fixed part of industrial automation and par-
+ticularly as a method for improving the efficiency of production. Over time, Finnish 
+industrial production has had to focus on output, which is evident in our industry’s 
+higher than average rate of automation. This also establishes a solid foundation for 
+the application of artificial intelligence in production and production robotics. 
+
+However, the strength of Finnish robotics lies in various high-tech industrial products, 
+such as the machinery industry (so-called field robotics, which is exceptional by global 
+standards: Finnish forestry machines, mining machines and cargo handling machines 
+are global market leaders in their niche areas). These products are also an excellent 
+starting point for the application of artificial intelligence. These are closely linked to 
+service business, which is notably advanced. Almost all of the sector's supplier com-
+panies have started to increase their range through service business where data and 
+its utilisation are of key importance. Companies have gathered very large data re-
+serves via their service business activities, which can help on the development and 
+application of artificial intelligence in products as well as in related business opera-
+tions. 
+
+Seamless cooperation between man and machine is vital 
+
+Cooperation between humans and machines is closely linked to both artificial Intelli-
+gence and robotics. Even as work tasks become automated, most work tasks still 
+require the participation of a human in some role. It is increasingly vital to take seam-
+less cooperation between humans and machines into account, particularly when de-
+signing complex and challenging systems. Cooperation between humans and ma-
+chines, as well as the related user experience, are emphasised in not only industrial 
+robots but also particularly in service robots, with which the ability to adapt to each 
+service need facilitated by artificial intelligence is emphasised. Although service robot-
+ics in Finland is still a limited application area, its importance will increase in areas 
+such as healthcare. 
+
+Robotics and its development have a significant impact on Finnish wellbeing and eco-
+nomic growth. Various studies on robotics and its application have been conducted 
+recently in Finland. These have aimed to clarify different action needs. The Robotics 
+Roadmap describes the properties and scenarios of automatisation applications, 
+mainly from the Finnish perspective. The Transport Robotics report discusses the 
+state of development and future of autonomous vehicles and their development 
+needs. The Technology Roadmaps and Capabilities of Finnish Companies report 
+
+27 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+examines the development of the artificial intelligence and robotics sector (AiRo), 
+which emphasises the central role artificial intelligence plays in robotisation. The Digi-
+tal Knowledge Base and Impacts of Robotisation report examines the impacts of ro-
+botisation and its various areas on society, and its information needs. 
+
+According to the 2016 government resolution on smart robotics and automation,14 
+smart robotics and automation provide excellent opportunities for the resolution of 
+many of society’s challenges, such as the provision of healthcare services, the im-
+proved efficiency of the public administration's information work and the organisation 
+of transport. The actions listed in the government resolution remain very topical and 
+support for their implementation must be taken into account when implementing the 
+actions listed in the Artificial Intelligence Programme. 
+
+1.3  Finland’s strengths and weaknesses 
+
+Expertise, high-quality data and cooperation as strengths  
+
+Finland’s strength in general in this rapidly developing field is our agile business envi-
+ronment in which collaboration between companies, research institutes and society is 
+seamless. This is also of key importance when examining international references. A 
+significant share of known country-specific initiatives combine the expertise, objec-
+tives and impact of the public and private sectors in one way or another. This is sup-
+ported by Finland’s long-time research traditions and purposeful efforts in artificial 
+intelligence, which facilitate the area’s swift promotion. Finland’s strength has long 
+been the investments made by companies and public organisations in research, de-
+velopment and innovations. However, a worrying decline in investments has been 
+noted for several years, in particular in the area of applied research. In addition, Fin-
+land’s highly educated and tech-friendly population is skilled in adopting new solu-
+tions, which will help business growth and social change.  
+
+Finland is also in a great many respects an excellent platform for piloting on, which is 
+considered a critical factor in the development and application of artificial intelligence. 
+Finland’s strengths in piloting include a limited and harmonised market, neutrality, 
+abundant technology resources and support for legislation. Promoting an experimen-
+tation culture in public administration has brought added agility to the sector’s devel-
+opment activities. 
+
+                                                
+ 
+14 http://valtioneuvosto.fi/paatokset/paatos?decisionId=0900908f804c7484  
+
+28 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+These factors can be further strengthened as Finland has quite a broad consensus on 
+the necessity of large and fast changes. Our rapidly growing startup ecosystem acts 
+as the spearhead for Finland’s reform. In addition, Finland’s existing companies and 
+public organisations have undergone a variety of structural reforms in recent years 
+that will open up opportunities for the application of artificial intelligence. If implement-
+ed correctly, this will offer platforms for the development of solutions in a unique envi-
+ronment. 
+
+As Finland becomes more profiled on the basis of its strengths this will lay down the 
+foundation for success in global development and competition. This in turn will con-
+tribute to major actors gaining access to important international networks. As part of 
+raising Finland’s profile, the state initiative will play an important role in the develop-
+ment of the operating environment with clear choices and efforts.  
+
+If we are successful in raising our profile we may be able to centre the interest of ac-
+tors and at the same time, develop legislation, innovation and policy initiatives. These 
+can be used to affect the functionality of the operating environment. Profiling and cor-
+rectly aimed investments, as well as the attractiveness of the operating environment, 
+improve our chances of attracting investments and the field’s leading experts to Fin-
+land.  
+
+Finland has unique data resources, which also form an attractive operating environ-
+ment for companies and researchers. The availability of data and its quality are excel-
+lent competitive advantages for Finland, for example in the health sector.15 Enabling 
+legislation also creates an anticipatory and innovation-friendly development environ-
+ment. 
+
+Weaknesses include limited resources and a small internal market 
+
+Finland has traditionally put a great deal of emphasis on domestic business activities 
+in its various sectors. The weakness and lack of international links are evident, for 
+example in research, development and innovations. Of all Finnish companies only a 
+handful are genuinely global and we do not have a strong "Mittelstand". Finland is 
+also not sufficiently attractive to experts from around the world. Over the past few 
+years, the amount of foreign investments in Finland has grown, but the figures are still 
+clearly far below those of comparable countries. A culture of avoiding risks is still 
+deeply entrenched in the Finnish operating environment, although millennials are 
+
+                                                
+ 
+15 For more details, see Lehto & Neittaanmäki, Suomen terveysdataympäristö 
+   (https://www.jyu.fi/it/tutkimus/terveysdata) 
+
+29 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+fearlessly forging their own path as the founders of startups and as international ex-
+perts.  
+
+The lack of an economy of scale in Finland’s operating environment is an unparalleled 
+challenge. We have distributed our resources to separate small projects and no clear 
+focus-point choices or economies of scale have been achieved. This leads us to unin-
+tentionally underperforming. 
+
+A lack of trust in our own competence and financial success have long been a threat 
+to Finland. Political decisions in matters such as the reduction of research, develop-
+ment and innovation (RDI) investments have for their part led to a decline in private 
+investments, which threatens to hinder the renewal of sectors and expertise. Finland 
+cannot afford to lose confidence in expertise as the foundation of wellbeing.  
+
+Another area of concern, which has been a topic of discussion for quite some time, is 
+the slow pace and ineffectiveness of work commercialising research. Rigidities related 
+to the implementation of reforms and the labour market also threaten to leave Finland 
+lagging behind its competitors. Additionally, we can always ask whether Finland has a 
+sufficient amount of creative destruction and radical reform. There is a risk that com-
+pany and public sector reforms will focus on small-scale fine tuning, but that there is a 
+lack of courage to implement larger openings.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+30 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+A situation picture for Finland’s artificial intelligence – a summary of a SWOT analysis  
+
+Strengths 
+
+Opportunities 
+
+•  Seamless cooperation between actors, 
+
+•  Business revolution:  
+
+an agile operating environment 
+
+•  A highly educated and tech-friendly pop-
+
+•  A harmonised and effective education 
+
+ulation 
+
+system 
+
+•  Finland is an excellent platform for pi-
+
+loting (having a limited and harmonised 
+market, abundant technology resources 
+and support for legislation) 
+
+•  Promoting a culture of experimentation 
+in public administration has brought add-
+ed agility 
+
+•  Broad-scoped consensus on the neces-
+
+sity of large and fast changes 
+
+•  A rapidly growing startup ecosystem 
+•  Over the past few years, companies and 
+
+• 
+
+public organisations have undergone 
+various structural reforms  
+
+industrial digital revolution, new solutions 
+and business models, data resources 
+gathered from export service business 
+activities, bioeconomy coordination, the 
+control of processes 
+
+•  Reform of the public sector: 
+
+the use of artificial intelligence and plat-
+forms in the administration of costs relat-
+ed to healthcare and care for the elderly, 
+improving processes, healthcare data re-
+sources, greater demand for wellbeing 
+as quality of life improves 
+
+•  Energy: 
+
+renewable energy sources, a more frag-
+mented and anticipatory energy system 
+Intelligent transport: 
+electrification, the servicification of mobil-
+ity, control of the entire system  
+
+the increased need for security as quality 
+of life improves, digital risks, the im-
+portance of the protection of individuals 
+and privacy 
+
+•  Unique data resources: availability and 
+
+•  Overall safety: 
+
+quality 
+
+Weaknesses 
+
+Threats 
+
+•  Weak internationality: 
+
+placing a focus on domestic activities, 
+weakness and a lack of international 
+links, a limited amount of global corpora-
+tion, the absence of a strong Mittelstand, 
+experts from different parts of the world 
+are not attracted to Finland, foreign in-
+vestments are smaller than in compara-
+ble countries 
+
+•  A culture of avoiding risks 
+•  Dispersed resources, the absence of a 
+
+scale of economy 
+
+•  A lack of trust in our own skills, exper-
+
+tise and financial success 
+
+•  The reduction of RDI investments has 
+
+partly led to a decline in private invest-
+ments 
+
+•  Slow and ineffective commercialisa-
+
+tion 
+
+•  The implementation of reforms and the 
+
+rigidity of labour market. 
+
+•  We lack the courage to engage in 
+
+large-scale reforms 
+
+ 
+
+ 
+
+31 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+2  Artificial intelligence will transform 
+
+our society 
+
+Artificial intelligence will transform and mould our world in all areas and sectors. Com-
+panies are the trendsetters for the application of artificial intelligence and new tech-
+nologies can create significant growth for them. The public sector is still behind com-
+panies in this, but as it gains speed, the possibilities are endless. Artificial intelligence 
+will help the public sector become an efficient and personalised service provider. Arti-
+ficial intelligence will also bring significant changes at the societal level. The labour 
+market will experience a revolution as some of its traditional work tasks will disappear 
+and new ones will be created in their place. Guaranteeing education and expertise will 
+play a crucial role in helping society adjust to this change.  
+
+2.1  Companies are leaders in the application 
+
+of artificial intelligence 
+
+Thus far, companies have played the largest role in the development and application 
+of artificial intelligence. It is companies rather than state initiatives that have achieved 
+the most central impacts. Companies will play a particularly important role in applying 
+the benefits of artificial intelligence and in investing in these. Companies also typically 
+have extensive data resources, the utilisation of which is critical to both the develop-
+ment and application of artificial intelligence. For this reason, companies with busi-
+ness models based on the global digital platform, which have thus collected an exten-
+sive amount of data resources, have gained the status of today’s leading companies 
+in the current development and application of artificial intelligence.  
+
+Artificial intelligence companies can be divided into two groups: those that develop 
+and those that apply artificial intelligence. Companies that develop artificial intelli-
+gence are sharply divided into two size categories: the vast majority (up to 80–90%) 
+of companies that develop artificial intelligence technology are very small, employing 
+fewer than 50 individuals. There are few medium-sized companies and only a fraction 
+
+32 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+of artificial intelligence development companies are large corporations that employ 
+more than 10 000 persons.16 Nevertheless, the development and utilisation of artificial 
+intelligence is dominated by these few large corporations. There is no corresponding 
+strong division among companies specialised in the application of artificial intelli-
+gence. There are an estimated 350 application companies in Finland. Of these, three-
+fourths use an external technology platform, such as those created by Microsoft, IBM 
+and Google.17  
+
+The importance of data and, on the other hand, the scalability of apps has been pre-
+viously mentioned as the reasons for the division of companies that develop artificial 
+intelligence. In addition to data, large corporations have challenging and impressive 
+development and research initiatives which attract top professionals. On the other 
+hand, the development of artificial intelligence solutions does not require large in-
+vestment, as computational capacity can now be bought from cloud services and the 
+tools for the development of artificial intelligence are easily accessible. As a result, 
+startups and the small and medium-sized companies that focus on one artificial intelli-
+gence technology or apps have sprung up quickly in the sector. These companies 
+have good opportunities to grow because artificial intelligence solutions are highly 
+scalable and growth does not require direct investments in human resources. Recent-
+ly, large companies have also actively purchased by promising growth-phase busi-
+nesses. 
+
+Finland lacks platform economy companies but there are a few exceptions. Instead, 
+Finland has numerous companies that have an excellent opportunity to benefit from 
+the application of artificial intelligence and extend their business activities by utilising 
+platform economy business models. As progress has been rapid and the development 
+potential for artificial intelligence has increased at a quick pace, companies special-
+ised in the application of artificial intelligence should be provided information on the 
+opportunities made available by artificial intelligence and on its application methods. 
+In addition to this, there are numerous startups and small and medium-sized compa-
+nies based in Finland that are specialised in the development of artificial intelligence 
+and whose solutions can make use of the same digital market as their foreign compet-
+itors. The availability of educational data and application area experts may pose a 
+challenge to these companies and the availability of these should be guaranteed. The 
+development of artificial intelligence must also be actively monitored as algorithms are 
+becoming more and more efficient, which means that they are less reliant on data. 
+This in turn will again open up new opportunities for Finnish artificial intelligence com-
+panies. 
+                                                
+ 
+16 Venture Scanner (www.venturescanner.com)  
+17 Digital barometer 2017 
+www.digibarometri.fi/uploads/5/8/8/7/58877615/digibarometri_2017.pdf  
+
+33 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+International cooperation is of great importance in all activities 
+
+The competitiveness and economic growth of business in Finland with the help of 
+artificial intelligence will require informed and concerted actions. International cooper-
+ation is essential in all activities, as is making Finland a lucrative and attractive place 
+for international actors. This will require efforts directed at both expertise and the op-
+erating environment, as well as requiring active participation in international networks 
+in which Finland must utilise its strengths in an effort to gain a key role.  
+
+The opportunities made possible by the utilisation of artificial intelligence in business 
+operations are not limited to the application of artificial intelligence in business prod-
+ucts and processes but can increasingly also mean the application of artificial intelli-
+gence in overall business management. In practice, this means that current manage-
+ment models that are based on economic data and are reactive will be replaced with 
+proactive management models that utilise numerous sources of data.  
+
+With regard to business, it is essential that Finland has both research of a top interna-
+tional standard and applied research in correct relation to each other. The majority of 
+research will take place outside Finland’s borders and, for this reason, Finnish re-
+search must network with international research leaders. Research results must be 
+easy for both the public and private sectors to utilise, which will require investments in 
+cooperation between companies and research institutes. Faring well in the develop-
+ment of the rapidly changing field will require a swift and agile innovation system in 
+which sufficient innovation and research funding are available, and this catapults us 
+forward to challenging and renewing objectives.  
+
+Actual application must be enterprise-driven and attract companies to invest in Fin-
+land. Piloting environments of an international standard that facilitate access to world-
+class infrastructures and data resources have an essential role. Finnish corporate 
+taxation should also be attractive to investments.  
+
+2.2  Artificial intelligence facilitating a more 
+
+efficient public sector 
+
+The Finnish public sector is currently one of the world’s more efficient public sectors. 
+However, it should be noted that transitioning to the age of artificial intelligence will 
+require new types of cross-sector management and operating models in which data 
+and resources no longer abide by the traditional boundaries between organisations. 
+Traditionally, we have become accustomed to robots and software being used to op-
+timise processes which people still oversee. This will also change in public administra-
+
+34 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+tion. In the future, artificial intelligence will also perform works tasks and duties that 
+we still believe we need people for. 
+
+Digitalisation, robotisation and artificial intelligence will also redetermine the perfor-
+mance of tasks in the public sector. Making this change will require new leaders and 
+visions. Operating models for the age of artificial intelligence will be built regardless of 
+organisations. This will mean that data and resources will be utilised where they are 
+needed. Traditional organisation-based activities do not create the best conditions for 
+a digitised society that utilises artificial intelligence. 
+
+Artificial intelligence will bring better service 
+
+The government's basic task (which is to guarantee the fundamental and human 
+rights of all people) will be intensified markedly as authorities can now respond to 
+people’s needs digitally, independent of time and location. At the same time, the 
+change will help in quickly seizing opportunities as artificial intelligence can help us 
+gain a better understanding of our customers. 
+
+Artificial intelligence can already perform many tasks and duties better and faster than 
+people can and the end result is of higher quality. For example, Palkeet has adopted 
+software robots to carry out the government’s internal financial administration. The 
+supervision, reporting and processing of applications and customer service are all 
+examples of tasks in which artificial intelligence is already utilised. This is not just a 
+matter of cost-effectiveness as artificial intelligence improves the quality of services 
+and speeds up administrative decision-making with the help of an automatic decision-
+making chain. In addition, artificial intelligence has real-time access to public admin-
+istration and serves citizens and businesses in this way. 
+
+In the age of artificial intelligence citizens will receive targeted and proactive service at 
+all stages of their life cycle. 
+
+The fundamental role of public administration in the age of artificial intelligence will be 
+to oversee the citizen’s right to use their own data in various services while keeping 
+data protection in mind. A citizen can independently choose which data concerning 
+himself or herself can be utilised so that the services in question could become even 
+better and more proactive. 
+
+During the age of artificial intelligence, the number of individual electronic customer 
+services made available to citizens will be reduced to a fraction of what they are cur-
+rently, and transactions will be handled directly in the natural language with artificial 
+intelligence. In addition, artificial intelligence, together with other technologies, will 
+
+35 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+facilitate the melding of public administration into people’s normal lives, ensuring their 
+wellbeing at all stages of the life cycle. 
+
+2.3  Artificial intelligence will revolutionise 
+
+society 
+
+Artificial intelligence will change both society and the way in which we work. However, 
+the impact of artificial intelligence or technology in general on work and society is not 
+deterministic. Effects on work will seem different depending on what kind of time line 
+the effects are being viewed on. Historical analyses on economies’ long cycles and 
+the technological revolutions related to these demonstrate that the job-related creative 
+destruction processes that follow the early stages of each revolution have, in the long-
+term, been followed by creative rebuilding, a period where social institutions adapt 
+little by little, allowing more stable economic growth. 
+
+When applying this to the digital revolution it would mean that the first phase of the 
+revolution will target new technologies related to products, services and the streamlin-
+ing of production processes, and thus take many jobs. On the other hand, the second 
+phase of the revolution, which is based on the business-driven organisational and 
+social innovations facilitated by new technologies, would bring new jobs. Automation 
+and change will only impact parts of work tasks in the majority of professions. The 
+labour input set free in this manner can be used for performing other tasks or used to 
+provide better focus on each profession’s remaining tasks that will not be automated, 
+such as meetings with customers. 
+
+Impacts in all sectors 
+
+In the case of artificial intelligence, we are still likely to be in the situation where the 
+first phase is only just beginning. For this reason, discussion has for the most part 
+been speculative. The impacts are difficult to predict for two reasons in particular: the 
+first reason is that the pace of technological development is difficult to predict and the 
+second reason is that technological development in itself does not determine how 
+work and society will change. 
+
+The impact of technology on society is filtered through institutional and cultural filters: 
+
+An ethical filter sets restrictions for the ways in which technology is applied. From the 
+perspective of artificial intelligence’s application, the ethical issues that may be high-
+
+36 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+lighted in the future include the openness of health data, location monitoring or the 
+use of robots in nursing and care work. 
+
+A social filter sets limits for the manner in which technology is applied on the basis of 
+the activities of people and organisations. A well-known recent example of a social 
+filter is how taxi drivers and their backing organisations have opposed Uber and other 
+similar applications. 
+
+An institutional filter will set institutionally determined limits on the ways in which tech-
+nology can be applied. This type of institutional system includes the corporate gov-
+ernance model (shareholder vs. stakeholder), the education system and the labour 
+market system. 
+
+A legislative filter sets legislative and other regulatory and statute-based limitations on 
+the manner in which technology can be applied. For example, the adoption of self-
+steering vehicles in road traffic will be slow until the related issues regarding respon-
+sibilities have been conclusively determined in legislation. 
+
+The largest financial and productivity benefits of new technological solutions often 
+come with a long delay and after an economically expensive trial period. This is 
+known as an economic filter and means that many companies in the early stages are 
+not yet ready to take on the role of testing out new, possibly even promising techno-
+logical solutions. Companies that dominate the market may also consciously strive to 
+hinder the spread of new technological solutions.  
+
+Small countries and market areas in particular do not have absolute freedom to de-
+cide on the filtering of technological impacts. In the scope of international competition, 
+a small country cannot make independent decisions to limit artificial intelligence for 
+such purposes as protecting certain companies or jobs without huge economic costs. 
+The legislation and regulation required by artificial intelligence should also be devel-
+oped via extensive international agreements. 
+
+What will happen to work in the age of artificial intelligence?  
+
+Artificial intelligence will cause significant changes in the labour market. Often the 
+structure of employment is expected to change so that the share of medium-salary 
+profession jobs out of overall employment will decline. At the same time, the share of 
+low-salary and high-salary professions will grow. This is called the polarisation of the 
+labour market. In part, this is due to technological development that favours compe-
+tence and skills (skill-biased technical change), which specifically leads to an increase 
+in demand for trained and educated labour. The jobs that typically experience a cycle 
+
+37 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+of decline are characterised by their routine and repetitive tasks, which computers can 
+perform more efficiently (routine-biased technical change) – these jobs include per-
+formance-level office jobs and assembly tasks at factories. On the basis of numerous 
+examinations, technological developments over the past few years have influenced 
+the labour market in exactly this manner. 
+
+However, artificial intelligence differs from previous technological advancements in 
+that it will also bring about more structural change than before to professions in the 
+top tier of wage distribution. It is evident that, for example, some of the duties carried 
+out by doctors and lawyers can be automated with artificial intelligence. On the other 
+hand, the utilisation of artificial intelligence can increase the productivity of less edu-
+cated persons, in which case technological development, which favours competence 
+and skills and the polarisation of the labour market, would not continue in their previ-
+ous manner. Offering artificial intelligence-facilitated opportunities to as extensive a 
+group as possible could thus also lead to a more equal society than we have at pre-
+sent. This is one of the most important topics of follow-up studies and research. 
+
+The importance of interpersonal skills and communication will be 
+emphasised 
+
+If many jobs become easier to learn, the structural unemployment caused by compe-
+tence bias should decrease. The jobs that will increase at least proportionally will be 
+those in professions with little routine: the performance of work tasks requires a per-
+sonal contribution, flexibility, problem solving skills and/or creativity. For the time be-
+ing, automation and information technology have only been able to replace this work 
+to a limited extent. The importance of presentation skills, communication skills, inter-
+personal skills and combating shyness are highlighted. This should already be taken 
+into account in comprehensive school education. 
+
+Factors affecting labour mobility and questions to address include: 1) What will be an 
+appropriate general level of education for the future labour force? For example, will 
+narrow professional skills be replaced with good basic skills, and the retraining and 
+upgrading of qualifications? 2) How will the length of an individual’s remaining working 
+career affect his or her need for additional training? This will apply particularly to the 
+ageing work force. 3) How will the costs for lifelong learning be divided between the 
+employee, the employer and the government? 4) How will rewards and business 
+productivity be arranged in the future? 5) In what way should social security structures 
+be reformed in the age of artificial intelligence? What type of income security would be 
+best? What types of incentives for participation in work would be sufficient and how 
+could employability be improved?  
+
+38 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Earnings-related employment insurance has had a position effect on the reform of 
+innovation activities, as well as on the reform of business and office structures: it al-
+lows people to take higher risks and makes it easier establish new companies be-
+cause people dare to take on new jobs in uncertain new companies. On the other 
+hand, "generous" unemployment insurance causes an incentive problem, especially in 
+situations where people are required to transfer from medium-salary professions to 
+low-wage professions. A temporary adjustment allowance or a wage subsidy have 
+been suggested as alternatives for earnings-related unemployment insurance when a 
+person transfers to a lower-paying job. 
+
+Education will support society in this time of change  
+
+The population’s high level of education and a high-quality education system are also 
+Finland’s strengths in the utilisation of artificial intelligence and robotics, and adjust-
+ment to the change in work. However, responding to this need for change will require 
+significant changes to the education priorities. According to a survey sent to Finnish 
+universities, including universities of applied science, as well as to vocational educa-
+tion and training, it can be said that there is high-quality artificial intelligence education 
+available in Finland, but that the education in question is predominantly intended for 
+the technological and mathematical fields. On the other hand, similar studies are not 
+available to an adequate extent in fields that apply artificial intelligence and in which 
+the effects of artificial intelligence are first seen. The response to these educational 
+needs must be effective and an active approach must be taken to find new means of 
+education and teaching. These include, for example, different online courses, virtual 
+qualifications and even virtual educational institutions. 
+
+Moving forward with a passive or active strategy? 
+
+Either a passive or active social policy strategy can be selected for learning and 
+adopting artificial intelligence technology. In practice, society’s reaction to technologi-
+cal advancements is a combination of both passive and active elements.  
+
+A passive approach allows existing key societal institutions to filter the effects of tech-
+nology on practical working life and society. The active approach sees social regulato-
+ry systems proactively adjust their operations so as to be able to guide the solutions 
+that arise with technological development in the desired direction. In Finland's case 
+natural objectives could include a higher rate of employment, the faster growth of 
+productivity and the improved quality of working life, as well as reduced work and 
+social exclusion. 
+
+39 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+The active social regulation of artificial intelligence will require some type of vision of 
+what is a “good artificial intelligence society”. This question has been touched on in 
+various reports on artificial intelligence, but none of these have yet made an effort to 
+build a strategy the specific objective of which is the creation of a comprehensively 
+good artificial intelligence society.  
+
+What exactly is a good artificial intelligence society? Transparency, accountability and 
+extensively notable societal benefit are held as its general principals. However, it has 
+yet to be specified what these principles mean in practice from the viewpoint of vari-
+ous actors and regulatory systems. The input of companies, the field’s experts, re-
+searchers, political decision-makers and citizens will be needed in work to determine 
+a definition of a good artificial intelligence society. This work is now being launched in 
+Finland, and it will require us all to take part. 
+
+ 
+
+40 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+3  Eight key actions for taking 
+Finland towards the age of 
+artificial intelligence: 
+Recommendations by the artificial 
+intelligence working group 
+
+1. We will enhance the competitiveness of 
+companies through the use of artificial 
+intelligence 
+
+Different sectors and companies are at different stages of artificial intelligence appli-
+cation and thus require different measures: one extreme requires world-class re-
+search for their own artificial intelligence activities and competitive advantage, while 
+the other extreme needs to be given a nudge and incentives. Both extremes must be 
+served with the measures that will support them. 
+
+ 
+
+ 
+
+41 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Enterprise-driven ecosystems to help in the application of artificial 
+intelligence  
+
+Sharp and ambitious innovation ecosystems of an international standard must be created in 
+those fields in which Finland will strongly utilise artificial intelligence (energy, healthcare, 
+transport, industry etc.), as well as in promising emerging fields. An ecosystem cannot be 
+established on the basis of a command from above, but their creation should be encouraged 
+and their construction must be supported. An ecosystem’s operations should be based on 
+business reform that is carried out via artificial intelligence. The development of ecosystems 
+and the related innovation activities must be open and encourage international cooperation.  
+
+It is clear that experiments and trials alone will not suffice, but rather that establishing 
+competitiveness will require long-term investments in areas which we want to see succeed. 
+Success in this rapidly developing and revolutionary field will require that we set off from the 
+areas in which Finland has world-class expertise and data resources. Additionally, it is critical 
+that the application of artificial intelligence is enterprise driven. Without the natural interest and 
+strong investments of companies, the application of artificial intelligence will not transform into 
+added value and at the same time there is a risk of losing the research results that target 
+artificial intelligence and seeing them being utilised elsewhere. 
+
+The development and utilisation of artificial intelligence are dependent on available expertise as 
+well as educational data, such as business data. For this reason, application and utilisation take 
+place via large platform economy actors or in ecosystems where the data resources, expertise 
+and benefits of different actors can be combined and distributed efficiently.  
+
+At the moment, Tekes’ (Business Finland as of 1 Jan 2018) ecosystem funding and the platform 
+economy roadmap are good starting points for the construction of ecosystems. The new 
+methods for research and innovation funding proposed in this report also support the formation 
+of ecosystems. 
+
+Actors: 
+
+• 
+
+Tekes (Artificial Intelligence, Data Economy and Platform Economy programmes are 
+currently under preparation) 
+
+•  Academy of Finland (flagship search opened) 
+•  Companies and research organisations (providing business-driven ecosystems that 
+
+utilise artificial intelligence)  
+
+ 
+ 
+
+ 
+
+42 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Incentives to utilise artificial intelligence solutions  
+
+The utilisation of artificial intelligence, the data and platform economies linked to it, and robotics 
+solutions must be made as easy as possible for companies of all sizes at all stages of 
+preparedness. The threshold for the application of artificial intelligence must be effectively 
+lowered, especially for companies that are only in the early stages of digitalisation and need 
+concrete support.  
+
+One example of a low-threshold measure is the Tekes innovation voucher for companies. It can 
+be utilised for testing out various artificial intelligence and data utilisation solutions.  
+
+Another service intended for all companies is the digital school for entrepreneurs, which will be 
+made available in cities and could in the future also offer training in the application of artificial 
+intelligence.  
+
+Other options that are suited for testing out the opportunities made possible by artificial 
+intelligence include an artificial intelligence encoding course that the Federation of Finnish 
+Technology Industries plans to offer companies (autumn 2017, 
+teknologiateollisuus.fi/fi/maankoodauskurssi) and the University of Helsinki’s artificial 
+intelligence MOOC (Massive Open Online Course; http://mooc.fi), which will be a two-stage 
+module during which participants can learn the basics of artificial intelligence and gain in-depth 
+knowledge during its coding/trial portion. This course is to be organised in 2018.  
+
+A special measure planned for 2018 will be the AI Challenge Tour, which will include the Äly on 
+tekoja (Intelligence is Actions) decision-makers forum, training, practical demonstrations and 
+challenge-based competitions. The tour is due to visit cities and selected locations and to bring 
+on board all the relevant networks that companies will need in the application of artificial 
+intelligence and renewal of the business, as well as their partners. During the AI Challenge Tour 
+the application of artificial intelligence should be company driven and innovation activities must 
+be swift. 
+
+In 2018, the Federation of Finnish Technology Industries will also launch a growth group related 
+to artificial intelligence. The concept for the growth group is to work under the supervision of a 
+group comprising core companies to design and implement various concrete actions that will 
+help companies get started in the utilisation of artificial intelligence in their business activities. 
+This approach is scalable and it both supports and utilises other aforementioned measures. 
+
+In the area of robotics the measures have been outlined in the government resolution on 
+intelligent robotics and automation.18 Measures that aim to specifically lower the threshold for 
+application are for the most part the same as the measures related to artificial intelligence, and 
+the synergy of these measures must be ensured. 
+
+                                                
+ 
+18 http://valtioneuvosto.fi/paatokset/paatos?decisionId=0900908f804c7484  
+
+43 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Actors: 
+
+• 
+
+• 
+• 
+• 
+
+• 
+• 
+
+Tekes innovation voucher (the targeted innovation voucher, the programme Digikoulu 
+2.0 digital school) 
+Finpro (Digikoulu 2.0 digital school) 
+The Federation of Finnish Enterprises (Digikoulu 2.0 digital school) 
+The Federation of Finnish Technology Industries (encoding course, artificial 
+intelligence group) 
+The Ministry of Economic Affairs and Employment (Digikoulu 2.0 digital school) 
+The AI Challenge Tour: companies, research organisations, cities, Tekes, Finpro, the 
+Federation of Finnish Enterprises, the Federation of Finnish Technology Industries, 
+ministries 
+
+2. We will utilise data in all sectors 
+
+Data is the fuel for the development and application of artificial intelligence. In addition 
+to the amount of data available, its quality and availability have a significant impact on 
+the benefits that can be achieved with artificial intelligence. With its active approach, 
+Finland can contribute to the building of data resources and their utilisation in both 
+companies and the public sector.  
+
+The accumulation and enrichment of Finnish data resources 
+
+A clear legislative framework that will ensure the availability of data must be created. This must 
+be based on the importance of the data to business operations (not on data protection first). 
+This legislation must be extended to the EU level. Companies must be encouraged to share 
+data resources where different types of trials can be carried out efficiently. Clear provisions that 
+can be extended to the international level are needed to support this. A “regulatory sandbox” 
+experimentation environment can be created around the topic area. 
+
+Actors: 
+
+•  Various ministries and other authorities are responsible for specific data resources 
+
+ 
+ 
+
+ 
+
+44 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+MyData will be opened for use by citizens 
+
+The extensive collection and utilisation of MyData will be made possible with legislation and 
+projects. 
+
+An increasing amount of data is compiled on an individual throughout his or her life. Data is 
+formed when a user enters her or his data via sensors linked to users and user environments 
+(IoT) as well as when gathered by public administration organisations and private service 
+providers via their service apps. 
+
+Internationally successful companies have created their own success stories in part by 
+gathering large amounts of data on individuals and at the same time guaranteeing their 
+exclusive rights to use the data.  
+
+The new society based on artificial intelligence must guarantee the availability of data to those 
+that rightfully need it. This will establish the rights of citizens to make decisions on the use of 
+data that concerns them. This in turn will lead to the creation of new services and innovations. 
+
+A key element will be the identification and availability of the data that concerns an individual. 
+Data that applies to an individual is identified by using identifiers provided by a trusted third-
+party or identifiers that the user has created. However, a combination of the two is not generally 
+possible or is at least very difficult. In addition, the use of a trusted third party is not possible in 
+many countries.  
+
+Actors: 
+
+The Ministry of Transport and Communications’ MyData network 
+
+• 
+•  Open Knowledge Finland 
+• 
+•  Sitra’s IHAN project 
+
+The joint metadata and information management (YTI) programme 
+
+ 
+ 
+ 
+
+ 
+
+45 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+The piloting of data providers: In what way can data be turned into a 
+product?  
+
+The management of MyData and sensitive data, as well as a business ecosystem for 
+distribution and utilisation that will be built around data, will form an entity that shows great 
+potential, but is at the same time very complex. Individuals, companies and society each have 
+their own angle: an individual can receive added value services, companies can gain new 
+business and society can provide access to better public services for citizens, services that will 
+target their personal needs. 
+
+Data provider activities and related business models require testing and piloting so that all 
+parties gain a better understanding of data and the business related to its operation as well as 
+of the benefits that the various parties will gain. 
+
+Data provider activities will be piloted at the turn of the year (2017/2018) as an extension of the 
+ISAACUS project via sensitive health data. The matter will be approached via the Act on 
+Criteria for Charges Payable and the objective will be to establish a limited liability company 
+coordinated by the public sector that provides high-speed departures. A limited company will 
+facilitate scaling via its subsidiaries in other sectors (including other regulated sectors) and the 
+involvement of business.  
+
+The data provider pilot includes the utilisation of the national architecture for digital services 
+(KaPa) and its interfaces, the application of artificial intelligence solutions in various trials, the 
+development of legislation and the determination of collaboration between various data 
+providers, as well as including interfaces between the different data providers.  
+
+Actors: 
+
+• 
+
+The Ministry of Social Affairs and Health, the Ministry of Transport and 
+Communications and other ministries 
+The Ministry of Finance and the Population Register Centre  
+
+• 
+•  Sitra 
+• 
+•  Open Knowledge Finland 
+
+Tekes 
+
+  
+
+3. We will speed up and simplify the adoption of 
+
+artificial intelligence  
+
+The rate of the development of artificial intelligence is currently very fast, and it utilisa-
+tion and development are based on experiments. It is therefore of paramount im-
+portance that companies have an efficient and fast way of joining the development of 
+artificial intelligence. Companies need help and tools that will facilitate the develop-
+
+46 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+ment and acceleration of innovation activities. Legislation on experiments, for in-
+stance, allows us to remove unnecessary obstacles and to speed up the application of 
+artificial intelligence.  
+
+Using the artificial intelligence accelerator to help us get started 
+
+Although, the tools and computational capacity needed for the application of artificial 
+intelligence are exceedingly easy to access, many companies lack the expertise to get started. 
+This will require a different approach than a traditional RDI project. 
+
+The artificial intelligence accelerator model makes it possible for a group of companies to test 
+the possibilities offered by artificial intelligence efficiently and to search for new artificial 
+intelligence-based solutions. The accelerator provides companies access to experts and 
+computational capacity, as well as providing access to the newest artificial intelligence tools. 
+Accelerators will be established, for example at research institutes that have adequate 
+resources and networks to organise these activities. An effective and agile financing 
+mechanism must be created to support the construction of accelerators and the activities that 
+take place there.  
+
+Additionally, an open development environment to support different types of platform economy 
+trials can also be built and developed in connection with the accelerator. 
+
+The operating model for the artificial intelligence accelerator:  
+
+•  Approximately 10–15 Finnish companies will provide (anonymous) data and funding to 
+
+• 
+
+an accelerator, which allows for the research of data.  
+Two to three Finnish universities or research actors (i.e. Aalto University, the University 
+of Helsinki and the University of Oulu in collaboration with the Analytics Plus 
+ecosystem: www.analytics.plus) will bring their research expertise. 
+
+•  An independent facilitator (such as the CSC – IT Center for Science) will bring an 
+
+information secured trial environment as well as computational and storage capacity. 
+
+•  Hackathon facilitators will support the utilisation of the accelerator environment in 
+
+various competitions and other challenges.  
+
+•  Smaller companies will come in to develop and utilise the accelerator environment. 
+•  Consultants will come in to help in the utilisation of the accelerator and trial 
+
+environment. 
+
+An open environment (open data, open interfaces, open source code, trials, challenge 
+competitions) will be built at the artificial intelligence accelerator, which will facilitate the 
+development of the Finnish open source platform as the piloting and utilisation platform for 
+artificial intelligence and data analysis algorithms. 
+
+The artificial intelligence accelerator pilot will be prepared by the end of 2017 and it will be 
+launched in early 2018. The objective is to build a limited number of internationally attractive 
+environments.  
+
+47 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Actors: 
+
+•  Companies (data/financing providers, users/developers, consultants) 
+•  Research organisations 
+•  CSC 
+Tekes 
+• 
+• 
+The VTT Technical Research Centre of Finland 
+
+  
+
+Areas of free intelligence create an environment for trials 
+
+The application of artificial intelligence in practice requires efficient piloting. Open piloting and 
+testing environments are also the basis for the development of ecosystems and facilitate the 
+reform of legislation and the utilisation of experimentation legislation. Open piloting and testing 
+environments are important to the startup and small and medium-sized company sectors (which 
+do not have the possibility of their own environments) and are also a part of Finland’s 
+attractiveness for foreign companies. Well-functioning piloting environments can also help in 
+forming international networks. 
+
+To form areas of free intelligence we need a simple and fast process for the implementation of 
+pilot areas and trials and for obtaining the required licences. Clear rules and processes must be 
+put in place for the operations and utilisation of these areas, which will ensure good usability. 
+The areas need to use infrastructures that support artificial intelligence as well as access to 
+technology reserves (such as cybersecurity, 5G, IoT).  
+
+Actors: 
+
+•  Research organisations 
+•  Ministries 
+•  Pilot companies 
+
+  
+
+ 
+
+ 
+
+48 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+4. We will ensure top-level expertise and attract 
+
+top experts 
+
+Competence is critical in how artificial intelligence can be used to build success and 
+competitiveness. Expertise in the areas of artificial intelligence technology and artifi-
+cial intelligence’s application will also be highlighted in the future. World-class exper-
+tise and top experts are of vital importance to Finland in its transition to the age of 
+artificial intelligence. Education and competence also create flexibility for the revolu-
+tion of work and society.  
+
+Creating a Centre of Excellence for artificial intelligence and applied 
+basic research 
+
+An international hub for artificial intelligence must be established in Finland. The hub must have 
+adequate resources as well as effective processes for cooperation with both national 
+stakeholders (companies and the public sector) and international stakeholders (research 
+partners and customers). The hub will become internationally prominent in areas in which 
+Finland has clear strengths and which have international appeal. 
+
+A virtual university that is specialised in artificial intelligence and the digital revolution must be 
+established within a Centre of Excellence, which will help Finland emerge as an interesting 
+destination for top experts. 
+
+In order for Finland to establish itself as a leading country in the application of artificial 
+intelligence, the public and private sectors must have good access to international top expertise 
+and result results. Application alone is not enough – the objective will also require Finland to 
+produce world-class research as a close-knit part of the international network. Finland’s 
+research resources are limited, and for this reason resources will have to be gathered both 
+virtually and physically in order for us to achieve a leading position. 
+
+Additionally, it must be ensured that research results can be effectively applied and their added 
+value can be made use of. This objective will be supported by efficient operating methods and 
+by monitoring impact in balance with the quality of research. The entity calls for joint 
+contributions from, for example, Tekes (Business Finland) and the Academy of Finland. It is 
+important to engage in a type of national level cooperation at the interface of applied basic 
+research as well as to contribute to cross-organisation focus areas and their research, and 
+experimentation infrastructures. 
+
+Actors: 
+
+• 
+• 
+
+The Ministry of Education and Culture 
+The Ministry of Economic Affairs and Employment 
+
+ 
+
+ 
+
+49 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Broad-scoped expertise in artificial intelligence and its application 
+
+All levels of education and the working age population must be given access to appropriate and 
+high-quality further training. One good example of such training is the national defence course 
+in artificial intelligence held this year (2017). It is always important to ensure the competence of 
+persons returning to the labour market, such as those who have been unemployed or at home 
+caring for their children, but with competence in the area of artificial intelligence the need is 
+emphasised even more.  
+
+Artificial intelligence will affect every single person in Finland. Finns must be guaranteed 
+artificial intelligence literacy (i.e. guaranteed a basic understanding of how things will function in 
+the age of artificial intelligence). In addition to members of the working-age population, the 
+elderly will also need these skills to cope in everyday life and to benefit from new opportunities. 
+Lifelong learning, which will become more natural and increasingly important, will take on new 
+forms, and the utilisation of artificial intelligence will only be one of the methods which will make 
+learning more personalised and motivating.  
+
+Finland's competitive advantages include a high standard of education and tech-friendly 
+attitudes, which have contributed to the development of business as well as of society. The high 
+standard and impact of the Finnish education system have clearly made Finnish education 
+stand out in international comparisons.19 A broad competence base creates a foundation for not 
+only the development of artificial intelligence but also for its application. This will also facilitate 
+the resilience to withstand the pressures for change created by artificial intelligence. It is not 
+enough that the part of the population involved in technology development is correctly educated 
+and trained. It is essential that people who hold jobs in which artificial intelligence must be 
+utilised understand the possibilities and limitations that artificial intelligence adds to work tasks. 
+
+Universities have a comprehensive range of studies on artificial intelligence methods available, 
+but these are predominantly only intended for students of technology and mathematics. The 
+absence of artificial intelligence studies20 in fields that apply it is a clear shortcoming that 
+universities must address immediately. The absence of applied studies is also evident in 
+universities of applied sciences and in vocational education and training. However, as stated in 
+the budget proposal, universities of applied sciences will be allocated five million euros for their 
+RDI activities. This appropriation should be used in a targeted way in cooperation with business 
+to create high added-value products and services, especially in the utilisation of artificial 
+intelligence, robotics and digitalisation applications in various sectors. 
+
+Providing high-quality teaching quickly will require the utilisation of new teaching methods. 
+Massive open online courses (MOOCs) are an example of a tool that could be used far more 
+often. These allow the creation of shared, high-quality study modules and they can be offered 
+extensively, for example as part of applied degree programmes. This will also open new 
+possibilities for the effective further education of people in the labour market.  
+
+                                                
+ 
+19 World Economic Forum, Global Competitiveness Report 2017–2018 
+20 See the survey summary in Appendix 3. 
+
+50 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Actors: 
+
+•  Universities 
+•  Universities of applied sciences 
+•  Comprehensive schools 
+•  Vocational education and training institutions 
+•  Adult education centres 
+
+We will work to attract international artificial intelligence experts to 
+Finland 
+
+Finland must be made an appealing alternative to international experts in artificial intelligence. 
+Appealing means that Finland has top expertise in the field of artificial intelligence (expertise 
+hubs: e.g. centres of excellence and flagship institutes) as well as piloting environments for the 
+testing of artificial intelligence solutions (such as artificial intelligence accelerators and free 
+intelligence areas). These both offer unique possibilities for the utilisation of data and open 
+interfaces for example, as well as for the development of open platforms and solutions. 
+Additionally, PPP cooperation between companies, public organisations and citizens will create 
+new opportunities that cannot be found elsewhere. 
+
+Attracting international artificial intelligence experts to Finland is possible when moving to 
+Finland is easy and the necessary services are available also here for the experts’ families; 
+these services include a sufficient number of international schools and day care centres as well 
+as employment opportunities for each expert’s partner. 
+
+In order to attract experts, Finland will carry out a campaign that is bold in both its message and 
+its other implementation, and corresponds with Finland’s image as a pioneer in the utilisation of 
+artificial intelligence. The target group will be consulted during the planning and implementation 
+of the campaign.  
+
+Actors: 
+
+• 
+
+• 
+• 
+
+The Finnish Immigration Service, the Ministry of Economic Affairs and Employment, 
+and Business Finland; a list of current measures will be drawn up  
+Talent Boost (tem.fi/talent-boost)  
+The Ministry of Education and Culture Talent Strategy 
+
+ 
+
+51 
+
+ 
+ 
+
+ 
+ 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+A Master of Artificial Intelligence degree will provide more expertise 
+
+A Master of Artificial Intelligence further education programme and degree programme are 
+being created. The programme will be modular and will be possible to complete while going to 
+work. It can also be applied to numerous fields, including healthcare and logistics. The studies 
+will be realised by using the experiences and best practices of pioneering companies and in 
+cooperation with the public sector. The changing needs and development of participants will be 
+the key premises of the programme. 
+
+One of the biggest challenges in the application of artificial intelligence has been how those 
+employees that utilise it in their work can be trained and how they acquire the new needed 
+skills. As artificial intelligence will alter tasks and processes, competence must be upgraded in 
+the same manner. 
+
+At the same time we are preparing a new model for the distribution of these training costs 
+between various actors, so that the programme could ensure the flexible upgrading of 
+competence as extensively as possible. 
+
+Actors: 
+
+The Ministry of Education and Culture 
+
+• 
+•  Companies that are making an effort to improve their utilisation of artificial intelligence 
+
+and have the desire to develop further education for their needs 
+
+•  Universities of applied sciences and universities of technology (working together) 
+
+5. We will make bold decisions and investments 
+
+If our resources are limited, they must be used exceptionally well. Finland’s resources 
+for the utilisation and application of artificial intelligence are marginal when compared 
+to the field's international contributions. In order to access resources for effective and 
+successful implementation, we must make bold investments in certain selected areas. 
+Contributions must be implemented efficiently, placing an emphasis on impact. 
+
+ 
+
+ 
+
+52 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Research and innovation funding that will support renewal  
+
+Artificial intelligence investments are subject to international competition, in which the 
+functionality of the innovation environment and innovation funding are key factors. Competing 
+countries are investing strongly in artificial intelligence expertise and research. With regard to 
+Finland, in order for the critical measures to be implemented adequate investments and 
+incentives must be available.  
+
+The competitiveness of the Finnish innovation system must be secured and its supporting 
+financing should support basic research, applied research and innovation activities equally. In 
+addition to this, financing should be strongly target-controlled and flexibly available. More 
+attention should be given to supporting the international cooperation of ecosystems. For 
+example, co-funding as part of EU funding must be guaranteed.  
+
+In order to ensure that the Finnish innovation environment’s resources and capabilities can 
+climb to a level where they have international impact, more renewal and contributions will be 
+required from basic research in the same areas as enterprise-driven innovation activities. 
+
+The fields of digitalisation and in particular artificial intelligence have highlighted the concept of 
+applied basic research: basic research (algorithms etc.) requires trials and experiments that can 
+also be transferred directly to companies for utilisation. In order to achieve international-level 
+impact, basic research joint contributions will be required from actors such as Tekes (in the 
+future Business Finland) and the Academy of Finland.  
+
+Tekes’ research and funding programme (in the future Business Finland) is one concrete 
+measure that can be used to promote the application of technologies, the development of new 
+business models and the utilisation of data in all its forms. The Academy of Finland must invest 
+in similar areas by contributing to the building and funding of expertise hubs that are most 
+focussed on basic research (such as flagships and centres of excellence). We will also need 
+joint contributions in research and testing infrastructures.  
+
+In order to achieve the best impact, the research and development activities of companies must 
+be linked to the Finnish research and innovation activity networks to ensure they work actively 
+and intensely in this network. The Finnish innovation system and its actors must be able to 
+actively connect with international top experts and expertise hubs. 
+
+In the short term, innovation funding should be targeted to the following themes in particular, 
+with €100 m as a permanent increase in innovation funding from 2019: 
+
+−  The application of artificial intelligence in different sectors and the development of 
+
+business expertise 
+
+−  Enterprise-driven ecosystems and strategic projects, the funding models for which will 
+
+make it possible for new actors to join flexibly. 
+
+In the long term Finland must renew its enterprise subsidy system so that it supports the 
+renewal of business and investments in competence and expertise (setting €100 m as the 
+permanent innovation funding level increase from 2020). Finland must also implement the 
+Research and Innovation Council’s guidelines in full, which will mean the creation of an effective 
+PPP instrument as well as changing the level of innovation funding back to 4% of the GDP. 
+
+53 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Additionally, we must guarantee the sufficiency of the so-called national co-funding for EU-
+funded Horizon 2020 projects. These measures are supported by an assessment by the OECD 
+on Finland’s research and innovation system. 
+
+Actors: 
+
+•  Various responsible ministries (the Ministry of Economic Affairs and Employment, the 
+
+• 
+
+Ministry of Education and Culture) 
+Tekes / Business Finland (an Artificial Intelligence, Data Economy and Platform 
+Economy programmes is currently under preparation) 
+The Academy of Finland (flagship search opened)  
+
+• 
+•  Companies and research organisations (business-driven ecosystems that utilise 
+
+artificial intelligence)  
+
+ 
+
+6. We will build the world’s best public services 
+
+Public administration is undergoing a reform. With the help of artificial intelligence, it 
+will become a service provider free of the confines of time and location. In the future, 
+citizens can receive services seamlessly in the language they need at the given time 
+in the same manner as companies. Succeeding in this objective will require that public 
+organisations are linked with artificial intelligence. In this way, digital services can 
+utilise the correct information at the correct time while always taking data protection 
+into account. 
+
+The citizen’s Aurora assistant 
+
+People need various services at different times, so it is also sensible to give people the 
+opportunity to utilise services at the time they most need these. Such a 24/7 digital service can 
+also help in eliminating unnecessary lines and telephone appointments with different services. 
+In addition, artificial intelligence applications will allow public administration to better anticipate 
+and provide resources for future service needs. 
+
+There are numerous examples in the private sector in which artificial intelligence has been 
+harnessed to serve people. One such harnessed servant is the smart phone. Apple’s Siri and 
+Samsung’s Bixby are personal servants which learn to serve you, the user, specifically. Why 
+wouldn’t the public sector do the same? 
+
+The management of the administration’s numerous service processes must be transferred to 
+artificial intelligence. One such example has already been introduced at the Finnish Immigration 
+Service, where phone calls were answered in all the required languages. Artificial intelligence 
+
+54 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+can be used to create a new type of servant for every public organisation. These servants 
+together form a robot network where customers are seen as a uniform unending chain. When a 
+customer’s service need arrives for any robot to process, it can be assessed and optimised in 
+real-time cooperation with robots from other organisations. 
+
+A plan is being drawn up for a national customer service robot network, the Aurora assistant. 
+The Finnish Immigration Service’s solution for immigrants will be used as the starting point for 
+the plan. First it will be determined what similar measures are currently underway in public 
+administration and these will then be added to the overall plan.  
+
+Actors: 
+
+• 
+• 
+
+The Ministry of Finance and other relevant ministries 
+The Finnish Immigration Service  
+
+  
+
+Various data must function together 
+
+The key requirement for digitalisation, robotisation and artificial intelligence is the data’s 
+technical and semantic (i.e. its meaning) interoperability. If the data does not travel or its 
+meaning is not clear, the age of artificial intelligence cannot be achieved. For this reason, it is 
+important to see to it that digital services can make use of the correct information at the correct 
+time and that it is of high quality, while taking data protection into account. 
+
+A neural network study will be launched as part of the Joint Metadata and Information 
+Management (YTI) programme. The study will look into the ability of artificial intelligence to 
+create the semantic interoperability of data in place of manual determination work and symbolic 
+modelling.  
+
+Additionally, the impacts of artificial intelligence on the act on information management currently 
+under preparation will be determined. 
+
+Actors: 
+
+• 
+• 
+
+The Ministry of Finance 
+The Population Register Centre 
+
+ 
+
+ 
+
+ 
+
+55 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+7. We will establish new cooperation models 
+
+In order for it to be possible to apply and utilise artificial intelligence in a large scope, we 
+will need cooperation and new types of partnerships. Especially cooperation between 
+the public and private sectors will be critical. Well-functioning partnerships will make it 
+possible for us to eliminate unnecessary legislative obstacles from the path of artificial 
+intelligence development and minimise the effects of the work revolution. 
+
+A new age of PPP cooperation 
+
+The classic dualistic division between the public and private sectors will no longer work if we 
+want to solve the difficult problems of our time. Public administration’s structure, division of 
+power and resources will no longer be able to respond to changing global problems. 
+
+The world must be viewed and understood multidimensionally. This will only be possible by 
+developing solutions for cooperation between different sectors. Cooperation will be needed 
+between the private and public sectors as well as with individual people. If public administration 
+was previously seen as only a provider of public services, from now on it will act in an active 
+role in broad-scoped ecosystems.  
+
+In addition to a new age of PPP cooperation, public sector reform will also be needed. In order 
+for them to succeed, the public sector’s reforms will need a strong vision of the possibilities that 
+digitalisation can offer. Although investments have been made in digital expertise and in 
+enabling data infrastructure, coordination is not always at an adequate level and measures lack 
+sharpness. The first pilot and trials on the application of artificial intelligence in central 
+government have been initiated. In order to move forward quickly and in order to be successful 
+at the utilisation of artificial intelligence and other possibilities related to digitalisation, the 
+government must invest purposefully in expertise and its development, and the application of 
+new operating models in central government. 
+
+The status of the public sector as a trendsetter in the application of artificial intelligence and 
+digitalisation will be guaranteed by employing a team of top experts in artificial intelligence and 
+digitalisation directly under the Prime Minister in order to spur on the government and 
+ministries. The team will be equipped with the necessary powers, adequate resources and the 
+right to apply the no-legacy policy in the adoption of facilitators of artificial intelligence and 
+related digitalisation in central government. This work will also aim to ensure the adoption of the 
+public sector’s new cooperation models, so that the necessary decisions will be made and 
+measures can be initiated in accordance with the age of artificial intelligence clock frequency. 
+
+In the short term, the operating capacity of an Ecosystem Forum will be strengthened in order to 
+speed up the utilisation of artificial intelligence. A cross-sectoral artificial intelligence network 
+will be launched. This network will share and distribute lessons and competence on the 
+utilisation and application of artificial intelligence, as well as on its best practices.  
+
+56 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Actors: 
+
+The Prime Minister's Office (Ecosystem Forum) 
+
+• 
+•  Other ministries and agencies 
+•  Businesses 
+•  Organisations 
+•  Research organisations 
+
+8. We will make Finland a trendsetter in the age 
+
+of artificial intelligence 
+
+Finland has every possibility of becoming a trendsetter in in the age of artificial intelli-
+gence. In order to succeed, we must be active in international development and raise 
+our profile by emphasising our strengths.  
+
+Finland is in the driver's seat in drawing up a European agenda for 
+artificial intelligence 
+
+The European artificial intelligence agenda is only just forming. Finland must actively influence 
+the commission’s work programme because the ethical codes and operating methods related to 
+artificial intelligence are only just being formed. 
+
+We are actively making an effort to influence the EU and other international forums on matters 
+related to the direction in which the development of artificial intelligence and digital economy 
+should be steered, and their rules. We will use our activities and examples (artificial intelligence 
+accelerators, open solutions and platforms, free intelligence areas, artificial intelligence centres 
+of excellence, artificial intelligence in public administration, the application of the new PPP 
+schemes etc.) to create a model which will recognised and accepted as pioneering.  
+
+Finland must aggressively productise and market its strengths in the areas of digital 
+infrastructure (artificial intelligence and Suomi.fi services) and ecosystem structure. In addition 
+to this, we should work on making Finnish top expertise known in various networks and 
+institutions.  
+
+Actors: 
+
+• 
+• 
+
+Finland's ministries (EU policy positions) 
+Team Finland / the Ministry for Foreign Affairs 
+
+ 
+
+ 
+
+ 
+
+57 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Follow-up questions on the road to the age of 
+artificial intelligence 
+
+In additions to the recommended measures (i.e. the eight key actions listed above), 
+there are still many subject areas for which recommended measures are only just 
+being prepared. Our primary objective is to form a broad-based consensus on the 
+possibilities that artificial intelligence has brought to Finland. In addition, it is a good 
+idea to create a cross-party social policy strategy which aims to bring about a good 
+artificial intelligence society. The strategy would be based on the active renewal of 
+societal and labour market structures, ensuring that the positive impacts of artificial 
+intelligence are realised in Finland. Discussion on the following topics has begun and 
+work will continue.  
+
+The labour market and unemployment security in the age of artificial 
+intelligence 
+
+The prerequisite for the broad-based utilisation of artificial intelligence is that the population for 
+the most part has a command of the skills and knowledge needed for its application. The 
+requirements for the age of artificial intelligence should be visible in study content throughout 
+the entire education system. At the moment, it is believed that the importance of skills related to 
+social intelligence will grow.  
+
+The social security system must function flawlessly as people’s working careers become 
+diversified. Transitions between paid labour and entrepreneurship should be more flexible. 
+Earnings level insurances misfortune allows for risk-taking in the broad sense. On the other 
+hand, comprehensive earnings security insurance inevitably involves incentive problems. The 
+long-term objective should be to increase the inventiveness of both social and unemployment 
+security and improve the strengths related to these. 
+
+Professions and job descriptions are going through a more intense level of transformation than 
+previously due to artificial intelligence. This change will also apply to jobs with good salaries. 
+When taking part in labour market activities, one needs to be prepared for this and see to it that 
+the application of artificial intelligence and improved productivity are not hindered with 
+inappropriate limitations.  
+
+Actors: 
+
+• 
+
+Labour market regulation / Ministry of Economic Affairs and Employment and labour 
+unions 
+
+•  Social security / Ministry of Social Affairs and Health and labour market organisations 
+•  Collective agreements / employer and employee unions 
+
+ 
+
+ 
+
+58 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+The age of artificial intelligence will bridge from work to work 
+
+If labour market changes accelerate and job rotation speeds up these will require functioning 
+recruitment and a credible upgrading of the labour force’s skills. Artificial intelligence will bring 
+about improvement to employment services: job offers can now be better matched with the 
+worker’s competence profile. Issues related to regional and professional mobility are likely to 
+become increasingly important.  
+
+A study will be launched on how training and education programmes for the working-age 
+population can be made more flexible and how it could better respond the needs of the labour 
+market during the age of artificial intelligence.  
+
+Actors: 
+
+•  Employment services and growth service reform / Ministry of Economic Affairs and 
+
+• 
+• 
+
+Employment and regions 
+Improving regional mobility / Central government and municipalities (zoning) 
+The level of competence of the working-age population / Ministry of Education and 
+Culture, Ministry of Economic Affairs and Employment, labour market organisations 
+
+Ethical questions related to artificial intelligence 
+
+Can a machine learn morals? When making decisions, what are the values artificial intelligence 
+should base these on? What types of tasks are machines suited for? The application of artificial 
+intelligence includes broad-scoped perspectives on the ethics related to the utilisation of 
+technology. Ethical issues can rarely be resolved completely, but the different viewpoints 
+related to them can be examined; these can be discussed and they can be taken into account 
+when developing artificial intelligence solutions and when applying artificial intelligence 
+expertise. 
+
+We will launch public discussion on the subject area both at events and online. We will submit 
+the needed reports as work progresses and encourage others to carry out research in the area. 
+
+Actors: 
+
+•  Ministry of Economic Affairs and Employment, Prime Minister’s Office 
+
+ 
+
+59 
+
+ 
+
+ 
+
+ 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Coordination of digitalisation 
+
+The responsibility for the promotion of digitalisation and its various areas will be distributed to a 
+vast amount of actors in the public sector. When planning the administration’s reforms, attention 
+should also be drawn to the interoperability of digital services on different levels of 
+administration. This will require expertise and investments. New cooperation models must also 
+be developed and adopted in the public sector, so that the needed decisions are made and 
+measures are launched according to the clock frequency of the age of artificial intelligence. 
+
+Actors: 
+
+•  All ministries 
+• 
+•  Municipalities 
+
+Future counties 
+
+ 
+
+Overall security 
+
+Artificial intelligence apps will influence the security of society in multiple ways. Artificial 
+intelligence apps will change service structures, platforms and many other dimensions of 
+security. The impact on society’s operational reliability will also be significant in the digital age, 
+as will citizens’ trust in authorities and one another. The impacts of artificial intelligence on 
+security are related to ethical questions and on what type of ownership structures the developed 
+applications will have. Are actors small and agile when platforms are open and development 
+solutions are accessible to many, or are they monopolies dominated by a few actors? These 
+questions must be examined as part of the development of artificial intelligence and the related 
+measures. 
+
+60 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+4  How will work in the field of 
+
+artificial intelligence continue? 
+
+From the very beginning of the preparation of the artificial intelligence programme, it 
+has been clear that wisdom does not exist in one committee, discussion club or work-
+ing group alone. For this reason the Artificial Intelligence Programme Steering Group 
+invited a host of helpers to join it in its work from the time work started. Three sub-
+groups were established to support the work of the steering group: 
+
+•  Expertise and Innovations: Chairman Mika Vehviläinen, Cargotec 
+•  Data and Platform Economy: Chairman Kimmo Alkio, Tieto 
+•  Transformation of Society and Work: Chairman Osmo Soininvaara 
+
+In total 64 experts and professionals took part in the work. Additionally, the DigiNYT 
+secretariat and chairman Olli-Pekka Heinonen contributed to the part of the pro-
+gramme that applies to the public sector. Additionally a number many times larger than 
+this took part in workshops. 
+
+Join the conversation! 
+
+Finland's journey to the age of artificial intelligence is only just beginning, and the net-
+works which will be needed for this are large and international. The work will progress 
+to the implementation stage in the following manner: networks will be created for each 
+topic area or work will be completed together with existing networks and expertise 
+hubs (such as Airo Island ry.) or with institutions of higher education and research insti-
+tutes. A separate network is already being created for the healthcare sector artificial 
+intelligence apps and a similar discussion is being held in the energy sector.  
+Sign up to existing and newly forming networks at the tekoalyaika.fi website. 
+Information on planned open workshops is available on the same website.  
+
+ 
+
+61 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Online workshops and courses 
+
+Networks for professionals and developers will not suffice when the development at 
+hand will reach into our daily lives, our work and our future. Every person has the right 
+to state an opinion on the development of artificial intelligence and robotics. We invite 
+all citizens to take part in the discussion of what the more widespread use of artificial 
+intelligence and robotics will mean for us, what we expect from it and what we would 
+like to see decision-makers to specifically focus on. The first online workshop will open 
+on the tekoälyaika.fi website on the same day this interim report is published. As the 
+programme progresses we will organise events and campaigns all around Finland 
+which will bring artificial intelligence and robotics closer to people’s daily lives. 
+
+The application of artificial intelligence among other world leaders means that we are 
+ready to adopt new alternatives in all our tasks and in all sectors. The 53rd specialised 
+national defense course, with the theme “The significance of artificial intelligence for 
+security”, will act as a trendsetter. The next in line will be the permanent secretaries of 
+ministers and ministries. Artificial intelligence is part of the training programme for the 
+highest-ranking civil servants, organised by Sitra, the Finnish Innovation Fund. There-
+fore, measures have already been taken. 
+
+Follow the programme’s progress 
+
+Gauges and indicators will be built to help determine the progress of the programme. 
+Everyone will be able to monitor its progress and press the accelerator at times when 
+the programme’s pace seems to lag. The intermediate targets and measures will be 
+updated in a flexible manner along the way. Gauge and indicator work will be carried out 
+by actors such as ETLA and Sitra. The programme will engage in close cooperation with 
+national anticipation activities and, when necessary, it will act as the meeting point for 
+the anticipation of the artificial intelligence and robotics theme. 
+
+The final report is to be completed in 2019 
+
+The steering group will submit the final report on the progress of the programme in 
+April 2019. This will by no means mean that the realisation of the programme will end 
+at this time, but rather it means that the steering group will hand over the baton to the 
+networks that are building the age of artificial intelligence.  
+
+Until then, the programme will be overseen and reported on by the steering group. The 
+group’s members are: 
+
+ 
+
+ 
+
+62 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Mr Pekka Ala-Pietilä, Chairman of the Board, Huhtamaki Oyj 
+
+ Ilona Lundström, Unit Head of the Ministry of Economic Affairs 
+and Employment 
+
+Ilkka Kivimäki, equity investor 
+Jyrki Nurmi, Senior Vice President, Valmet Automotive Oyj 
+Merja Fischer, Director, Staria Oyj  
+Jukka Ryhänen, Managing Director, Finland Combient Ab 
+Sonja Ängeslevä, Product Developer, Unity Technologies Oy 
+Samuel Kaski, Academy Professor, Aalto University 
+Antti Vasara, Managing Director, VTT Technical Research  
+Centre of Finland Oy 
+Taina Kulmala, Head of Unit, Prime Minister's Office  
+ 
+Tapio Virkkunen, Development Director, Ministry of Economic 
+Affairs and Employment  
+Kalle Kantola, Research Director, VTT Technical Research  
+Centre of Finland 
+Mika Klemettinen, Programme Manager, Tekes 
+Olli Koski, Director, Ministry of Economic Affairs and  
+Employment 
+Aleksi Kopponen, Senior Specialist, Ministry of Finance 
+Lasse Laitinen, Specialist, Ministry of Economic Affairs and  
+Employment 
+
+Chair  
+ 
+Deputy chair  
+
+ 
+Members 
+                  
+                             
+          
+         
+                 
+
+Secretariat          
+
+              
+
+         
+
+ 
+
+ 
+
+63 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Appendix 1: What is artificial intelligence? 
+
+ 
+
+This is no one definitive definition for artificial intelligence. It is a collection of various 
+different technologies. When speaking about the application of artificial intelligence, it 
+is not necessary to give a too specific definition but rather an appropriate one. In this 
+report, artificial intelligence refers to devices, software and systems that are able to 
+learn and to make decisions in almost the same manner as people. Artificial intelli-
+gence allows machines, devices, software, systems and services to function in a sen-
+sible way according to the task and situation at hand. 
+
+The characteristics of artificial intelligence can be described with the help of the follow-
+ing image:  
+
+ 
+
+In order for a software, a machine or a system to be able to function in a sensible 
+manner according to a given task or situation, it must be able to adapt to and under-
+stand numerous different situations. In practice, this means learnability i.e. the capacity 
+to learn, because not all situations can be programmed in advance unless the applica-
+tion area is very limited in scope. In practice, recent breakthroughs in artificial intelli-
+gence have followed learning, where e.g. deep neural network algorithms have opened 
+up new application areas for artificial intelligence. 
+
+The vast scope of performance i.e. how broadly can artificial intelligence be applied 
+in different areas. The more broad-scoped the task given to artificial intelligence is, the 
+more performance capacity and learnability it is required to possess. In practice, artifi-
+cial intelligence can perform even better than humans in many narrow sectors such as 
+translation, but the same artificial intelligence cannot fare well in other tasks, such as 
+driving a vehicle, while a human can perform both of these tasks without issue. A re-
+
+64 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+quest for a general artificial intelligence is common. This refers to a human-like artificial 
+intelligence that can be utilised to perform a large scope of varying tasks. We are still a 
+long way off from this scenario, but at the same time, artificial intelligence is applied to 
+increasingly broad-scoped areas. 
+
+Autonomy i.e. how much artificial intelligence must be taught in advance in order for it 
+to be solve a specific problem and how much artificial intelligence is able to inde-
+pendently determine the problem that requires a solutions and to produce the required 
+solution capability. Even in the case of present day artificial intelligence which is capa-
+ble of learning, the problem is typically predetermined by determining the materials 
+from which artificial intelligence will learn. 
+
+With regard to the development and application of artificial intelligence, it can be said 
+that there is a great deal of hype surrounding artificial intelligence while on the other 
+hand artificial intelligence apps are becoming a part of daily life at a rapid pace. Alt-
+hough the application of artificial intelligence is fast, we should be critical of the more 
+fantastical future visions and threat scenarios. We are still a long way off from these 
+even though development is swift and we have gotten quite far in narrow areas of ap-
+plication. 
+
+65 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Appendix 2: Definition of ecosystem 
+
+ 
+
+Ecosystem is a widely used concept. This report will utilise the definition of ecosystem 
+given by Tekes i.e. Business Finland in its strategy work. Ecosystems are divided into 
+three entities:  
+
+•  Business ecosystem: A system that creates value with symbiotic solu-
+
+tion entities formed by various actors (companies, research organisations 
+and individuals), which id organised around a central idea, actor or plat-
+form (often digital) to create value for both its customers and the ecosys-
+tem's different parties. Coordination is carried out on the basis of the 
+common strategic vision. The advantage of a business ecosystem for 
+traditional activities is for example in its ability to utilise different capabili-
+ties and technologies on a needs basis, which facilitates the fast devel-
+opment of business activities and allows actors to react to necessary 
+changes.  
+Innovation ecosystem In order to achieve a sustainable competitive ad-
+vantage, a business ecosystem needs an innovation ecosystem to pro-
+vide support in the development and commercialisation of new solutions. 
+An innovation ecosystem is often built around numerous ideas and needs 
+and is able dynamically make use of a very broad network (companies, 
+research organisations and individuals) in addition to the network's core 
+actors. Innovation ecosystems also involve a larger risk than business 
+ecosystems and an innovation ecosystem is often a starting point for the 
+development of a new business ecosystem. 
+
+• 
+
+•  Digital platform ecosystem: In most cases, business and innovation 
+
+ecosystems are organised on digital platforms. These refer to IT systems 
+and shared operating principles related to these, which different actors 
+(users, providers and other stakeholders across organisational bounda-
+ries) use to together realise activities that will bring added value. Digital 
+platform ecosystems are part of a larger group of ecosystems, which is 
+strongly defined by a new resource: digital information, data, as well as 
+technologies that aim to refine it, in particular software and automation. 
+Digital platforms facilitate the accumulation of data (e.g. customer behav-
+iour and transactions that have taken place on the platform) and in this 
+way the creation of new business models specifically for the needs of 
+new customer groups, in which case platforms will act as a complex mar-
+ket. It is typical for these markets that the mechanisms for creating value 
+are continuously developed as data accumulates. The advantage 
+achieved in the pursuit for this complexity and dominant market position 
+as a control point for accumulated data and also the core of platform 
+economy productivity. 
+
+66 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Appendix 3: Current state of artificial intelligence 
+education 
+
+ 
+
+According to a survey on the status and scope of artificial intelligence education creat-
+ed for Finnish universities, universities of applied sciences as well as vocational train-
+ing, it can be said that Finland has a great amount of education and training in the are-
+as of artificial intelligence technologies (e.g. machine learning, deep neural networks 
+and machine vision) and AI supporting technologies (e.g. analytics and data pro-
+cessing) available. This is especially the case at universities of technology and de-
+partments of computer sciences at universities. There are also some studies available 
+that focus on the ethics and history of artificial intelligence.  
+
+On the other hand, there are clearly fewer educational and training options available on 
+the application of artificial intelligence and for preparing people for the changes this will 
+cause. There are voluntary artificial intelligence basic studies available that students in 
+the application area can complete, but these studies are not systematic in nature. This 
+is a clear shortcoming, as the area in which the application of artificial intelligence will 
+be fastest will include just the various expert positions, and it would be preferable if 
+these people in particular were provided the basics on artificial intelligence and other 
+technologies that will change and transform work tasks in the future. The lack of ap-
+plied education is also evident in vocational education and training, which is also one 
+of the areas in which AI will likely change work tasks in the future. 
+
+ 
+ 
+ 
+ 
+ 
+
+67 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+Appendix 4: Citizens' opinions 
+
+ 
+
+A survey titled "How will we make Finland the leading country in the application of arti-
+ficial intelligence was open to the public on the otakantaa.fi website until 22 September 
+2017. Otakantaa.fi is a website that facilitates interaction and discussion between citi-
+zens, organisations and authorities and improves participation. A total of 46 answers 
+were submitted via the website to the survey's seven questions.  
+
+The responses were of high quality and the respondents clearly had both expertise and 
+views on the subject. The responses concerned the different themes related to artificial 
+intelligence such as work on the programme. In the area of proposals for measures, a 
+majority of the responses focused on education, research and expertise. Interesting 
+points presented in the responses have been added to this appendix. The texts that 
+are in cursive are direct quotes from the responses. The bolded texts have been added 
+afterwards. 
+
+It is noteworthy that artificial intelli-
+gence is already here e.g. in various 
+control and alarm systems The en-
+coders of these systems must already 
+make at least morally undefined, per-
+haps even illegal solutions as the nec-
+essary legislation is completely miss-
+ing. A stand must also be taken on the 
+moral regulation of artificial intelli-
+gence systems; can a fire alarm sys-
+tem be allowed to lie to residents on 
+lower floors telling them there is no 
+reason for worry at the same time as 
+floors higher up are being evacuated 
+in order to prevent a rush and possible 
+injuries resulting from a crush. 
+
+Lastly, I feel that on a larger scale 
+people's understanding of artificial 
+intelligence is inconsistent. It is not 
+uncommon for a purchase order to 
+state "one artificial intelligence, 
+please". Artificial intelligence also 
+shows in places where it does not 
+actually exist - hardcoded software 
+
+than mimics humans is not artificial intel-
+ligence. Perhaps it would be important 
+from a societal perspective to clarify the 
+content and differences of essential terms 
+such as artificial intelligence, machine 
+learning, robots, etc. so that the subject 
+area could be discussed without running 
+into misunderstandings. 
+
+Artificial intelligence and technology de-
+velopment in general will probably elimi-
+nate a large part of the jobs in the next 10 
+to 30 years. There is a threat of large-
+scale unemployment and income be-
+ing centralised to technologies owners, 
+possibly to foreign ones. Finland has the 
+opportunity to submit a solution to 
+this threat which concerns numerous 
+developed countries. 
+
+Many repetitive work tasks in administra-
+tion and support functions will be auto-
+mated and many manual analysis & ad-
+justment tasks will be replaced by "ro-
+bots". However, at least for the foresee-
+
+68 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+able future, the number of work 
+tasks in these sectors will not de-
+cline because this is merely a matter 
+of adopting unutilised resources (in-
+cluding the Big Data) and, on the other 
+hand, tasks that will be robotised will 
+still require more specific instructions 
+and teaching from human workers for 
+quite some time. 
+
+Assumption: Finland will not be able 
+to compete in particular with Amer-
+ican and Chinese technology giants 
+as a creator of artificial intelligence 
+platforms except at best in some 
+niche areas, because giant corpora-
+tions possess enormous data masses. 
+
+Therefore, Finland must focus on the 
+innovative utilisation of platforms. In 
+practice, this could mean focusing on 
+the development of artificial intelli-
+gence applications in areas where 
+Finland is otherwise internationally 
+successful. For example, forestry, 
+biotechnology, social services and 
+health care 
+
+Finland is only an applier of artificial 
+intelligence products that does not 
+have its own platform economy capa-
+bilities. Platform economy capability 
+will require 1-2 new software univer-
+sities in addition those that current-
+ly exist as well as a national unit for 
+strategical digital management un-
+der the Prime Minister's Office.  
+
+The greatest risk is posed by allow-
+ing large corporations (Google, 
+IBM, Microsoft, etc.), who are ag-
+gressively dominating the artificial 
+intelligence market at the moment to 
+get hold of nationally vital data 
+
+(health, shopping data, etc.) providing 
+slapdash solutions developed on the ba-
+sis of this data that have not been tailored 
+to our needs. 
+
+Artificial intelligence does not function 
+in the air, but needs infrastructure and 
+a well-functioning ecosystem around it 
+E.g. Self-driving trucks. Who will mainte-
+nance? Who will retrieve them "when 
+artificial intelligence gets stuck"? 
+
+It should be noted that artificial intelli-
+gence applications will allow a worker 
+with a lower level of education will be 
+able to perform jobs previously carried 
+out by people with higher-level educa-
+tions (e.g., a nurse can use an app to 
+carry out a doctor's work). Especially, 
+the public sector and health care will uti-
+lise this opportunity in an aggressive 
+manner. 
+
+For example, even though we are cur-
+rently experiencing a nationwide short-
+age of skilled workers in the software 
+industry, based on my experience in 
+the field most workers will still have to 
+carry out very many trivial work tasks. 
+Artificial intelligence could help us find 
+solutions to our expert shortage, when we 
+free up this large brain power to cogni-
+tively more demanding tasks. 
+
+It is not worthwhile for Finland to only 
+develop artificial intelligence nationally; 
+instead it should do so in close coopera-
+tion with e.g. the United States, other 
+EU Member States and Japan. 
+
+Starting the related university educa-
+tion now will yield results at earliest 10 
+years from now. This is much too long a 
+time. This will require the involvement of 
+
+69 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 47/2017 
+
+ 
+
+companies - people must be able to 
+complete artificial intelligence MBAs, 
+Bachelor's degrees and theses while 
+they work. 
+
+Artificial Fintelligence innovation 
+programme (three years, a minimum 
+of 5 MEUR /year) 
+
+To draw up clear targets for effi-
+ciency improvements e.g. replace 
+30% of the public sector labour force 
+with artificial intelligence over a period 
+of 15 years. 
+
+Finland must ensure that both higher 
+education and selections made during 
+internal product development at com-
+panies emphasise the implementation 
+of artificial intelligence solutions, by 
+using open source computational plat-
+forms and libraries (TensorFlow, 
+Torch, DyNet, Keras...), instead of 
+purchasing packaged solutions (IBM 
+Watson...). In this way, Finland will 
+come to have real experts whose 
+competence will also remain relevant 
+in the future will come, in the same 
+way as investing in programming 
+education instead of learning how 
+to use Excel was necessary for the 
+creation of the software industry. 
+
+Startups in which the Government is a 
+part-owner. All current enterprise sub-
+sidies will be eliminated and the funds 
+in question will be used for establish-
+ing startups. There are no doubt people 
+interested in founding a startup, if they 
+had access to the initial capital needed 
+for the realisation of their idea. 
+
+Finland could become the world's 
+leading startup fund (cf. the Norwegian 
+oil fund). 
+
+It is particularly important to understand 
+that experts in the field will be required to 
+have greater expertise than at present 
+specifically in the core areas of artificial 
+intelligence, machine learning, statistical 
+modelling and algorithmics -- the de-
+mand cannot be covered by adding 
+software industry or computational 
+science education, and especially not 
+with retraining and upgrading of qualifica-
+tions. 
+
+However, development programmes are 
+often fragmented and internal market 
+focused. Artificial intelligence knows 
+no limits. Projects should focus on glob-
+ally scalable issues, the platform econo-
+my, e-Government and education. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+70 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 41/2017. 
+
+ 
+
+Appendix 5: Assignment and activities of the 
+Artificial Intelligence Programme Steering Group 
+ 
+
+The purpose of the Artificial Intelligence Programme 18 May 2017 
+On 18 May 2017, Minister of Economic Affairs Mika Lintilä appointed Pekka Ala-
+Pietilä to head a steering group tasked with preparing a proposal for Finland's Artificial 
+Intelligence Programme. According to the decision to appoint the group, the purpose 
+of the Artificial Intelligence Programme is to establish artificial and robotics as the 
+cornerstones for the success of Finnish companies. Finland's objective is to be the 
+best country in the world at applying artificial intelligence. 
+
+The Artificial Intelligence Programme Steering Group has been assigned the following 
+list of tasks: 
+
+1.  To generate a snapshot of the current status and prospects for arti-
+
+ficial intelligence and robotics around the world and in Finland. 
+
+2.  To propose a goal state, which Finland should strive to achieve in 
+the application of artificial intelligence in collaboration with compa-
+nies, research institutes, educational institutions and public organi-
+sations. 
+
+3.  To enter a proposal on measures the implementation of which are 
+necessary in order to achieve the stated objectives. Special atten-
+tion must be given to the field's innovation activities, preparedness 
+for changes to working life, the addition of education and upgrading 
+the qualifications of those in the labour market. 
+
+4.  To draw up a model for the implementation of the plan that will en-
+
+sure the efficient realisation of the operational programme 
+
+5.  To prepare a proposal for the expansion of the working group's task 
+
+description and composition, so as to allow it to develop the 
+measures necessary for the promotion of artificial intelligence in the 
+long-term and analyses the more broad-scoped societal change re-
+lated to digitalisation and provides proposals for solutions to the 
+Government. 
+
+Work 
+The steering group has met five times thus far. In addition to this the group's secretar-
+iat and chairs have met multiple times during the programme term. The members of 
+the steering group have appeared in numerous different forums to talk about the 
+preparation of the programme and its objectives. Close-knit preparation work has also 
+been carried out in sub-groups. Experts were also consulted during the work. As part 
+
+ 
+ 
+
+71 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 41/2017. 
+
+ 
+
+of the preparation of the programme, an open preparation workshop was organised. A 
+total of 72 experts from different sectors took part. The realisation of the programme 
+will continue in close cooperation with various stakeholders and the network will be 
+expanded during the realisation of the programme. 
+
+Publication of interim report  
+This report was published in Finnish on 23 October 2017 at Finlandia Hall at the ”Su-
+omi ja tekoäly alustatalouden aikakaudella” (“Finland and AI in the age of platform 
+economy”) event where the Digital platform economy roadmap was also published. 
+The programme's website is tekoälyaika.fi. 
+
+Sub networks 
+Starting from the second half of the programme work thus far, three sub-groups have 
+worked under the Steering Group (see above How will work in the field of artificial 
+intelligence continue?).  
+
+Expertise and Innovations 
+ 
+Mika Vehviläinen, chair 
+Heikki Mäkijärvi 
+Sauli Eloranta 
+Riikka Heikinheimo 
+Anita Lehikoinen 
+Minna Aila 
+Samuel Kaski 
+Ilkka Kivimäki 
+Merja Fischer 
+Kalle Kantola 
+
+Data and the Platform Economy 
+
+Kimmo Alkio, chair 
+Harri Valpola 
+Harri Nummela  
+Johannes Koponen 
+Jukka Viitanen 
+Leena Niemistö   
+Ville Peltola                          
+Taru Rastas                                         
+Aleksi Kopponen   
+Hannu Hämäläinen 
+Pekka Sivonen   
+
+ 
+ 
+
+72 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 41/2017. 
+
+ 
+
+Sasu Tarkoma  
+Antti Vasara   
+Jukka Ryhänen               
+Mika Klemettinen 
+
+Transformation of Society and Work 
+
+Osmo Soininvaara, chair 
+Lauri Ihalainen 
+Mika Maliranta 
+Ville Kyrki 
+Tuomo Alasoini 
+Anu Järvensivu 
+Seija Ilmakunnas 
+Mikko Kosonen 
+Mika Kuismanen 
+Vesa Vuorenkoski 
+Juha Antila 
+Antti Koivula 
+Tuulia Hakola-Uusitalo 
+Taina Kulmala 
+Merja Fischer 
+Penna Urrila 
+Niilo Hakonen 
+Leila Kurki 
+Kai Husso 
+Kari Rintanen 
+Susanna Siitonen 
+Olli Koski 
+
+Additionally, the secretariat of the group led by Olli-Pekka Heinonen tasked with moni-
+toring the Government programme digitalisation objective and the public administra-
+tion's ICT development (DigiNYT) has contributed to the portion of the report concern-
+ing the public sector. 
+
+Pekka Ala-Pietilä 
+Timo Ali-Vehmas 
+Antti Eskola 
+Juha Haataja 
+Kimmo Hyrsky 
+Hannu Hämäläinen 
+Jouni Kangasniemi 
+
+ 
+ 
+
+73 
+
+PUBLICATIONS OF THE MINISTRY OF ECONOMIC AFFAIRS AND EMPLOYMENT 41/2017. 
+
+ 
+
+Nina Nissilä 
+Antti Kivelä 
+Mika Klemettinen 
+Aleksi Kopponen 
+Ville Peltola 
+Petri Takala 
+Riikka Pellikka 
+Janne Viskari 
+Taru Rastas 
+Uski Suvi 
+Vesa Silfver 
+
+ 
+ 
+
+74 
+
+Finland’s  Age of Artificial Intelligence 
+
+Turning Finland into a leading country in the 
+
+application of artificial intelligence 
+
+Objective and recommendations for measures
+
+ISSN 1797-3562 (verkkojulkaisu) 
+
+ISBN 978-952-327-290-3
+
+julkaisut.valtioneuvosto.fi
+
+

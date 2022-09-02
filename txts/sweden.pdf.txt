@@ -1,0 +1,717 @@
+National approach to  
+artificial intelligence
+
+Illustrations: Itziar Castany Ramirez
+Production: Ministry of Enterprise and Innovation
+Article no: N2018.36
+
+Contents
+
+National approach to artificial intelligence 
+
+Education and training 
+
+Research 
+
+Innovation and use 
+
+Framework and infrastructure 
+
+4 
+
+6
+
+7
+
+8
+
+10
+
+National approach to  
+artificial intelligence
+
+Sweden aims to be the world le-
+ader in harnessing the opportuni-
+ties offered by digital transforma-
+tion. By international standards, 
+Sweden is in the vanguard. Many 
+countries have high ambitions 
+for their digital development and 
+Sweden must work hard to ad-
+vance and strengthen its efforts. 
+If Sweden succeeds, there will 
+be considerable scope to develop 
+Swedish competitiveness and wel-
+fare. One rapidly evolving field 
+of digital technology is artifici-
+al intelligence (AI).1 AI is a broad 
+field that encompasses many tech-
+nologies, not least machine lear-
+ning and deep learning. What 
+distinguishes AI from other auto-
+mation methods is the ability of 
+AI technology to learn and beco-
+me smarter over time. 
+
+Against this background, the Go-
+vernment has identified the need 
+to develop a national approach 
+to AI in Sweden. The purpose of 
+this document is to identify an 
+overall direction for AI-related 
+work in Sweden and lay the foun-
+dation for future priorities. 
+
+AI has the potential to contribu-
+te significant benefits in a variety 
+of areas through increased econo-
+mic growth, and solutions to en-
+vironmental and social challeng-
+es. According to some studies, the 
+use of AI has great potential to 
+increase economic growth.2 Ex-
+amples of the contributions that 
+AI can make are already evident: 
+AI can help to better identify di-
+seases, lower energy consumption, 
+reduce traffic accidents, create 
+
+ 1There is no one single, clear-cut or generally accepted definition of artificial intelligence, but many definitions. In 
+
+general, however, AI refers to intelligence demonstrated by machines. Vinnova (Sweden’s innovation agency) (2018) 
+
+(Artificiell intelligens i svenskt näringsliv och samhälle. (Artificial intelligence in Swedish business and society). Inte-
+
+rim report 12 February 2018, Reg. no 2017-05616. 
+
+2 Vinnova (Sweden’s innovation agency) (2018) Artificiell intelligens i svenskt näringsliv och samhälle. (Artificial intelli-
+
+gence in Swedish business and society). Interim report 12 February 2018, Reg. no 2017-05616.
+
+4       National approach to artificial intelligence
+
+new services, streamline industrial 
+production, develop new pharma-
+ceutical products and shorten pro-
+cessing times. 
+
+Although AI is rapidly evolving, 
+this does not mean that the be-
+nefits of AI will automatically 
+be realised in Sweden. For AI to 
+best contribute to strengthened 
+Swedish competitiveness and en-
+hanced welfare, Sweden must cre-
+ate the enabling conditions.
+
+It is important that Sweden can 
+manage the challenges associated 
+with AI. AI will affect how people 
+work, when some tasks can be au-
+tomated and new tasks emerge. 
+There may be unintended or unfo-
+reseen consequences of using AI 
+as a result of biased or manipula-
+ted data, lack of transparency, mi-
+suse or hostile use. This may lead 
+to discrimination, loss of trust, fi-
+nancial damage and consequences 
+for the functioning of democracy. 
+For these reasons, it is important 
+for Sweden to work actively on the 
+issues that AI is already raising.
+
+The countries that succeed in har-
+nessing and realising the benefits 
+of AI while managing the risks in 
+a responsible manner will have a 
+great competitive advantage inter-
+nationally. Furthermore, AI has 
+considerable potential to contri-
+bute to a more effective and re-
+levant public sector. This is why 
+the Government’s goal is to make 
+Sweden a leader in harnessing 
+the opportunities that the use of 
+AI can offer, with the aim of st-
+rengthening Sweden’s welfare and 
+competitiveness. 
+
+The goal is closely linked to the 
+digital transformation goal adop-
+ted by the Riksdag and comple-
+ments the Government’s Digital 
+Strategy. 
+
+Key conditions for realising  
+the potential of AI
+For Swedish society to realise the 
+potential of AI, a number of con-
+ditions play a particularly impor-
+tant role. These conditions are 
+summarised in Figure 1.
+
+Sweden needs to develop its long-
+term supply of knowledge and ex-
+pertise in the field of AI if it wants 
+to reap the benefits of AI. The 
+need for relevant knowledge of AI 
+must be met through education 
+and training, continuing educa-
+tion and research. Innovation and 
+use initiatives are also needed to 
+promote early application projects. 
+Sweden also needs to ensure access 
+to data and infrastructure, such as 
+computational capacity, in addition 
+to appropriate national, European 
+and international frameworks. 
+
+” The Government’s goal 
+is to make Sweden a  
+leader in harnessing the 
+opportunities that the 
+use of AI can offer, with 
+the aim of strengthening 
+Sweden’s welfare and 
+competitiveness.”
+
+The active promotion of AI app-
+lications in public sector activi-
+ties can play a significant role in 
+how the public sector succeeds in 
+responding to major social chal-
+lenges of the future. Public stake-
+holders should therefore actively 
+support AI applications by ma-
+king relevant data available and 
+creating national digital infra-
+structure, taking security and in-
+tegrity issues into account. 
+
+A cross-cutting theme should be 
+sustainable AI, meaning that AI 
+applications should be ethical, 
+safe, secure, reliable and trans-
+parent. This applies in particu-
+lar to critical systems and systems 
+that may affect the physical world, 
+
+Figure 1. Key conditions for use of AI in Sweden.
+
+Education  
+and training
+
+Research
+
+Innovation and use
+
+Framework and infrastructure
+
+such as self-driving vehicles or  
+AI applications in health care. In 
+AI applications, ethical, safety  
+and security considerations can-
+not be an afterthought; they must 
+be an integral part of the early  
+design stage.  
+
+If Sweden can strengthen these 
+conditions, it will be well placed 
+to offer an internationally att-
+ractive working environment for 
+business, researchers and others 
+interested in AI research, develop-
+ment and use. 
+
+The purpose of this national app-
+roach is to identify some of the 
+most important conditions for 
+societal stakeholders to mana-
+ge together in relation to AI. For 
+Sweden to reap the benefits of AI, 
+all sectors of society must be in-
+volved; this is not an issue that the 
+state, municipalities, county coun-
+cils, academia or private compa-
+nies can deal with on their own. 
+
+National approach to artificial intelligence       5
+
+Education and training
+
+The Government’s assessment is that
+
+• 
+
+• 
+
+• 
+
+Swedish higher education institutions need to provide a sufficient 
+number of people with AI education and training, particularly in 
+continuing and further education for professionals with a university 
+degree or equivalent. 
+
+Sweden needs a strong AI component in non-technical programmes 
+to create the conditions for broad and responsible application of the 
+technology. 
+
+Sweden needs a strong link between research, higher education and 
+innovation in the field of AI.
+
+It is essential that a sufficient 
+number of people have the skills 
+required to develop and use AI 
+technology if the whole of Sweden 
+is to benefit from AI. AI know-
+ledge and expertise must be av-
+ailable throughout society – in 
+large and small businesses, in mu-
+nicipalities, county councils and 
+government agencies. Using the 
+same broad approach, Sweden 
+also needs to enhance cyber se-
+curity expertise. Today, there is a 
+shortage of people with AI exper-
+tise both in Sweden and around 
+the world, resulting in stiff inter-
+national competition for qualified 
+people. As the use of AI increa-
+ses, the shortage of expertise is 
+likely to become more and more 
+tangible. If broader use of AI is 
+to become a reality, it is essential 
+that Sweden educates and trains a 
+sufficient number of people in the 
+field. 
+
+Sweden’s higher education institu-
+tions are already developing their 
+educational offer to meet the di-
+gital challenge. Engineering pro-
+
+grammes in particular are highly 
+relevant in this initial phase of 
+work. However, the many uses of 
+AI justify a wider interdisciplina-
+ry perspective on the program-
+mes that are included. Interdis-
+ciplinary knowledge is crucial in 
+ensuring ethical, safe, secure and 
+sustainable use of AI. Relevant AI 
+knowledge is not only essential 
+for technical experts but also for 
+leaders, managers and other pro-
+fessionals who interact with tech-
+nology.
+
+The rapid development of AI cre-
+ates an increased need for lifelong 
+learning. Opportunities for rele-
+vant continuing and further edu-
+cation for practising professionals 
+are therefore necessary. According 
+to Vinnova’s (Sweden’s innovation 
+agency) assessments, there is a par-
+ticularly large need, in the short 
+term, for continuing and further 
+AI education for people with a 
+university degree. Closer colla-
+boration between several societal 
+actors is needed to address this. 
+
+6       National approach to artificial intelligence
+
+Increasingly rapid technological 
+and societal development will re-
+quire a very strong relationship 
+between research, higher educa-
+tion and innovation in AI.  
+
+Research
+
+The Government’s assessment is that
+
+• 
+
+• 
+
+• 
+
+• 
+
+Sweden needs both strong basic research and strong applied resear-
+ch in AI to ensure knowledge and skills supply in the field.
+
+Sweden needs strong relations with leading international AI research 
+environments.
+
+Sweden needs strong collaboration between business, the public 
+sector and research in AI.
+
+Sweden needs to exploit the synergies between civil research and 
+defence research from a total defence perspective.
+
+Strong research in AI is essential 
+for Sweden to realise the oppor-
+tunities the technology creates. 
+Strong basic research creates new 
+knowledge that applied research 
+can build on to solve specific pro-
+blems, for example. It is impor-
+tant that both basic research and 
+applied research, closely linked to-
+gether, are conducted in Sweden 
+to strengthen Swedish skills supp-
+ly and competitiveness.
+
+AI and machine learning research 
+is technologically advanced and 
+specialised, and increasingly in-
+volves multiple disciplines. Inter-
+nationally, major investments are 
+being made in AI research,  
+especially in the United States and 
+China. In Sweden, a large share 
+of the central government rese-
+arch appropriations goes to basic 
+research that is related in vary-
+ing degrees to AI, such as compu-
+ter science and mathematics, and 
+primarily conducted at the tech-
+nology-focused higher education 
+institutions. In November 2017, 
+the Knut and Alice Wallenberg 
+
+Foundation (KAW) also announ-
+ced that it would donate SEK 1 
+billion to AI research. This repre-
+sents a significant contribution to 
+Swedish research in this field.
+
+al opportunities for coordination 
+between civil research and defen-
+ce research, including cybersecu-
+rity and autonomous systems, that 
+should be seized.
+
+Most of the world’s leading AI 
+research is conducted beyond 
+Sweden’s borders. If Sweden is 
+to be at the forefront of AI rese-
+arch, it is important to maintain 
+and develop cooperation with 
+research environments in other 
+countries. The EU plays a major 
+role in Swedish research, not least 
+through the EU Framework Pro-
+gramme for Research and Inno-
+vation. 
+
+Both the public and private se-
+ctors are very interested in har-
+nessing and commercialising new 
+research findings on AI. Inno-
+vative AI research will be able to 
+contribute to exports, enhanced 
+public services and new jobs. At 
+the same time, it is important that 
+AI systems are carefully designed 
+to prevent them from doing harm. 
+It is therefore important that com-
+panies and public institutions 
+collaborate with relevant acade-
+mic environments, for example 
+through joint projects or staff ex-
+changes. It is also important to 
+promote the development of AI 
+by linking it to the skills availa-
+ble in Sweden around large-scale 
+computations with high-perfor-
+mance computing.
+
+AI is also a growing field in de-
+fence research. There are potenti-
+
+National approach to artificial intelligence       7
+
+Innovation and use
+
+The Government’s assessment is that
+
+• 
+
+• 
+
+• 
+
+Sweden needs pilot projects, testbeds and environments for deve-
+lopment of AI applications in the public and private sectors, that can 
+contribute to the use of AI evolving in a safe, secure and responsible 
+manner.  
+
+Sweden needs to continue to develop efforts to prevent and manage 
+the risks associated with AI. 
+
+Sweden needs to develop partnerships and collaborations on the use 
+of AI applications with other countries, especially within the EU.
+
+The opportunities that AI offers 
+only create value when the techno-
+logy is widely used in the private 
+and public sectors. Companies in 
+all industries could develop their 
+competitiveness with the help of 
+AI. Most companies will also need 
+to decide on their approach to AI 
+as its impact on businesses and in-
+dustries will be profound. There is 
+great potential in the public sector 
+to develop activities and public ser-
+vices in the citizens’ interest with 
+the help of AI. It is therefore in 
+Sweden’s interest to stimulate inno-
+vative applications and use of AI in 
+society in various ways. 
+
+Pilot projects, testbeds and other 
+specialised testing environments 
+are among the tools that may be 
+important in accelerating the in-
+troduction of new AI technology 
+in an ethical, safe, secure and sus-
+tainable manner. Through pro-
+jects to develop new AI applica-
+tions, research findings can be put 
+to practical use, adapted to real 
+conditions, evaluated and made 
+more widely available. 
+
+AI also entails risks. These may in-
+clude new types of intelligent cy-
+ber-attacks or manipulated data that 
+can have serious consequences. AI 
+may also lower the thresholds for 
+attacks against democratic practices 
+such as through disinformation. 
+
+The risks associated with AI are 
+not only technical but also ethi-
+cal, particularly with regard to 
+applications in the public sector. 
+The use of AI algorithms must be 
+transparent and comprehensible. 
+The use of AI requires account 
+to be taken of moral and legal iss-
+ues, and presents challenges rela-
+ted to rule of law procedures and 
+the automation of agency deci-
+sions. A widely discussed ethical 
+issue is how an autonomous ve-
+hicle should reason and act if, in 
+an emergency, it is forced to choo-
+se between two outcomes, both of 
+which mean that people might be 
+injured. Sweden can take the lead 
+in ethical, safe, secure and sustai-
+nable use of AI by actively wor-
+king on this issue nationally and 
+promoting it internationally. 
+
+The potential benefits of AI can 
+be enormous in both the pri-
+vate and public sector, even if it is 
+difficult to quantify them today. 
+Public sector innovation projects 
+where AI tools are adapted and 
+used, and where skills enhance-
+ment takes place, can have a signi-
+ficant impact on the effectiveness 
+and quality of activities. 
+
+Sweden’s public sector has an al-
+most unique volume of high qu-
+ality data, which is often a prere-
+quisite for AI applications and if 
+properly managed can contribute 
+to creating considerable benefits. 
+Examples of AI applications are 
+already emerging from governme-
+nt agencies, county councils and 
+municipalities. There can therefore 
+be added value in harnessing these 
+new opportunities for developing 
+and providing public services in 
+different parts of the public sector.
+
+Sweden is a small country with 
+a small domestic market. At the 
+same time, many countries are in-
+vesting heavily in AI. Sweden will 
+
+8       National approach to artificial intelligence
+
+therefore need to develop part-
+nerships with prominent players 
+in other countries. In this context, 
+the EU is an important arena. 
+However, international coopera-
+tion must consider national secu-
+rity interests and the division of 
+competences between the EU and 
+its Member States.
+
+National approach to artificial intelligence       9
+
+Framework and infrastructure
+
+The Government’s assessment is that
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Sweden needs to develop rules, standards, norms and ethical  
+principles to guide ethical and sustainable AI and the use of AI. 
+
+Sweden needs to push for Swedish and international standards and 
+regulations that promote the use of AI and prevent risks. 
+
+Sweden needs to continuously review the need for digital  
+infrastructure to harness the opportunities that AI can provide.
+
+Sweden needs to continue the work on making data available to  
+serve as infrastructure for AI use in areas where it adds value. 
+
+Sweden needs to continue to play an active role in the EU’s efforts 
+to promote digitisation and reap the benefits that the use of AI can 
+bring. 
+
+In light of the societal transforma-
+tion that AI entails, it is important 
+to work for a coherent and strate-
+gic AI policy that aims to create 
+a safe, secure and favourable cli-
+mate for digitisation and harnes-
+sing the opportunities of AI. The 
+development and use of AI need 
+to be guided by norms and ethi-
+cal principles aimed at harnessing 
+the benefits while minimising the 
+risks to both society and individu-
+als. This is not only a matter for 
+researchers and engineers but for 
+a wide range of professions. 
+
+Access to data is the lifeblood of 
+AI and a crucial part of the in-
+frastructure. As societies become 
+increasingly digital, a growing vo-
+lume of data is available in digital 
+form. This includes manually and 
+automatically collected data, such 
+as data from sensors. Extensive 
+efforts are often required to pro-
+
+duce usable data. Risks may arise 
+in the form of incorrect or other-
+wise undesirable outcomes if data 
+is of low quality, for example as a 
+result of registration errors, sys-
+tematic (intentional and uninten-
+tional) errors in data collection, 
+source selection or data label-
+ling. Appropriate frameworks of 
+principles, norms, standards and 
+rules are therefore important pre-
+requisites if Sweden is to realise 
+the benefits of AI in society. Such 
+frameworks must balance funda-
+mental needs for privacy, ethics, 
+trust and social protection with 
+access to the data needed to reali-
+se the potential of AI. 
+
+Regulatory frameworks at Euro-
+pean and international level, for 
+example cross-border data trans-
+fer rules, are also important. The 
+EU’s General Data Protection 
+Regulation (GDPR),3 which app-
+
+3Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of  
+
+natural persons with regard to the processing of personal data and on the free movement of such data, and repea-
+
+ling Directive 95/46/EC (General Data Protection Regulation).
+
+10       National approach to artificial intelligence
+
+lies from 25 May 2018, provides 
+strong privacy protection in per-
+sonal data processing and for this 
+reason is an important part of the 
+AI framework. How different sta-
+keholders are able to implement 
+the GDPR in their respective acti-
+vities will play a major role in how 
+well Sweden is able to manage 
+both the benefits and risks of AI.
+
+In such a rapidly evolving field 
+of technology as AI, guidelines 
+and standards will be needed at 
+an early stage to guide both pri-
+vate and public stakeholders. AI 
+standards have the potential to 
+promote technical, semantic, legal 
+and other forms of interoperabili-
+ty both within and between com-
+panies and public institutions, and 
+to contribute to greater clarity for 
+users and consumers. 
+
+Different types of infrastructure 
+are also important for the deve-
+lopment and use of AI. For ex-
+ample, certain parts of AI deve-
+lopment require access to large 
+volumes of data and extensive 
+
+computational capacity. Sweden’s 
+supercomputer resources at 
+Swedish higher education institu-
+tions that are collected under the 
+Swedish National Infrastructure 
+for Computing (SNIC) are an im-
+portant resource in this context. 
+
+Many of the regulatory fra-
+meworks and guidelines that 
+Sweden must take into account 
+come from the EU. If Sweden is 
+to be able to benefit from initiati-
+ves taken within EU frameworks, 
+it is important that structures and 
+expertise are in place. Sweden the-
+refore needs to take part in the Eu-
+ropean AI debate and play an ac-
+tive role in EU efforts to reap the 
+benefits that use of AI can bring. 
+
+National approach to artificial intelligence       11
+
+Government Offices, Sweden
+Switchboard: +46 8-405 10 00
+Streetaddress: Ministry of Enterprise and Innovation, 
+Mäster Samuelsgatan 70, Stockholm
+www.government.se
+
+
